@@ -1,0 +1,3 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9987,AVwcqC0WIN2L1WUfnb8Z,"Italian Restaurant,Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Bethel,RU,"USD,RUB,BTC","Tomato sauce, fresh mozzarella, chopped organic greens, red onion, basil, balsamic, evoo",Pizza Insalata,Rizzuto's Wood-Fired Pizza Kitchen & Bar,25,40,CT,1,1,1
+9988,AVwcqC0WIN2L1WUfnb8Z,"Italian Restaurant,Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Bethel,RU,"USD,RUB,BTC",Ricotta and mozzarella cheeses with roasted garlic,White Pizza,Rizzuto's Wood-Fired Pizza Kitchen & Bar,25,40,CT,1,1,1

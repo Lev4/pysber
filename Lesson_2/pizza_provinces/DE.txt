@@ -1,0 +1,20 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9677,AVwdZ7MkByjofQCxoxEc,Pizza Place,Accommodation & Food Services,Lewes,RU,"USD,RUB,BTC",,Pizza of The Month,Mr Ps Pizza,0,25,DE,7,7,7
+9678,AVwdZ7MkByjofQCxoxEc,Pizza Place,Accommodation & Food Services,Lewes,RU,"USD,RUB,BTC",,Pizza Steak Sub,Mr Ps Pizza,0,25,DE,7,7,7
+9679,AVwdZ7MkByjofQCxoxEc,Pizza Place,Accommodation & Food Services,Lewes,RU,"USD,RUB,BTC",,Pizza of the Month,Mr Ps Pizza,0,25,DE,7,7,7
+9680,AVwdZ7MkByjofQCxoxEc,Pizza Place,Accommodation & Food Services,Lewes,RU,"USD,RUB,BTC",,Gluten Free Pizza,Mr Ps Pizza,0,25,DE,7,7,7
+9681,AVwdZ7MkByjofQCxoxEc,Pizza Place,Accommodation & Food Services,Lewes,RU,"USD,RUB,BTC",,Pizza Bianca,Mr Ps Pizza,0,25,DE,7,7,7
+9682,AVwdZ7MkByjofQCxoxEc,Pizza Place,Accommodation & Food Services,Lewes,RU,"USD,RUB,BTC",,Pepperoni 'N Cheese Pizza Logs,Mr Ps Pizza,0,25,DE,7,7,7
+9683,AV4u14OK3-Khe5l_R76g,Pizza Place,Accommodation & Food Services,Selbyville,RU,"USD,RUB,BTC",,Homemade Pizza Sub,Billys Subs and Pizza,0,25,DE,7,7,7
+9684,AV4u14OK3-Khe5l_R76g,Pizza Place,Accommodation & Food Services,Selbyville,RU,"USD,RUB,BTC",,Pizza By the Slice,Billys Subs and Pizza,0,25,DE,7,7,7
+9685,AV4u14OK3-Khe5l_R76g,Pizza Place,Accommodation & Food Services,Selbyville,RU,"USD,RUB,BTC",,Vegetarian Pizza,Billys Subs and Pizza,0,25,DE,7,7,7
+9686,AV4u14OK3-Khe5l_R76g,Pizza Place,Accommodation & Food Services,Selbyville,RU,"USD,RUB,BTC",,Buffalo Chicken Pizza,Billys Subs and Pizza,0,25,DE,7,7,7
+9687,AVwc4eL_IN2L1WUfp65K,Pizza Place,Accommodation & Food Services,Newark,RU,"USD,RUB,BTC",,Sicilian Cheese Pizza,Marios Pizza,0,25,DE,7,7,7
+9688,AVwc4eL_IN2L1WUfp65K,Pizza Place,Accommodation & Food Services,Newark,RU,"USD,RUB,BTC",,Sicilian Special Pizza,Marios Pizza,0,25,DE,7,7,7
+9689,AVwdPFAtByjofQCxm8jB,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Millsboro,RU,"USD,RUB,BTC",,Pizza Burger,Pizza King,0,25,DE,7,7,7
+9690,AVwdPFAtByjofQCxm8jB,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Millsboro,RU,"USD,RUB,BTC",,Pizzaburger,Pizza King,0,25,DE,7,7,7
+9691,AVwdPFAtByjofQCxm8jB,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Millsboro,RU,"USD,RUB,BTC",,Pizza Steak,Pizza King,0,25,DE,7,7,7
+9692,AVwdNadt_7pvs4fz3bcr,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Middletown,RU,"USD,RUB,BTC",,Shrimp Pizza,Pats Pizza,0,25,DE,7,7,7
+9693,AVwdS0qNkufWRAb54Ywm,Pizza Place,Accommodation & Food Services,Wilmington,RU,"USD,RUB,BTC",,Special Pizza,Pat's Pizza Bistro,0,25,DE,7,7,7
+9694,AVwdS0qNkufWRAb54Ywm,Pizza Place,Accommodation & Food Services,Wilmington,RU,"USD,RUB,BTC",,Greek White Pizza,Pat's Pizza Bistro,0,25,DE,7,7,7
+9695,AVwc0yM5IN2L1WUfpTwF,Pizza Place,Accommodation & Food Services,Newark,RU,"USD,RUB,BTC",,Four Cheese Pizza,Pat's Pizza Family Restaurant (Pat'sPFR),0,25,DE,7,7,7

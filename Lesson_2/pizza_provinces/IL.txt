@@ -1,0 +1,382 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9296,AVwctrN8ByjofQCxhXcc,Pizza Place,Accommodation & Food Services,Belleville,RU,"USD,RUB","We top our crust with our alfredo sauce and layer on chicken, mushrooms, bacon, onions, and diced fresh tomatoes.",Alfredo Pizza,Papa Vitos Pizza,0,25,IL,111,111,111
+9297,AVwctrN8ByjofQCxhXcc,Pizza Place,Accommodation & Food Services,Belleville,RU,"USD,RUB",,Pizza Rolls,Papa Vitos Pizza,0,25,IL,111,111,111
+9298,AVzsxs4MLD2H7whiX1yU,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Waterloo,RU,"USD,RUB",,Cheese Pizza,Papa Vito's Pizza,0,25,IL,111,111,111
+9299,AVwc_nqo_7pvs4fz1JOb,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,"Pizza, Pop, Salad, Bread and Butter",Traversos Pizza Restaurant,0,25,IL,111,111,111
+9300,AVwdd50i_7pvs4fz6MRM,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Daily Special Gourmet Margherita Pizza,Lonnies Pizzeria,0,25,IL,111,111,111
+9301,AVwcrTax_7pvs4fzxwrx,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Hoffman Estates,RU,"USD,RUB",Homemade,Pizza Pocket,Sir Nicks Pizza,0,25,IL,111,111,111
+9302,AVwcnyOs_7pvs4fzxKQG,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pan Cheese Pizza,Lucky Vitos Pizzeria,25,40,IL,111,111,111
+9303,AVwcnyOs_7pvs4fzxKQG,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Half and Half Pan Cheese Pizza,Lucky Vitos Pizzeria,25,40,IL,111,111,111
+9304,AVwcnyOs_7pvs4fzxKQG,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Half and Half Stuffed Cheese Pizza,Lucky Vitos Pizzeria,25,40,IL,111,111,111
+9305,AV1tfliP3-Khe5l_OkJX,"Restaurant,Pizza Place",Accommodation & Food Services,Saint Charles,RU,"USD,RUB",,"Individual 6"" Cheese Stuffed Deep Dish Pizza",Giordanos,0,25,IL,111,111,111
+9306,AV1tfliP3-Khe5l_OkJX,"Restaurant,Pizza Place",Accommodation & Food Services,Saint Charles,RU,"USD,RUB",,"Individual 6"" Pepperoni Stuffed Deep Dish Pizza",Giordanos,0,25,IL,111,111,111
+9307,AVwcp4QyIN2L1WUfnaTP,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza,Petes Pizzeria 2,0,25,IL,111,111,111
+9308,AVwcj4olByjofQCxfn-e,"Bar,Pub, Pizza Place, and Bar,Pizza Place,Pub",Accommodation & Food Services,Wauconda,RU,"USD,RUB",,The Jj Twig or Mexican Pizza,JJ Twigs Pizza Pub,0,25,IL,111,111,111
+9309,AV47MjhF3-Khe5l_ShDZ,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Fairview Heights,RU,"USD,RUB",,Cheesy Pizza Sticks,Johnnys Pizza Pasta,0,25,IL,111,111,111
+9310,AV47MjhF3-Khe5l_ShDZ,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Fairview Heights,RU,"USD,RUB",,Blt Pizza,Johnnys Pizza Pasta,0,25,IL,111,111,111
+9311,AVwdCcNNkufWRAb51psq,"Pizza,Restaurant,Pizza Restaurants,Pizza Place,Pizza Place Park West,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,14ampquot Deluxe Sicilian Pizza,Cafe Luigi,0,25,IL,111,111,111
+9312,AVwdCcNNkufWRAb51psq,"Pizza,Restaurant,Pizza Restaurants,Pizza Place,Pizza Place Park West,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",Fresh tomato mushrooms onion green peppers spinach ans olives,Vegetarian Stuffed Pizza Slice,Cafe Luigi,0,25,IL,111,111,111
+9313,AVwdCcNNkufWRAb51psq,"Pizza,Restaurant,Pizza Restaurants,Pizza Place,Pizza Place Park West,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Cheese Pizza Slice,Cafe Luigi,0,25,IL,111,111,111
+9314,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Jack's Empire Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9315,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB","Bacon, onion, sausage and BBQ sauce.",Western Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9316,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Chicken Club Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9317,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",Add additional toppings as desired.,Thin Crust Cheese Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9318,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB","Italian sausage, mushroom, onion and green pepper.",Favorite 4 Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9319,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Vegetarian Classic Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9320,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Hand Tossed Pizza With 4 Toppings,Jacks Pizza Burgers,0,25,IL,111,111,111
+9321,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB","Refried beans, taco meat, lettuce, tomato, cheddar and mozzarella.",Taco Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9322,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Jack's Meat Lovers Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9323,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB","Seasoned chicken, bacon, onion and tomato.",Chicken Club Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9324,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Taco Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9325,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,"2 for 1 Special 16"" Pizza",Jacks Pizza Burgers,0,25,IL,111,111,111
+9326,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Favorite 4 Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9327,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Thin Crust Cheese Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9328,AVwdTE7KkufWRAb54bmr,Pizza Place,Accommodation & Food Services,Waukegan,RU,"USD,RUB",,Blt Pizza,Jacks Pizza Burgers,0,25,IL,111,111,111
+9329,AVwcnTT_ByjofQCxgQFd,"American Restaurant,Pizza Place",Accommodation & Food Services,Downers Grove,RU,"USD,RUB",,Sterling Pan Pizza,Skuddlebutts Pizza,0,25,IL,111,111,111
+9330,AVwdZfztIN2L1WUfvZpQ,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Des Plaines,RU,"USD,RUB",,Romano's Vegetable Pizza,Romanos,25,40,IL,111,111,111
+9331,AVwdxydqkufWRAb59Ky_,"Restaurant,Bar,Funeral Home,Pizza Place, Bar, and Funeral Home,Pizza Place,Pizza Place and Bar",Accommodation & Food Services,Evergreen Park,RU,"USD,RUB",,Taco Pizza,Durbins,25,40,IL,111,111,111
+9332,AVwdxydqkufWRAb59Ky_,"Restaurant,Bar,Funeral Home,Pizza Place, Bar, and Funeral Home,Pizza Place,Pizza Place and Bar",Accommodation & Food Services,Evergreen Park,RU,"USD,RUB",,Pizza Bread,Durbins,25,40,IL,111,111,111
+9333,AVwdbvAU_7pvs4fz52dn,Pizza Place,Accommodation & Food Services,Elk Grove Village,RU,"USD,RUB","Creamy alfredo sauce, chicken, sauteed spinach and sun dried tomatoes (served on a double dough crust)",Gourmet White Pizza,Rosatis Pizza,0,25,IL,111,111,111
+9334,AVzA8-D8LD2H7whiWHID,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Bloomington,RU,"USD,RUB",,Primo Pizza Burger,Avantis,0,25,IL,111,111,111
+9335,AVzA8-D8LD2H7whiWHID,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Bloomington,RU,"USD,RUB",,Pizza Bread,Avantis,0,25,IL,111,111,111
+9336,AVweeqmt_7pvs4fzDXxs,Pizza Place,Accommodation & Food Services,Homewood,RU,"USD,RUB",,For Stuffed Pizza,Mama Me Pizzeria,0,25,IL,111,111,111
+9337,AVweeqmt_7pvs4fzDXxs,Pizza Place,Accommodation & Food Services,Homewood,RU,"USD,RUB",Add to above pan prices,For Stuffed Pizza,Mama Me Pizzeria,0,25,IL,111,111,111
+9338,AVweeqmt_7pvs4fzDXxs,Pizza Place,Accommodation & Food Services,Homewood,RU,"USD,RUB",,Mama's Pizzaz,Mama Me Pizzeria,0,25,IL,111,111,111
+9339,AVwdNqoe_7pvs4fz3d6I,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,Pizza By The Slice,Beggars Pizza,0,25,IL,111,111,111
+9340,AVwdNqoe_7pvs4fz3d6I,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Orland Park,RU,"USD,RUB",Thin crust pizza layered with sweet baby ray39s BBQ sauce and chunks of chicken topped with mozzarella cheese,Sweet Baby Ray39s BBQ Chicken Pizza,Beggars Pizza,0,25,IL,111,111,111
+9341,AVwdNqoe_7pvs4fz3d6I,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,Taco Pizza,Beggars Pizza,0,25,IL,111,111,111
+9342,AVwd5RdCIN2L1WUf0JyS,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Yorkville,RU,"USD,RUB","Creamy alfredo sauce, chicken, sauteed spinach and sun dried tomatoes (served on a double dough crust)",Gourmet White Pizza,Rosatis Pizza,0,25,IL,111,111,111
+9343,AVwd5RdCIN2L1WUf0JyS,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Yorkville,RU,"USD,RUB",,Gluten Free Pizza,Rosatis Pizza,0,25,IL,111,111,111
+9344,AVwd5RdCIN2L1WUf0JyS,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Yorkville,RU,"USD,RUB",,Kiddie Pizza,Rosatis Pizza,0,25,IL,111,111,111
+9345,AVwcqZbQIN2L1WUfnf2k,"Pizza,Carry-out food,Pizza Place,Restaurants",Accommodation & Food Services,Champaign,RU,"USD,RUB",,Any Large Specialty Pizza,Papa Johns Pizza,0,25,IL,111,111,111
+9346,AVwda7sL_7pvs4fz5tm_,Pizza Place,Accommodation & Food Services,Downers Grove,RU,"USD,RUB","With mushrooms, pepperoni, onions or green peppers",Pizza Bread,Mrs Ts Pizza Pub,0,25,IL,111,111,111
+9347,AVwda7sL_7pvs4fz5tm_,Pizza Place,Accommodation & Food Services,Downers Grove,RU,"USD,RUB",,Pizza Puff,Mrs Ts Pizza Pub,0,25,IL,111,111,111
+9348,AVwdd6bTIN2L1WUfwHTX,"Restaurant,Pizza Place",Accommodation & Food Services,Skokie,RU,"USD,RUB",,BYO Pizza Side Salad and Drink,Pie Five Pizza Co,0,25,IL,111,111,111
+9349,AVwdd6bTIN2L1WUfwHTX,"Restaurant,Pizza Place",Accommodation & Food Services,Skokie,RU,"USD,RUB",Made with 100 whole milk mozzarella,Kid39s Pizza,Pie Five Pizza Co,0,25,IL,111,111,111
+9350,AVwdd6bTIN2L1WUfwHTX,"Restaurant,Pizza Place",Accommodation & Food Services,Skokie,RU,"USD,RUB",,Signature Pizza Breadstix and Drink,Pie Five Pizza Co,0,25,IL,111,111,111
+9351,AVwdd6bTIN2L1WUfwHTX,"Restaurant,Pizza Place",Accommodation & Food Services,Skokie,RU,"USD,RUB",,Signature Pizza Side Salad and Drink,Pie Five Pizza Co,0,25,IL,111,111,111
+9352,AVwdd6bTIN2L1WUfwHTX,"Restaurant,Pizza Place",Accommodation & Food Services,Skokie,RU,"USD,RUB",,Signature Pizza Dessert and Drink,Pie Five Pizza Co,0,25,IL,111,111,111
+9353,AVwcw3al_7pvs4fzytCI,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Chicago Style Stuffed Pizza with Cheese,Amatos Pizza More,0,25,IL,111,111,111
+9354,AVwcw3al_7pvs4fzytCI,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Chicago Style Stuffed Pizza With Cheese,Amatos Pizza More,0,25,IL,111,111,111
+9355,AVwcw3al_7pvs4fzytCI,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Chicago Style Stuffed Pizza with Cheese,Amatos Pizza More,0,25,IL,111,111,111
+9356,AVwcw3al_7pvs4fzytCI,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Pan Pizza with Cheese,Amatos Pizza More,0,25,IL,111,111,111
+9357,AVwcw3al_7pvs4fzytCI,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Pan Pizza with Cheese,Amatos Pizza More,0,25,IL,111,111,111
+9358,AVwdY89-ByjofQCxom_a,Pizza Place,Accommodation & Food Services,Des Plaines,RU,"USD,RUB",,Gigio's Thick Dough Pizza,Gigios Pizzeria,0,25,IL,111,111,111
+9359,AVz-txUqFcQ3k02bDl7W,"Pizza,Italian Restaurant,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Porcini Pizza,Bongiornos Italian Deli Pizzeria,0,25,IL,111,111,111
+9360,AVz-txUqFcQ3k02bDl7W,"Pizza,Italian Restaurant,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Sarda Pizza,Bongiornos Italian Deli Pizzeria,0,25,IL,111,111,111
+9361,AVz-txUqFcQ3k02bDl7W,"Pizza,Italian Restaurant,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Margherita Pizza,Bongiornos Italian Deli Pizzeria,0,25,IL,111,111,111
+9362,AVz-txUqFcQ3k02bDl7W,"Pizza,Italian Restaurant,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Calabrese Pizza,Bongiornos Italian Deli Pizzeria,0,25,IL,111,111,111
+9363,AVz-txUqFcQ3k02bDl7W,"Pizza,Italian Restaurant,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Rustica Pizza,Bongiornos Italian Deli Pizzeria,0,25,IL,111,111,111
+9364,AVweJ2gBIN2L1WUf2dpp,Pizza Place,Accommodation & Food Services,Evergreen Park,RU,"USD,RUB",,Pizza Bread,Rosangelas Pizza,25,40,IL,111,111,111
+9365,AVwdH9fNByjofQCxlv0m,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Richton Park,RU,"USD,RUB",Thin crust pizza layered with ketchupampcomma topped with ground beefampcomma american and mozzarella cheeses Tastes just like a cheeseburger,Cheese Burger Pizza,Beggars Pizza,0,25,IL,111,111,111
+9366,AVwdH9fNByjofQCxlv0m,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Richton Park,RU,"USD,RUB",Thin crust pizza layered with sweet baby ray39s bbq sauce and chunks of chicken topped with mozzarella cheese,Sweet Baby Rays BBQ Chicken Pizza,Beggars Pizza,0,25,IL,111,111,111
+9367,AVwdH9fNByjofQCxlv0m,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Richton Park,RU,"USD,RUB","Thin crust pizza with mushrooms, onions and green peppers.",Veggie Pizza,Beggars Pizza,0,25,IL,111,111,111
+9368,AVwdH9fNByjofQCxlv0m,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Richton Park,RU,"USD,RUB","Thin crust pizza layered with salsa and topped with ground beef or chicken, melted cheddar cheese, sour cream, shredded lettuce, diced tomatoes and sliced black olives.",Taco Pizza,Beggars Pizza,0,25,IL,111,111,111
+9369,AVwd23rxByjofQCxtHTi,"Pizza,Restaurant,Pizza Restaurants,Caterers,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Puff,Eastern Style Pizza,0,25,IL,111,111,111
+9370,AVwc2CMB_7pvs4fzzjb7,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Champaign,RU,"USD,RUB",with up to 3 toppings toppings do not include extra meatampcomma extra veggiesampcomma extra cheese or premium blend12 toppings 075 eachampcomma additional toppings 150 eachampcomma extra portion of meat or veggies 100 eachampcommaextra cheese or premium blend 175,Point Pizza,Monical's Pizza,25,40,IL,111,111,111
+9371,AVzBG6Be3D1zeR_xBHNb,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Lombard,RU,"USD,RUB",,Kid Pizza,Roundheads Pizza Pub,25,40,IL,111,111,111
+9372,AVwdGqNJIN2L1WUfsP0_,"Pizza Place,Restaurants",Accommodation & Food Services,Aurora,RU,"USD,RUB","Pepperoni, ham, beef, italian sausage, mushrooms, green peppers, black olives",Supreme Stuffed Pizza,Domino's Pizza,0,25,IL,111,111,111
+9373,AVwdlcoxIN2L1WUfxQ0I,Pizza Place,Accommodation & Food Services,Downers Grove,RU,"USD,RUB",,Pizza Burger,Roundheads Pizza Pub,0,25,IL,111,111,111
+9374,AWEM9-753-Khe5l_e8I2,"Pizza,Pizza Place,Pub",Accommodation & Food Services,Springfield,RU,"USD,RUB",,Italian Beef Pizza,Coz's Pizza & Pub,0,25,IL,111,111,111
+9375,AWEM9-753-Khe5l_e8I2,"Pizza,Pizza Place,Pub",Accommodation & Food Services,Springfield,RU,"USD,RUB",,Grilled Chicken Pizza,Coz's Pizza & Pub,0,25,IL,111,111,111
+9376,AVwclZBoByjofQCxf6HJ,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Urbana,RU,"USD,RUB",,Pizza Rosa,Manolo's Pizza & Empanadas,0,25,IL,111,111,111
+9377,AVwcpYMFIN2L1WUfnUxl,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bloomingdale,RU,"USD,RUB",,Pepperoni Pizza Slice,Cugini's Pizza,0,30,IL,111,111,111
+9378,AVwePWppkufWRAb5BNJF,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Vegetarian Pizza,Pizza Nova,0,25,IL,111,111,111
+9379,AVwdQOW2kufWRAb538oz,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB","Italian beef, hot giardiniera and onions on a garlic crust",Bacci Man Pizza,Bacci Pizzeria,0,25,IL,111,111,111
+9380,AVwdQOW2kufWRAb538oz,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Veggie Jumbo Pizza Slice,Bacci Pizzeria,0,25,IL,111,111,111
+9381,AVwdQOW2kufWRAb538oz,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Bacci Lady Pizza,Bacci Pizzeria,0,25,IL,111,111,111
+9382,AVwdQOW2kufWRAb538oz,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Cheese Pan Pizza,Bacci Pizzeria,0,25,IL,111,111,111
+9383,AVzA_D0C3D1zeR_xBDUW,"Pizza,Italian Restaurant,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Sausage Or Pepperoni Pizza,Lou Malnati's Pizzeria,25,40,IL,111,111,111
+9384,AVwczT9V_7pvs4fzzHVA,Pizza Place,Accommodation & Food Services,Richton Park,RU,"USD,RUB","Ham, pineapple and bbq sauce",Hawaiian Pizza,Aurelios Pizza Richton Park,0,25,IL,111,111,111
+9385,AVwczT9V_7pvs4fzzHVA,Pizza Place,Accommodation & Food Services,Richton Park,RU,"USD,RUB",,Hawaiian Pizza With Extra Ingredients,Aurelios Pizza Richton Park,0,25,IL,111,111,111
+9386,AVwczZE2IN2L1WUfpDxL,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Supreme Pizza,Santullos Eatery,0,25,IL,111,111,111
+9387,AVzn8mhSFcQ3k02bCseM,"Restaurant,Pizza Place",Accommodation & Food Services,Lake Forest,RU,"USD,RUB",,Pizza Bread,Donatis Pizza,0,25,IL,111,111,111
+9388,AVzn8mhSFcQ3k02bCseM,"Restaurant,Pizza Place",Accommodation & Food Services,Lake Forest,RU,"USD,RUB",,Pizza Bread,Donatis Pizza,0,25,IL,111,111,111
+9389,AVwdGMqQIN2L1WUfsLSd,Pizza Place,Accommodation & Food Services,Schaumburg,RU,"USD,RUB",,Pizza Puffs,Marios Pizza,0,25,IL,111,111,111
+9390,AVwdGMqQIN2L1WUfsLSd,Pizza Place,Accommodation & Food Services,Schaumburg,RU,"USD,RUB","Ketchup, mustard, ground beef, mozzarella, cheddar cheese, pickles",Cheeseburger Pizza,Marios Pizza,0,25,IL,111,111,111
+9391,AVwd2TXrByjofQCxtCfs,Pizza Place,Accommodation & Food Services,Wood Dale,RU,"USD,RUB","Chicken, red roasted peppers, topped with mozzarella",Pizza Pollo,Marinos Pizza,25,40,IL,111,111,111
+9392,AVwd2TXrByjofQCxtCfs,Pizza Place,Accommodation & Food Services,Wood Dale,RU,"USD,RUB","Fresh tomatoes, basil, olive oil, romano topped with mozzarella",Pizza Margherita,Marinos Pizza,25,40,IL,111,111,111
+9393,AVwd2TXrByjofQCxtCfs,Pizza Place,Accommodation & Food Services,Wood Dale,RU,"USD,RUB",,Pizza Margherita,Marinos Pizza,25,40,IL,111,111,111
+9394,AVwdA9pSByjofQCxknH7,"Restaurant,Pizza Place",Accommodation & Food Services,Lombard,RU,"USD,RUB",,Bricks Pizza,Bricks Wood Fired Pizza,25,40,IL,111,111,111
+9395,AVwdA9pSByjofQCxknH7,"Restaurant,Pizza Place",Accommodation & Food Services,Lombard,RU,"USD,RUB",,Build Your Own Pizza,Bricks Wood Fired Pizza,25,40,IL,111,111,111
+9396,AWE7VyFiRxPSIh2Rsgfv,Pizza Place,Accommodation & Food Services,Lisle,RU,"USD,RUB",,Garbage Pizza,Passeros Pizza,0,25,IL,111,111,111
+9397,AWE7VyFiRxPSIh2Rsgfv,Pizza Place,Accommodation & Food Services,Lisle,RU,"USD,RUB",,Hot 'N Spicy Pizza,Passeros Pizza,0,25,IL,111,111,111
+9398,AWE7VyFiRxPSIh2Rsgfv,Pizza Place,Accommodation & Food Services,Lisle,RU,"USD,RUB",,Pizza Bianco,Passeros Pizza,0,25,IL,111,111,111
+9399,AWE7VyFiRxPSIh2Rsgfv,Pizza Place,Accommodation & Food Services,Lisle,RU,"USD,RUB",,Pizza Bianco,Passeros Pizza,0,25,IL,111,111,111
+9400,AWE7VyFiRxPSIh2Rsgfv,Pizza Place,Accommodation & Food Services,Lisle,RU,"USD,RUB",,Bbq Pizza,Passeros Pizza,0,25,IL,111,111,111
+9401,AWE7VyFiRxPSIh2Rsgfv,Pizza Place,Accommodation & Food Services,Lisle,RU,"USD,RUB",,Garbage Pizza,Passeros Pizza,0,25,IL,111,111,111
+9402,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Pepperoni and a double portion of spicy Italian sausage Spicy,Spicy Italian Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9403,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Mozzarella provolone Asiago fontina Parmesan and Romano cheeses,Tuscan Six Cheese Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9404,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Canadian bacon and pineapple,Hawaiiana Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9405,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Mushrooms green peppers onions olives and tomatoes Vegetarian,Garden Fresh Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9406,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Grilled chicken bacon onions and tomatoes,Chicken Club Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9407,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Sausage pepperoni six cheeses and Italian seasoning,John39s Favorite Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9408,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Sausage bacon beef ham and pepperoni,The Meats Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9409,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Blend of spinach and garlic Parmesan Alfredo sauce,Spinach Alfredo Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9410,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Sausage bacon beef ham and pepperoni,The Meats Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9411,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Ranch sauce chicken bacon onions and buffalo sauce,Buffalo Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9412,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Blend of spinach and garlic Parmesan Alfredo sauce,Spinach Alfredo Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9413,AVwd8v1r_7pvs4fz-r5k,"Restaurant,Pizza Place Kelvin Park,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Barbecue sauce grilled allwhite chicken bacon and onions,BBQ Chicken and Bacon Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9414,AVwcfnU0ByjofQCxe2x-,"Restaurant,Pizza Place West Town,Pizza Place,Restaurant West Town",Accommodation & Food Services,Chicago,RU,"USD,RUB",With prosciutto cream and sage For optimum freshness at home choose uncut and pop in the oven for 3 minutes at 400 degrees,Veal Meatball Pizza,Pizza East,0,25,IL,111,111,111
+9415,AVwcfnU0ByjofQCxe2x-,"Restaurant,Pizza Place West Town,Pizza Place,Restaurant West Town",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato and basil For optimum freshness at home choose uncut and pop in the oven for 3 minutes at 400 degrees,Buffalo Mozzarella Pizza,Pizza East,0,25,IL,111,111,111
+9416,AVwcfnU0ByjofQCxe2x-,"Restaurant,Pizza Place West Town,Pizza Place,Restaurant West Town",Accommodation & Food Services,Chicago,RU,"USD,RUB",With olive oil and buffalo mozzarella For optimum freshness at home choose uncut and pop in the oven for 3 minutes at 400 degrees,Cherry Tomato Pizza,Pizza East,0,25,IL,111,111,111
+9417,AVwcfnU0ByjofQCxe2x-,"Restaurant,Pizza Place West Town,Pizza Place,Restaurant West Town",Accommodation & Food Services,Chicago,RU,"USD,RUB",With cream mozzarella and broccolini For optimum freshness at home choose uncut and pop in the oven for 3 minutes at 400 degrees,Spicy Sausage Pizza,Pizza East,0,25,IL,111,111,111
+9418,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",Includes cheese and one topping of your choice Optional Double Dough Crust for Additional 300,XLarge 18ampquot Thin Crust Pizza,Spizzico To Go,0,25,IL,111,111,111
+9419,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",Canadian Bacon Pineapple Extra Cheese,Large 14ampquot Thin Crust Hawaiian Pizza,Spizzico To Go,0,25,IL,111,111,111
+9420,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",Sausage Mushroom Onion Green Pepper,XLarge 18ampquot Thin Crust Spizzico Special Pizza,Spizzico To Go,0,25,IL,111,111,111
+9421,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",Includes cheese and one topping of your choice Optional Double Dough Crust for Additional 200,Large 14ampquot Thin Crust Pizza,Spizzico To Go,0,25,IL,111,111,111
+9422,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",,"Large 14"" Thin Crust Pizza",Spizzico To Go,0,25,IL,111,111,111
+9423,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",Canadian Bacon Pineapple Extra Cheese,XLarge 18ampquot Thin Crust Hawaiian Pizza,Spizzico To Go,0,25,IL,111,111,111
+9424,AVwdD4WJ_7pvs4fz12Qw,"Restaurant,Pizza Place",Accommodation & Food Services,Aurora,RU,"USD,RUB",Refried beans Chorizo Onion Tomato Jalapeno,XLarge 18ampquot Thin Crust La Mexicana Pizza,Spizzico To Go,0,25,IL,111,111,111
+9425,AVzBC9ph3D1zeR_xBFrC,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,White Pizza,Coalfire,25,40,IL,111,111,111
+9426,AVzBC9ph3D1zeR_xBFrC,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",mozzarellaampcomma ricotta ampamp romano cheesesampcomma garlic infused olive oilampcomma oreganoampcomma ground pepper and basil,White Pizza,Coalfire,25,40,IL,111,111,111
+9427,AWEKT1cma4HuVbedMB8U,"Restaurant,Pizza Place",Accommodation & Food Services,Schaumburg,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesar's Pizza,0,25,IL,111,111,111
+9428,AVzA-CKCLD2H7whiWIFZ,"Restaurant,Pizza Place",Accommodation & Food Services,Evanston,RU,"USD,RUB",Housecured salmon capercreme fraiche dill ampamp arugula,Brunch Pizza,Union Pizzeria,25,40,IL,111,111,111
+9429,AVzA-CKCLD2H7whiWIFZ,"Restaurant,Pizza Place",Accommodation & Food Services,Evanston,RU,"USD,RUB",,Special Pizza of the Week,Union Pizzeria,25,40,IL,111,111,111
+9430,AVwcl6RuByjofQCxgAiF,"Restaurant,Pizza Place",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,Kids Thin Crust Pizza,Giordano's,0,25,IL,111,111,111
+9431,AVwcl6RuByjofQCxgAiF,"Restaurant,Pizza Place",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,Cheese Pizza,Giordano's,0,25,IL,111,111,111
+9432,AVwcl6RuByjofQCxgAiF,"Restaurant,Pizza Place",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,"Individual 6"" Pepperoni Stuffed Deep Dish Pizza",Giordano's,0,25,IL,111,111,111
+9433,AVwcl6RuByjofQCxgAiF,"Restaurant,Pizza Place",Accommodation & Food Services,Orland Park,RU,"USD,RUB",Thincrust cheeseampcomma pepperoni or sausage,Kid39s Pizza,Giordano's,0,25,IL,111,111,111
+9434,AVwd3Gz9IN2L1WUfz2zD,"Restaurant,Pizza Place",Accommodation & Food Services,Westchester,RU,"USD,RUB",,Kids Thin Crust Pizza,Giordano's,0,25,IL,111,111,111
+9435,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,16ampquot Extra Large Deep Dish Cheese Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9436,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",Spinachampcomma artichoke and fresh garlic,Northside House Specialty Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9437,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",Sausageampcomma bacon and onion,Southside House Specialty Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9438,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,18ampquot Extra Extra Large Thin Crust Cheese Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9439,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,12ampquot Medium Stuffed Cheese Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9440,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,12ampquot Medium Thin Crust Cheese Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9441,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,14ampquot Large Thin Crust Cheese Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9442,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",Chickenampcomma bacon and tomato with ranch sauce topped with lettuce,Chicken Ranch House Specialty Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9443,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",Sausageampcomma pepperoniampcomma ham and bacon,Meatlovers House Specialty Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9444,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,16ampquot Extra Large Chicago Style Cheese Pizza,Moccio's Pizza,0,25,IL,111,111,111
+9445,AVzX50NC-gnIPe8DTLBW,"Restaurant,Pizza Place",Accommodation & Food Services,Highland Park,RU,"USD,RUB",,Kids Pizza Kids Menu,Moccio's Pizza,0,25,IL,111,111,111
+9446,AVwdFssA_7pvs4fz2JG1,"Restaurant,Pizza Place Northwest Side,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Cheese and a combination of eight vegetables,Super Veggie Deep Dish Pizza,Gino's East,25,40,IL,111,111,111
+9447,AVwdFssA_7pvs4fz2JG1,"Restaurant,Pizza Place Northwest Side,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Medium Thin Crust Cheese Pizza,Gino's East,25,40,IL,111,111,111
+9448,AVwdFssA_7pvs4fz2JG1,"Restaurant,Pizza Place Northwest Side,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Small Deep Dish Cheese Pizza,Gino's East,25,40,IL,111,111,111
+9449,AVwdFssA_7pvs4fz2JG1,"Restaurant,Pizza Place Northwest Side,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Large Thin Crust Cheese Pizza,Gino's East,25,40,IL,111,111,111
+9450,AVwdFssA_7pvs4fz2JG1,"Restaurant,Pizza Place Northwest Side,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Medium Deep Dish Cheese Pizza,Gino's East,25,40,IL,111,111,111
+9451,AVwdFssA_7pvs4fz2JG1,"Restaurant,Pizza Place Northwest Side,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Ginoampaposs special sausageampcomma pepperoniampcomma Canadian bacon and bacon,Meaty Legend Thin Crust Pizza,Gino's East,25,40,IL,111,111,111
+9452,AVwcoaIH_7pvs4fzxQsz,"Pizza,Italian Restaurant,Restaurant,Pizza Restaurants,Italian,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Pompei,Pompei,0,25,IL,111,111,111
+9453,AVzfvT1BLD2H7whiXL8j,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,East Peoria,RU,"USD,RUB",,Medium Cheese Pizza,Davis Bros Pizza Inc,0,25,IL,111,111,111
+9454,AVzfvT1BLD2H7whiXL8j,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,East Peoria,RU,"USD,RUB",,Medium Deluxe Pizza,Davis Bros Pizza Inc,0,25,IL,111,111,111
+9455,AVwdaS7l_7pvs4fz5mjK,"Pizza,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Downers Grove,RU,"USD,RUB",,Pan Pizza,Angelo's Pizza,0,25,IL,111,111,111
+9456,AVwdaS7l_7pvs4fz5mjK,"Pizza,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Downers Grove,RU,"USD,RUB",,Pan Pizza,Angelo's Pizza,0,25,IL,111,111,111
+9457,AVwch9X7_7pvs4fzwHHC,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",Serves 1012 people Made with our signature crust,30ampquot Cheese Pizza,Bacci Pizzeria,0,25,IL,111,111,111
+9458,AVwdFXsJIN2L1WUfsCxN,"Restaurant,Pizza Place",Accommodation & Food Services,Rock Island,RU,"USD,RUB",Two all beef hot dogz topped with our pizza sauce and mozzarella cheese,Pizza Dogz,Harris Pizza #1,0,25,IL,111,111,111
+9459,AVwdz8eQByjofQCxsuQ3,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",3 rolls per order Served with choice of dipping sauce Gluten free,Pizza Rolls,The Warehouse Bar and Pizzeria,0,30,IL,111,111,111
+9460,AVwdz8eQByjofQCxsuQ3,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Rolls,The Warehouse Bar and Pizzeria,0,30,IL,111,111,111
+9461,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Charlie Mckenna's, Lillie's Q, Bbq Pulled Pork Pizza",Roots Handmade Pizza,25,40,IL,111,111,111
+9462,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Brian Enyart's, Dos Urban Cantina, Albondigas & Tomatillo Pizza",Roots Handmade Pizza,25,40,IL,111,111,111
+9463,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza,Roots Handmade Pizza,25,40,IL,111,111,111
+9464,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Bill Kim's, Urban Belly, Lemongrass Sausage Pizza",Roots Handmade Pizza,25,40,IL,111,111,111
+9465,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Short Rib Pizza,Roots Handmade Pizza,25,40,IL,111,111,111
+9466,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Brian Fisher's, Entente, Korean Fried Chicken Pizza",Roots Handmade Pizza,25,40,IL,111,111,111
+9467,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Rick Ortiz's, Antique Taco, Chili Cheese Curd Pizza",Roots Handmade Pizza,25,40,IL,111,111,111
+9468,AVwcqE7dkufWRAb5xmVk,"Pizza,Restaurant,American,Pizza Place,Pizza Place East Ukrainian Village",Accommodation & Food Services,Chicago,RU,"USD,RUB",Housemade glutenfree dough Roots pizza sauce and Quad Cities mozzarella blend,GlutenFree 12ampquot Pizza,Roots Handmade Pizza,25,40,IL,111,111,111
+9469,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce fior di latte prosciutto and arugula Served with fresh basil homemade flore di latte and ricotta made with organic flour,Prosciutto Pizza Lunch,Pizzeria del Mercato,0,25,IL,111,111,111
+9470,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Nutella Pizza,Pizzeria del Mercato,0,25,IL,111,111,111
+9471,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Mozzarella pesto and pollo,Pesto Pizza,Pizzeria del Mercato,0,25,IL,111,111,111
+9472,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce mushroom ham olives artichokes and mozzarella,Stagioni Pizza,Pizzeria del Mercato,0,25,IL,111,111,111
+9473,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce fresh mozzarella sausage of the day and hot pepper oil,Fuoco Pizza,Pizzeria del Mercato,0,25,IL,111,111,111
+9474,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce fior di latte mushrooms artichokes garlic olives and red onion Served with fresh basil homemade flore di latte and ricotta made with organic flour,Vegetariana Pizza Lunch,Pizzeria del Mercato,0,25,IL,111,111,111
+9475,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce fior di latte sausage of the day and hot pepper oil Served with fresh basil homemade flore di latte and ricotta made with organic flour,Fuoco Pizza Lunch,Pizzeria del Mercato,0,25,IL,111,111,111
+9476,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce fior di latte prosciutto and arugula Served with fresh basil homemade flore di latte and ricotta made with organic flour,Prosciutto Pizza Dinner,Pizzeria del Mercato,0,25,IL,111,111,111
+9477,AVwc-CSo_7pvs4fz04Zz,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Tomato sauce garlic and oregano Served with fresh basil homemade flore di latte and ricotta made with organic flour Vegan,Marinara Pizza Lunch,Pizzeria del Mercato,0,25,IL,111,111,111
+9478,AVweiM1yByjofQCxzH_l,"Restaurant,Pizza Place",Accommodation & Food Services,Milan,RU,"USD,RUB",Mushroomampcomma green pepperampcomma black olivesampcomma roma tomatoesampcomma our signature tomato sauceampcomma white onion ampamp mozzarella,Veggie Pizza,Pagalo's,0,25,IL,111,111,111
+9479,AVweiM1yByjofQCxzH_l,"Restaurant,Pizza Place",Accommodation & Food Services,Milan,RU,"USD,RUB",Fresh spinach leaves with roma tomatoesampcomma mozzarellaampcomma tomato sauceampcomma garlic ampamp fresh basil,Spinach Pizza,Pagalo's,0,25,IL,111,111,111
+9480,AVweiM1yByjofQCxzH_l,"Restaurant,Pizza Place",Accommodation & Food Services,Milan,RU,"USD,RUB",Italian sausageampcomma three blends of cheesesampcomma our signature tomato sauce ampamp parsley,Sausage Pizza,Pagalo's,0,25,IL,111,111,111
+9481,AVweiM1yByjofQCxzH_l,"Restaurant,Pizza Place",Accommodation & Food Services,Milan,RU,"USD,RUB",This is a great appetizerampcomma we use our 7ampquot pizza crust withampcomma our signature pizza sauce with freshampcomma creamy mozzarella cheeseampcomma Roma tomatoesampcomma freshly chopped basil and garlic,Margherita Pizza,Pagalo's,0,25,IL,111,111,111
+9482,AVweiM1yByjofQCxzH_l,"Restaurant,Pizza Place",Accommodation & Food Services,Milan,RU,"USD,RUB",BLT with our signature tomato sauceampcomma mozzarellaampcomma canadian bacon then topped wlettuce ampamp Roma tomatoes,BLT Pizza,Pagalo's,0,25,IL,111,111,111
+9483,AVwdMlkBkufWRAb53UiP,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Hanover Park,RU,"USD,RUB","Creamy alfredo sauce, chicken, sauteed spinach and sun dried tomatoes (served on a double dough crust)",Gourmet White Pizza,Rosati's Pizza,0,25,IL,111,111,111
+9484,AVwdMlkBkufWRAb53UiP,"Pizza,Restaurant,Pizza Place,Food & Entertainment,Restaurants",Accommodation & Food Services,Hanover Park,RU,"USD,RUB",Baked like a pie with ingredients inside and topped with a thin crust and zesty tomato sauce. (allow additional cooking time),Stuffed Pizza,Rosati's Pizza,0,25,IL,111,111,111
+9485,AV1tfTqLa4HuVbed8MBD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,South Elgin,RU,"USD,RUB",,Gluten Free Crust Pizza,Rosati's Pizza,0,25,IL,111,111,111
+9486,AV1tfTqLa4HuVbed8MBD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,South Elgin,RU,"USD,RUB",A rosati39s specialityampcomma our lightampcomma flaky crust is always crispy and golden brown perfecto,Traditional Thin Crust Cheese Pizza,Rosati's Pizza,0,25,IL,111,111,111
+9487,AVwcwQjvIN2L1WUfohPL,Pizza Place,Accommodation & Food Services,Des Plaines,RU,"USD,RUB",,Bruschetta Pizza,Village Pizza,0,25,IL,111,111,111
+9488,AVwdgjfW_7pvs4fz6lT1,Pizza Place,Accommodation & Food Services,Bensenville,RU,"USD,RUB",Add any topping. Oven baked or deep fried.,Our Pizza Dough Stuffed With Mozzarella Cheese and Pizza Sauce,Mama Maria's Pizzeria,0,25,IL,111,111,111
+9489,AVwdgjfW_7pvs4fz6lT1,Pizza Place,Accommodation & Food Services,Bensenville,RU,"USD,RUB",,Arugula Pizza,Mama Maria's Pizzeria,0,25,IL,111,111,111
+9490,AVwdgjfW_7pvs4fz6lT1,Pizza Place,Accommodation & Food Services,Bensenville,RU,"USD,RUB",,Our Pizza Dough Stuffed with Mozzarella Cheese and Pizza Sauce,Mama Maria's Pizzeria,0,25,IL,111,111,111
+9491,AVwdgjfW_7pvs4fz6lT1,Pizza Place,Accommodation & Food Services,Bensenville,RU,"USD,RUB",,Argula Pizza,Mama Maria's Pizzeria,0,25,IL,111,111,111
+9492,AVweSf4QByjofQCxw6bY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Mozzarella, pineapple, bacon, ham",Aloha Pizza,Armand's Pizzaria,0,25,IL,111,111,111
+9493,AVwdq0mkIN2L1WUfyGoV,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,DeKalb,RU,"USD,RUB",,Eggplant Pizza,Pronto's Pizza,0,25,IL,111,111,111
+9494,AVwdq0mkIN2L1WUfyGoV,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,DeKalb,RU,"USD,RUB",,Meat Lover Pizza,Pronto's Pizza,0,25,IL,111,111,111
+9495,AVwdq0mkIN2L1WUfyGoV,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,DeKalb,RU,"USD,RUB",,Fresh Tomatoes Pizza,Pronto's Pizza,0,25,IL,111,111,111
+9496,AVwdq0mkIN2L1WUfyGoV,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,DeKalb,RU,"USD,RUB",,Spinach Pizza,Pronto's Pizza,0,25,IL,111,111,111
+9497,AVwdq0mkIN2L1WUfyGoV,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,DeKalb,RU,"USD,RUB",,Veggie Pizza,Pronto's Pizza,0,25,IL,111,111,111
+9498,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",Choice of any four vegetables.,Garden Veggie Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9499,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",A thick crust piled high. Please allow 40 minutes to cook.,Deep Dish Cheese Pizza,Generoso Pizza,0,25,IL,111,111,111
+9500,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",,Four Stack Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9501,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB","Fresh spinach, Romano cheese and Alfredo sauce.",Spinach and Alfredo Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9502,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB","Tomato, basil, fresh garlic, romano cheese and spinach.",Margherita Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9503,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",Served with ranch dressing and marinara sauce.,Pizza Bread,Generoso Pizza,0,25,IL,111,111,111
+9504,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",,Chicago Style Cheese Pizza,Generoso Pizza,0,25,IL,111,111,111
+9505,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",,The Colossus Pizza,Generoso Pizza,0,25,IL,111,111,111
+9506,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",Our dough is made fresh daily and rolled thin to a light flaky crust then baked to a golden brown.,Thin Crust Cheese Pizza,Generoso Pizza,0,25,IL,111,111,111
+9507,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",,Pizza Bread,Generoso Pizza,0,25,IL,111,111,111
+9508,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",,Hawaiian Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9509,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",,Meat Lovers Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9510,AVwce7mtIN2L1WUflbxC,Pizza Place,Accommodation & Food Services,Glendale Heights,RU,"USD,RUB",Grilled boneless breast of chicken with onions and BBQ sauce.,Bbq Chicken Thin Crust Pizza,Generoso Pizza,0,25,IL,111,111,111
+9511,AV1ZOwG_FcQ3k02bFsHa,"Restaurant,Pizza Place",Accommodation & Food Services,New Lenox,RU,"USD,RUB",Thin crust pizza with mushroomsampcomma onions and green peppers,Veggie Pizza,Beggar's Pizza,0,25,IL,111,111,111
+9512,AV1ZOwG_FcQ3k02bFsHa,"Restaurant,Pizza Place",Accommodation & Food Services,New Lenox,RU,"USD,RUB",,1 Ingredient Pizza,Beggar's Pizza,0,25,IL,111,111,111
+9513,AV1ZOwG_FcQ3k02bFsHa,"Restaurant,Pizza Place",Accommodation & Food Services,New Lenox,RU,"USD,RUB",Thin crust pizza layered with sweet baby ray39s BBQ sauce and chunks of chicken topped with mozzarella cheese,Sweet Baby Ray39s BBQ Chicken Pizza,Beggar's Pizza,0,25,IL,111,111,111
+9514,AV1ZOwG_FcQ3k02bFsHa,"Restaurant,Pizza Place",Accommodation & Food Services,New Lenox,RU,"USD,RUB",Thin crust pizza layered with ketchupampcomma topped with ground beefampcomma american and mozzarella cheeses Tastes just like a cheeseburger,Cheeseburger Pizza,Beggar's Pizza,0,25,IL,111,111,111
+9515,AV1tfg-3IxWefVJwg2y1,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Crushed tomatoes sea salt fresh mozzarella basil and extra virgin olive oil,12ampquot Margherita Pizza,Persona Wood Fired Pizzeria,0,25,IL,111,111,111
+9516,AV1tfg-3IxWefVJwg2y1,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Bleu cheese dressing shredded mozzarella Buffalo chicken Buffalo sauce and bleu cheese crumbles,12ampquot Buffalo Bleu Pizza,Persona Wood Fired Pizzeria,0,25,IL,111,111,111
+9517,AV1tfg-3IxWefVJwg2y1,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Basil pesto and fresh mozzarella,12ampquot Pesto Pizza,Persona Wood Fired Pizzeria,0,25,IL,111,111,111
+9518,AWEKjoYvRxPSIh2Rrd4I,"Restaurant,Pizza Place",Accommodation & Food Services,Des Plaines,RU,"USD,RUB",Gluten free crust and topped with our classic marinara sauceampcomma real cheese made of mozzarella,Gluten Free Cheese Pizza,Pizza Hut,0,25,IL,111,111,111
+9519,AWEKjoYvRxPSIh2Rrd4I,"Restaurant,Pizza Place",Accommodation & Food Services,Des Plaines,RU,"USD,RUB",Ultimate combination of pepperoniampcomma beefampcomma hamampcomma all natural italian sausageampcomma pork sausageampcomma sweet red onionsampcomma fresh white mushroomsampcomma crisp green peppers and black olives,Super Supreme Pizza,Pizza Hut,0,25,IL,111,111,111
+9520,AWEKjoYvRxPSIh2Rrd4I,"Restaurant,Pizza Place",Accommodation & Food Services,Des Plaines,RU,"USD,RUB",Gluten free crust and topped with our classic marinara sauceampcomma real cheese made of mozzarella and pepperoni,Gluten Free Pepperoni Pizza,Pizza Hut,0,25,IL,111,111,111
+9521,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB",,Pizza Di Gio,Armand's Pizzeria,25,40,IL,111,111,111
+9522,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB",Mozzarellaampcomma pineappleampcomma baconampcomma ham,Aloha Pizza,Armand's Pizzeria,25,40,IL,111,111,111
+9523,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB","Mozzarella, pineapple, bacon, ham",Aloha Pizza,Armand's Pizzeria,25,40,IL,111,111,111
+9524,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB",Mozzarellaampcomma fresh tomatoampcomma basil,Margherita Pizza,Armand's Pizzeria,25,40,IL,111,111,111
+9525,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB",Fresh mozzarellaampcomma ricottaampcomma spinachampcomma garlic ampamp tomato,Pizza Mia Moglie,Armand's Pizzeria,25,40,IL,111,111,111
+9526,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB","Mozzarella, italian beef,  hot giardiniera, bell peppers",Pizza Di Gio,Armand's Pizzeria,25,40,IL,111,111,111
+9527,AVwdr_Tt_7pvs4fz8Wip,"Restaurant,Pizza Place",Accommodation & Food Services,Arlington Heights,RU,"USD,RUB",Fresh mozzarellaampcomma artichoke heartsampcomma arugalaampcomma kalmata olives,Cara Mia Pizza,Armand's Pizzeria,25,40,IL,111,111,111
+9528,AVyispSKl8hL2jjQyP_c,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Egg spinach onion artichoke roasted red peppers and goat cheese,Crust Free Pizza,The Happy Camper,0,25,IL,111,111,111
+9529,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Veggie Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9530,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Garlic Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9531,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Bbq Chicken Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9532,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Onions, mushrooms, fresh tomatoes, green peppers",Veggie Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9533,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Spinach Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9534,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Chicken Ranch Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9535,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Ranch sauce instead of pizza sauce, chicken strips, ham, bacon, tomatoes, onon, green pepper, mozzarella cheese",Chicken Ranch Pizza,Sofia's Pizza,0,25,IL,111,111,111
+9536,AVwcrS0bIN2L1WUfnqNx,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Roma,Sofia's Pizza,0,25,IL,111,111,111
+9537,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,"Gluten Free 10"" Personal Thin Crust Pizza",D'agostino's,0,25,IL,111,111,111
+9538,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Margherita Pizza,D'agostino's,0,25,IL,111,111,111
+9539,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Pizza Bread,D'agostino's,0,25,IL,111,111,111
+9540,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,"Gluten Free 10"" Cheese Pizza",D'agostino's,0,25,IL,111,111,111
+9541,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Chicago Style Deep Dish Cheese Pizza,D'agostino's,0,25,IL,111,111,111
+9542,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Taco Pizza,D'agostino's,0,25,IL,111,111,111
+9543,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Gluten Free 10ampquot Cheese Pizza,D'agostino's,0,25,IL,111,111,111
+9544,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",French bread topped with pizza sauce and mozzarella cheese then toasted in our pizza oven,Pizza Bread,D'agostino's,0,25,IL,111,111,111
+9545,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Greek Pizza,D'agostino's,0,25,IL,111,111,111
+9546,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Smokehouse Bbq Pizza,D'agostino's,0,25,IL,111,111,111
+9547,AVwd3qZ4IN2L1WUfz7gt,"Restaurant,Pizza Place",Accommodation & Food Services,River Grove,RU,"USD,RUB",,Hawaiian Pizza,D'agostino's,0,25,IL,111,111,111
+9548,AVwcqkyx_7pvs4fzxob-,Pizza Place,Accommodation & Food Services,Fox Lake,RU,"USD,RUB",,"6"" Individual Pepperoni Stuffed Deep Dish Pizza",Giordano's,0,25,IL,111,111,111
+9549,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,The Veggie Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9550,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pesto Lovers Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9551,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Fresh tomatoes, red onions and mozzarella, topped with roasted garlic and zesty ranch dressing over fresh tomato sauce.",The Gilroy Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9552,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Pineapple, canadian bacon, ricotta and mozzarella cheese on fresh tomatoes sauce.",Hawaiian Delight Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9553,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Mozzarella, fontina, smoked gouda, and romano cheese, fresh sliced tomatoes, basil and olive oil.",Four Cheese Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9554,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Grilled chicken, mild chilies, onions, refried beans, mozzarella and cheddar cheese with sour cream and mexican salsa on the side.",Mexican Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9555,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Spicy sausage, mushrooms, mozzarella and pepperoni with fresh tomatoes sauce.",Chef Special Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9556,AVwclVcuIN2L1WUfmmaY,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB","Tomatoes, prosciutto, fontina, mozzarella and goat cheese over pesto sauce.",Prosciutto and Goat Cheese Pizza,Chicago's Pizza and Pasta,25,40,IL,111,111,111
+9557,AVwdWphmByjofQCxoO1i,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Veggie Deluxe Deep Dish Pizza,J.B. Alberto's Pizza,0,25,IL,111,111,111
+9558,AVwdWphmByjofQCxoO1i,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,J.B. Alberto Deluxe Stuffed Pizza,J.B. Alberto's Pizza,0,25,IL,111,111,111
+9559,AVwdWphmByjofQCxoO1i,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Cheese Thin Crust Pizza,J.B. Alberto's Pizza,0,25,IL,111,111,111
+9560,AVwdWphmByjofQCxoO1i,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Hawaiian Thin Crust Pizza,J.B. Alberto's Pizza,0,25,IL,111,111,111
+9561,AVwdWphmByjofQCxoO1i,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,J.b. Alberto Deluxe Thin Crust Pizza,J.B. Alberto's Pizza,0,25,IL,111,111,111
+9562,AVwdWphmByjofQCxoO1i,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Cheese Deep Dish Pizza,J.B. Alberto's Pizza,0,25,IL,111,111,111
+9563,AVwdA7OUIN2L1WUfrT89,"Pizza,Italian Restaurant,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Vacche Rosse Pizza,Stella Barra Pizzeria,40,55,IL,111,111,111
+9564,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB","Large Sausage, pepperoni, capicola ham and beacon",New Four Meat Pizza,Gino's East,25,40,IL,111,111,111
+9565,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Supreme Pizza,Gino's East,25,40,IL,111,111,111
+9566,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Thin Crust Sausage Pizza,Gino's East,25,40,IL,111,111,111
+9567,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB","Gino's signature deep dish dough, tomato sauce, mozzarella, cheddar, Romano",Cheesy Pizza Bread,Gino's East,25,40,IL,111,111,111
+9568,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Thin Crust Spinach Pizza,Gino's East,25,40,IL,111,111,111
+9569,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Bread,Gino's East,25,40,IL,111,111,111
+9570,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Thin Crust Supreme Pizza,Gino's East,25,40,IL,111,111,111
+9571,AVwdYWky_7pvs4fz5R4g,"Pizza,Restaurant,Italian,Chain Restaurant,Pizza Place Lakeview,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",Large,Spinach Pizza,Gino's East,25,40,IL,111,111,111
+9572,AVwc4ykZIN2L1WUfp-Yt,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB",Made with a thick crust topped with pizza sauce and mozzarella cheese. Please allow 45 minutes cooking time.,Traditional Pan Cheese Pizza,Panino's,0,25,IL,111,111,111
+9573,AVwc4ykZIN2L1WUfp-Yt,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB","Sausage, mushrooms, onions and green peppers. No substitutions",Thin Crust Special Pizza,Panino's,0,25,IL,111,111,111
+9574,AVwc4ykZIN2L1WUfp-Yt,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB","Spinach, fresh tomatoes, onions and green peppers, baked in a pan with a bottom crust followed by mozzarella cheese and toppings, topped with a second layer of dough and finished off with a chunky tomato sauce. No substitutions. Please allow 45 minutes cooking time",Stuffed Veggie Special Pizza,Panino's,0,25,IL,111,111,111
+9575,AVwc4ykZIN2L1WUfp-Yt,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Chicago,RU,"USD,RUB","Baked in a pan with a bottom crust followed by mozzarella cheese and toppings, topped with a second layer of dough and finished off with a chunky tomato sauce. Please allow 45 minutes cooking time",Stuffed Cheese Pizza,Panino's,0,25,IL,111,111,111
+9576,AVwc87t_ByjofQCxj-V0,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Bread,Ranalli's,0,25,IL,111,111,111
+9577,AVwc87t_ByjofQCxj-V0,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"14"" Heart Shaped Pizza",Ranalli's,0,25,IL,111,111,111
+9578,AVwc87t_ByjofQCxj-V0,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza,Ranalli's,0,25,IL,111,111,111
+9579,AVwc87t_ByjofQCxj-V0,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza,Ranalli's,0,25,IL,111,111,111
+9580,AVwdC-I7ByjofQCxk8Su,"Pizza,Restaurant,Pizza Place Fulton Market,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Meat Lover's Pizza,Salerno's Restaurant,0,25,IL,111,111,111
+9581,AVwdC-I7ByjofQCxk8Su,"Pizza,Restaurant,Pizza Place Fulton Market,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB","Mushroom, tomato, spinach, zucchini garlic",Veggie Pizza,Salerno's Restaurant,0,25,IL,111,111,111
+9582,AVwdC-I7ByjofQCxk8Su,"Pizza,Restaurant,Pizza Place Fulton Market,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB","Pineapple, canadian bacon",Hawaiian Pizza,Salerno's Restaurant,0,25,IL,111,111,111
+9583,AVwdC-I7ByjofQCxk8Su,"Pizza,Restaurant,Pizza Place Fulton Market,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Veggie Pizza,Salerno's Restaurant,0,25,IL,111,111,111
+9584,AVwdKwY_ByjofQCxmNH6,Pizza Place,Accommodation & Food Services,Berwyn,RU,"USD,RUB",,Pizza Slice,Villa Nova Pizza,0,25,IL,111,111,111
+9585,AVweC4XdIN2L1WUf1glP,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Orland Park,RU,"USD,RUB",,Pizza Bread,Papa Joe's Italian Restaurant,25,40,IL,111,111,111
+9586,AVwcwwH2kufWRAb5yvfS,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"6"" Individual Pepperoni Stuffed Deep Dish Pizza",Giordano's Pilsen,0,25,IL,111,111,111
+9587,AVwcwwH2kufWRAb5yvfS,"Restaurant,Pizza Place",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"6"" Individual Cheese Stuffed Deep Dish Pizza",Giordano's Pilsen,0,25,IL,111,111,111
+9588,AVwcuuIu_7pvs4fzyVUH,Pizza Place,Accommodation & Food Services,Oak Lawn,RU,"USD,RUB",,Chili Cheese Pizza Puff,Grassano's,0,25,IL,111,111,111
+9589,AVwdMVL5IN2L1WUftL44,Pizza Place,Accommodation & Food Services,Evanston,RU,"USD,RUB",,Meat Lovers Pizza,Gigio's Pizzeria of Evanston,25,40,IL,111,111,111
+9590,AVwdMVL5IN2L1WUftL44,Pizza Place,Accommodation & Food Services,Evanston,RU,"USD,RUB",,Personal Gluten Free Crust Pizza,Gigio's Pizzeria of Evanston,25,40,IL,111,111,111
+9591,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Hawaiian Pizza,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9592,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Pesto Pizza,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9593,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB","Pineapple, canadian bacon, bermuda onion",Hawaiian Pizza,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9594,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Pesto Pizza,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9595,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Pizza Party Package 3,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9596,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Pizza Primavera,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9597,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,"Gluten Free Pizza (10.5"")",Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9598,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Pizza Party Package 1,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9599,AVwcojio_7pvs4fzxSV6,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Southwest Bbq Chicken Pizza,Riggio's Restaurant & Pizzeria,0,25,IL,111,111,111
+9600,AVwcxl_ZIN2L1WUfowxe,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Personal Pizza,Canta Napoli Pizzeria & Ristorante,0,25,IL,111,111,111
+9601,AVwcqnV1IN2L1WUfniev,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Thin Crust Pizza,Papa Severio's Pizzeria,0,25,IL,111,111,111
+9602,AVwdMuZD_7pvs4fz3T3y,Pizza Place,Accommodation & Food Services,Woodstock,RU,"USD,RUB",,Pizza Bread,Napoli's Pizza,0,25,IL,111,111,111
+9603,AVwdncSdByjofQCxq31z,"Pizza Place,Italian Restaurant",Accommodation & Food Services,New Lenox,RU,"USD,RUB",,Pizza Bread,Little Joe's Pizza,0,25,IL,111,111,111
+9604,AVwcxo05_7pvs4fzy1wF,Pizza Place,Accommodation & Food Services,Northbrook,RU,"USD,RUB",,Pizza Bread,Barnaby's - The Family Inn,25,40,IL,111,111,111
+9605,AVzX1_y4LD2H7whiWoM3,"Pizza Place,Restaurant",Accommodation & Food Services,Northbrook,RU,"USD,RUB",,Pizza Bread,Jake's Pizza,0,25,IL,111,111,111
+9606,AVzX1_y4LD2H7whiWoM3,"Pizza Place,Restaurant",Accommodation & Food Services,Northbrook,RU,"USD,RUB",,Personal Pan Cheese Pizza,Jake's Pizza,0,25,IL,111,111,111
+9607,AVzX1_y4LD2H7whiWoM3,"Pizza Place,Restaurant",Accommodation & Food Services,Northbrook,RU,"USD,RUB",,"12"" Thin Crust Cheese Pizza",Jake's Pizza,0,25,IL,111,111,111
+9608,AVwdSgAVByjofQCxniOU,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Chicago,RU,"USD,RUB","Garlic Cream, Sausage, Bacon, Oven Poached Egg, Fresh Mozzarella",Breakfast Pizza,Angelo's Pizza,0,25,IL,111,111,111
+9609,AVwdBH8i_7pvs4fz1Y-t,"Pizza Place,Restaurant,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB",Ricotta and mozzarella cheese. (no tomato sauce.),Pizza Bianca,John's Pizzeria,0,25,IL,111,111,111
+9610,AVwdBH8i_7pvs4fz1Y-t,"Pizza Place,Restaurant,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Our Hawaiian Pizza,John's Pizzeria,0,25,IL,111,111,111
+9611,AVwdBH8i_7pvs4fz1Y-t,"Pizza Place,Restaurant,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Bianca,John's Pizzeria,0,25,IL,111,111,111
+9612,AVwdBH8i_7pvs4fz1Y-t,"Pizza Place,Restaurant,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB","Mozzarella cheese, ham and pineapples. (no tomato sauce.)",Our Hawaiian Pizza,John's Pizzeria,0,25,IL,111,111,111
+9613,AVwdDXyMkufWRAb51zug,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Nonna's Pizza,Salerno's,0,25,IL,111,111,111
+9614,AVwdDXyMkufWRAb51zug,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Pizza a La France,Salerno's,0,25,IL,111,111,111
+9615,AVwdDXyMkufWRAb51zug,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Pizza A La France,Salerno's,0,25,IL,111,111,111
+9616,AVwdDXyMkufWRAb51zug,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Pizza Palermo,Salerno's,0,25,IL,111,111,111
+9617,AVwdDXyMkufWRAb51zug,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Pizza Venenzia,Salerno's,0,25,IL,111,111,111
+9618,AVwdDXyMkufWRAb51zug,"Pizza Place,Italian Restaurant",Accommodation & Food Services,Mount Prospect,RU,"USD,RUB",,Pizza Margherita,Salerno's,0,25,IL,111,111,111
+9619,AVwdyJmBkufWRAb59OBX,"Pizza Place,Restaurant",Accommodation & Food Services,Elmhurst,RU,"USD,RUB",,Signature Pizza,Pazzi di Pizza,0,25,IL,111,111,111
+9620,AVwdyJmBkufWRAb59OBX,"Pizza Place,Restaurant",Accommodation & Food Services,Elmhurst,RU,"USD,RUB",Party,Signature Pizza,Pazzi di Pizza,0,25,IL,111,111,111
+9621,AVwdyJmBkufWRAb59OBX,"Pizza Place,Restaurant",Accommodation & Food Services,Elmhurst,RU,"USD,RUB",,Signature Pizza,Pazzi di Pizza,0,25,IL,111,111,111
+9622,AVweX5PuByjofQCxxod0,"American Restaurant,Pizza Place,American Restaurant and Pizza Place",Accommodation & Food Services,Frankfort,RU,"USD,RUB","Family size pizza served with choice of 1 liter, jumbo size served with choice of 2 liter.",Family or Jumbo Cheese Pizza,Durbins Of Frankfort,25,40,IL,111,111,111
+9623,AVwdr-66ByjofQCxrk8S,Pizza Place,Accommodation & Food Services,Elgin,RU,"USD,RUB",,Stuffed Pizza,Danny's Pizza on Douglas,0,25,IL,111,111,111
+9624,AVwdr-66ByjofQCxrk8S,Pizza Place,Accommodation & Food Services,Elgin,RU,"USD,RUB",,Stuffed Pizza,Danny's Pizza on Douglas,0,25,IL,111,111,111
+9625,AVwdr-66ByjofQCxrk8S,Pizza Place,Accommodation & Food Services,Elgin,RU,"USD,RUB",,Pan Pizza,Danny's Pizza on Douglas,0,25,IL,111,111,111
+9626,AVwdr-66ByjofQCxrk8S,Pizza Place,Accommodation & Food Services,Elgin,RU,"USD,RUB",,Pan Pizza,Danny's Pizza on Douglas,0,25,IL,111,111,111
+9627,AVwdr-66ByjofQCxrk8S,Pizza Place,Accommodation & Food Services,Elgin,RU,"USD,RUB",,Pan Pizza,Danny's Pizza on Douglas,0,25,IL,111,111,111
+9628,AVwdJ54WByjofQCxmDvp,Pizza Place,Accommodation & Food Services,Morton Grove,RU,"USD,RUB",,Pizza Bread,Pequod's Pizzeria,25,40,IL,111,111,111
+9629,AVweCoMh_7pvs4fz_hQ2,"Pizza Place,Pizza Place Brighton Park",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Bread,Falco's,0,25,IL,111,111,111
+9630,AVwduJt5kufWRAb58pFL,"Pizza Place,Pizza Place Edgewater,Caterers,Restaurants,Italian Restaurants,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB","Brie, goat, Parmesan and bleu cheeses (in quarters) .",Quattro Formaggi Pizza,Apart Pizza Company,0,25,IL,111,111,111
+9631,AVwduJt5kufWRAb58pFL,"Pizza Place,Pizza Place Edgewater,Caterers,Restaurants,Italian Restaurants,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB","Ham, pepperoni, bacon, onions and garlic.",Cacciatore Pizza,Apart Pizza Company,0,25,IL,111,111,111
+9632,AVwcxGwz_7pvs4fzyv3Q,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,Stuffed Pizza (Slice),Primos Chicago Pizza Pasta and Subs,0,25,IL,111,111,111
+9633,AVwdKB2VByjofQCxmFJT,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Extra Large 16"" Cheese Pizza",Lina's Pizza,0,25,IL,111,111,111
+9634,AVwdKB2VByjofQCxmFJT,Pizza Place,Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Jumbo 18"" Cheese Pizza",Lina's Pizza,0,25,IL,111,111,111
+9635,AVweZjOX_7pvs4fzCoLK,"Pizza Place,Caterers,Restaurants,Pizza Place Grand Crossing,Pizza Place Avalon Park,Pizza",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Gourmet Stuffed Pizza,Beggers Pizza,0,25,IL,111,111,111
+9636,AVwclK4T_7pvs4fzwrwT,"Pizza,Restaurants,Take Out Restaurants,Pizza Place",Accommodation & Food Services,Berwyn,RU,"USD,RUB",,Add To Large Pizzas,Papa John's Pizza,0,25,IL,111,111,111
+9637,AVwclK4T_7pvs4fzwrwT,"Pizza,Restaurants,Take Out Restaurants,Pizza Place",Accommodation & Food Services,Berwyn,RU,"USD,RUB",,Add to Large Pizzas,Papa John's Pizza,0,25,IL,111,111,111
+9638,AVwczwVLByjofQCxiah8,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,South Elgin,RU,"USD,RUB",,Pizza Bread,Pasta Mia,25,40,IL,111,111,111
+9639,AVwco2W0IN2L1WUfnO5p,Pizza Place,Accommodation & Food Services,Wheaton,RU,"USD,RUB",,"12"" Pizza with 2 Toppings",Evviva Pizzeria,0,25,IL,111,111,111
+9640,AVwco2W0IN2L1WUfnO5p,Pizza Place,Accommodation & Food Services,Wheaton,RU,"USD,RUB",Includes one topping,Pizza Slice,Evviva Pizzeria,0,25,IL,111,111,111
+9641,AVwco2W0IN2L1WUfnO5p,Pizza Place,Accommodation & Food Services,Wheaton,RU,"USD,RUB",,Hawaiian Pizza,Evviva Pizzeria,0,25,IL,111,111,111
+9642,AVwc5xj2ByjofQCxjcJF,"Pizza Place,Coffee Shop",Accommodation & Food Services,Gurnee,RU,"USD,RUB",,"Individual 6"" Sausage Stuffed Deep Dish Pizza",Giordano's Pizza,0,25,IL,111,111,111
+9643,AVwc5xj2ByjofQCxjcJF,"Pizza Place,Coffee Shop",Accommodation & Food Services,Gurnee,RU,"USD,RUB",,Kids Thin Crust Pizza,Giordano's Pizza,0,25,IL,111,111,111
+9644,AVwc5xj2ByjofQCxjcJF,"Pizza Place,Coffee Shop",Accommodation & Food Services,Gurnee,RU,"USD,RUB",,"Individual 6"" Cheese Stuffed Deep Dish Pizza",Giordano's Pizza,0,25,IL,111,111,111
+9645,AVwdMiGsIN2L1WUftOHf,"Pizza Place,Pub",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Stuffed Pizza In The Pan,Gullivers Pizza and Pub Chicago,25,40,IL,111,111,111
+9646,AVwdMiGsIN2L1WUftOHf,"Pizza Place,Pub",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Thin Crust Pizza,Gullivers Pizza and Pub Chicago,25,40,IL,111,111,111
+9647,AVwcx5ol_7pvs4fzy4b4,"Pizza Place,Pizza,Restaurants,Restaurant,Pizza Place West Town",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Pizza Puffs,Naty's Pizza,0,25,IL,111,111,111
+9648,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9649,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9650,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Pizza Sub,Huckleberry's Pizza,0,25,IL,111,111,111
+9651,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9652,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9653,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9654,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9655,AVweM9Gj_7pvs4fzA8Oq,Pizza Place,Accommodation & Food Services,Rock Island,RU,"USD,RUB",,Cheese Pizza,Huckleberry's Pizza,0,25,IL,111,111,111
+9656,AVwcnquEByjofQCxgUUf,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant,Restaurant",Accommodation & Food Services,Troy,RU,"USD,RUB",,Bbq Chicken Pizza,Chandler Brothers' Pizza Man,0,25,IL,111,111,111
+9657,AVwcnquEByjofQCxgUUf,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant,Restaurant",Accommodation & Food Services,Troy,RU,"USD,RUB",,Pizza Man Meat Lovers,Chandler Brothers' Pizza Man,0,25,IL,111,111,111
+9658,AVwdCcB_IN2L1WUfrjvU,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Columbia,RU,"USD,RUB","Chicken, mushrooms and broccoli with an alfredo sauce",Pizza Alla Mario,Joe Boccardi's,25,40,IL,111,111,111
+9659,AVwdCcB_IN2L1WUfrjvU,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Columbia,RU,"USD,RUB",,Pizza Alla Raffaele,Joe Boccardi's,25,40,IL,111,111,111
+9660,AVwdCcB_IN2L1WUfrjvU,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Columbia,RU,"USD,RUB","Eggplant, tomato, red onion and black olives",Pizza Alla Giuseppe,Joe Boccardi's,25,40,IL,111,111,111
+9661,AVwdCcB_IN2L1WUfrjvU,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Columbia,RU,"USD,RUB",,Buffalo Chicken Pizza,Joe Boccardi's,25,40,IL,111,111,111
+9662,AVwdCcB_IN2L1WUfrjvU,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Columbia,RU,"USD,RUB","Hamburger, sausage, bacon, canadian bacon and pepperoni",Pizza Alla Raffaele,Joe Boccardi's,25,40,IL,111,111,111
+9663,AV1gm5SD3-Khe5l_NfTR,"Pizza Place,Restaurant",Accommodation & Food Services,Chicago,RU,"USD,RUB",,Kids Thin Crust Pizza,Giordano's,0,25,IL,111,111,111
+9664,AV1gm5SD3-Khe5l_NfTR,"Pizza Place,Restaurant",Accommodation & Food Services,Chicago,RU,"USD,RUB",,"Individual 6"" Cheese Stuffed Deep Dish Pizza",Giordano's,0,25,IL,111,111,111
+9665,AVwczbTcIN2L1WUfpEFM,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,4 Manggio Stuffed Pizza,Nancy's Pizzeria,0,25,IL,111,111,111
+9666,AVwczbTcIN2L1WUfpEFM,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",Create your own pizza,Medium Thin Crust Cheese Pizza,Nancy's Pizzeria,0,25,IL,111,111,111
+9667,AVwczbTcIN2L1WUfpEFM,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Margherita Pizza,Nancy's Pizzeria,0,25,IL,111,111,111
+9668,AVwczbTcIN2L1WUfpEFM,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",Create your own pizza,Large Thin Crust Cheese Pizza,Nancy's Pizzeria,0,25,IL,111,111,111
+9669,AVwczbTcIN2L1WUfpEFM,Pizza Place,Accommodation & Food Services,Niles,RU,"USD,RUB",,Pan Cheese Pizza,Nancy's Pizzeria,0,25,IL,111,111,111
+9670,AVwczFSkIN2L1WUfpAaH,Pizza Place,Accommodation & Food Services,South Holland,RU,"USD,RUB","With up to 5 toppings, including specialties",Any Large Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9671,AVwczFSkIN2L1WUfpAaH,Pizza Place,Accommodation & Food Services,South Holland,RU,"USD,RUB",,Medium Pizza Offers,Papa John's Pizza,0,25,IL,111,111,111
+9672,AVwczFSkIN2L1WUfpAaH,Pizza Place,Accommodation & Food Services,South Holland,RU,"USD,RUB",Three medium three topping pizzas,Medium Pizza Offers,Papa John's Pizza,0,25,IL,111,111,111
+9673,AVwczFSkIN2L1WUfpAaH,Pizza Place,Accommodation & Food Services,South Holland,RU,"USD,RUB",,Any Large Pizza,Papa John's Pizza,0,25,IL,111,111,111
+9674,AVwdouMjByjofQCxrEjW,Pizza Place,Accommodation & Food Services,Aurora,RU,"USD,RUB",,Add to Large Pizzas,Papa John's Pizza,0,25,IL,111,111,111
+9675,AVz6kzsQFcQ3k02bDhwQ,"Pizza Place,Restaurants",Accommodation & Food Services,Saint Charles,RU,"USD,RUB",,"Individual 6"" Pepperoni Stuffed Deep Dish Pizza",Giordano's Pizza,0,25,IL,111,111,111
+9676,AVz6kzsQFcQ3k02bDhwQ,"Pizza Place,Restaurants",Accommodation & Food Services,Saint Charles,RU,"USD,RUB",,"Individual 6"" Cheese Stuffed Deep Dish Pizza",Giordano's Pizza,0,25,IL,111,111,111

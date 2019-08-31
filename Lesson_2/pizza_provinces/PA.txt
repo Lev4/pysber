@@ -1,0 +1,815 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+3864,AVwdfIbIByjofQCxplnX,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,Mikes Pizza,0,25,PA,172,172,172
+3865,AWESAELwa4HuVbedMwTP,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Washington Crossing,RU,"USD,RUB",,Nick's Specialty Pizza,Dominicks Pizzeria Italian Restaurant,0,25,PA,172,172,172
+3866,AWESAELwa4HuVbedMwTP,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Washington Crossing,RU,"USD,RUB",,Buffalo Wing Pizza,Dominicks Pizzeria Italian Restaurant,0,25,PA,172,172,172
+3867,AVzBAZ_fLD2H7whiWJVU,"American Restaurant,Pizza Place",Accommodation & Food Services,Warminster,RU,"USD,RUB",,Gluten Free Tomato Pie Or Cheese Pizza,Tonys Place Bar and Grille,25,40,PA,172,172,172
+3868,AVzBAZ_fLD2H7whiWJVU,"American Restaurant,Pizza Place",Accommodation & Food Services,Warminster,RU,"USD,RUB",,Tony's Cheese Pizza,Tonys Place Bar and Grille,25,40,PA,172,172,172
+3869,AVzBAZ_fLD2H7whiWJVU,"American Restaurant,Pizza Place",Accommodation & Food Services,Warminster,RU,"USD,RUB",,Kids Cheese Pizza,Tonys Place Bar and Grille,25,40,PA,172,172,172
+3870,AVzX8tJF3D1zeR_xBpwF,Pizza Place,Accommodation & Food Services,Fort Washington,RU,"USD,RUB",,White Pizza,Lucianis Brick Oven Pizzeria,0,25,PA,172,172,172
+3871,AVzX8tJF3D1zeR_xBpwF,Pizza Place,Accommodation & Food Services,Fort Washington,RU,"USD,RUB",,Pizza Fries,Lucianis Brick Oven Pizzeria,0,25,PA,172,172,172
+3872,AVzX8tJF3D1zeR_xBpwF,Pizza Place,Accommodation & Food Services,Fort Washington,RU,"USD,RUB",,Pizza Capri,Lucianis Brick Oven Pizzeria,0,25,PA,172,172,172
+3873,AVzX8tJF3D1zeR_xBpwF,Pizza Place,Accommodation & Food Services,Fort Washington,RU,"USD,RUB",,Pizza Burger,Lucianis Brick Oven Pizzeria,0,25,PA,172,172,172
+3874,AVzBAu6P3D1zeR_xBELj,Pizza Place,Accommodation & Food Services,Lancaster,RU,"USD,RUB",,Pizza Burger Sub,Carusos,0,25,PA,172,172,172
+3875,AVwc0N6eIN2L1WUfpNLq,"Pizza,Restaurant,Pizza Restaurants,American,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Greek Pizza,Station Pizza,0,25,PA,172,172,172
+3876,AVwc0N6eIN2L1WUfpNLq,"Pizza,Restaurant,Pizza Restaurants,American,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Burger,Station Pizza,0,25,PA,172,172,172
+3877,AVwdJIVqkufWRAb52udn,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Plain Pizza,Key Pizza,0,25,PA,172,172,172
+3878,AVwdEqgLIN2L1WUfr74E,Pizza Place,Accommodation & Food Services,Morrisville,RU,"USD,RUB",,Pizza Steak,Francos Tomato Pies,0,25,PA,172,172,172
+3879,AVwc1L40kufWRAb5zezY,"Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,1 XLgampcomma Pizzaampcomma 1 Spaghetti With Meatballs Or Sausageampcomma Garden Salad ampamp 12 Liter Soda,Giovannis Pizza,0,25,PA,172,172,172
+3880,AVwc1L40kufWRAb5zezY,"Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",steakampcomma onionsampcomma peppersampcomma mushrooms ampamp pepperoni,Giovannis Special Pizza,Giovannis Pizza,0,25,PA,172,172,172
+3881,AVwc1L40kufWRAb5zezY,"Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",sauce ampamp cheese,Pizza Steak,Giovannis Pizza,0,25,PA,172,172,172
+3882,AVwc1L40kufWRAb5zezY,"Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,2 14ampquot Pizzaampcomma 30 Buffalo Wingsampcomma 2 French Friesampcomma ampamp 12 Liter Soda,Giovannis Pizza,0,25,PA,172,172,172
+3883,AVwc1L40kufWRAb5zezY,"Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,1 16ampquot Pizzaampcomma 20 Buffalo Wingsampcomma 1 French Fries ampamp 12 Liter Soda,Giovannis Pizza,0,25,PA,172,172,172
+3884,AVwc1L40kufWRAb5zezY,"Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,Giovannis Pizza,0,25,PA,172,172,172
+3885,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3886,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Pizza Fries,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3887,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,White Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3888,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,New Chicken Ranch Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3889,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,New Taco Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3890,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Hawaiian Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3891,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,White Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3892,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Barbeque Chicken Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3893,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,White Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3894,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,White Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3895,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Barbeque Chicken Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3896,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Buffalo Chicken Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3897,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Veggie Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3898,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Chicken Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3899,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Cheese Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3900,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Cheese Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3901,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Meat Lover's Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3902,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,New Ranch Romano Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3903,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,New Ranch Romano Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3904,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,New Chicken Ranch Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3905,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,New Taco Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3906,AVzA-pVeFcQ3k02bBalo,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Leola,RU,"USD,RUB",,Buffalo Chicken Pizza,Rosarios Pronto Pizza Italian Restaurant,0,25,PA,172,172,172
+3907,AVweeHeH_7pvs4fzDSWW,Pizza Place,Accommodation & Food Services,Avondale,RU,"USD,RUB",,Zeppoli (Pizza Fritta),Bravos Pizza of Avondale,0,25,PA,172,172,172
+3908,AVweeHeH_7pvs4fzDSWW,Pizza Place,Accommodation & Food Services,Avondale,RU,"USD,RUB",,Pizza Steak,Bravos Pizza of Avondale,0,25,PA,172,172,172
+3909,AVweeHeH_7pvs4fzDSWW,Pizza Place,Accommodation & Food Services,Avondale,RU,"USD,RUB",,White Pizza (3 Cheeses),Bravos Pizza of Avondale,0,25,PA,172,172,172
+3910,AVweeHeH_7pvs4fzDSWW,Pizza Place,Accommodation & Food Services,Avondale,RU,"USD,RUB","Sliced tomatoes, fresh mozzarella and fresh basil",Margarita Pizza (white),Bravos Pizza of Avondale,0,25,PA,172,172,172
+3911,AVweeHeH_7pvs4fzDSWW,Pizza Place,Accommodation & Food Services,Avondale,RU,"USD,RUB",,Pizza Steak,Bravos Pizza of Avondale,0,25,PA,172,172,172
+3912,AV4rAwqWRxPSIh2RexIM,Pizza Place,Accommodation & Food Services,Enola,RU,"USD,RUB",,Cheese Pizza,Als Pizza Subs,0,25,PA,172,172,172
+3913,AVweTVu0kufWRAb5BvuI,"Restaurant,Pizza Place",Accommodation & Food Services,Pottstown,RU,"USD,RUB",,Pizza Fries,Tornettas Pizzeria,0,25,PA,172,172,172
+3914,AVweTVu0kufWRAb5BvuI,"Restaurant,Pizza Place",Accommodation & Food Services,Pottstown,RU,"USD,RUB",Mozzarella Cheese amp Sauce,Pizza Steak,Tornettas Pizzeria,0,25,PA,172,172,172
+3915,AVzA98iv3D1zeR_xBCls,"Pizza,Restaurant,Italian Restaurant,Italian,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Sicilian Pizza,LaScalas,0,25,PA,172,172,172
+3916,AVwcwMf7kufWRAb5yppT,"Pizza,Restaurant,Military Attorneys,Pizza Place,Restaurants","Retail,Accommodation & Food Services",Philadelphia,RU,"USD,RUB",,Pizza Steak,The Pizza Shop,0,7,PA,172,172,172
+3917,AVwcwMf7kufWRAb5yppT,"Pizza,Restaurant,Military Attorneys,Pizza Place,Restaurants","Retail,Accommodation & Food Services",Philadelphia,RU,"USD,RUB",,7 2 Medium Cheese Pizzas ampamp 1 2 Liter Soda,The Pizza Shop,0,7,PA,172,172,172
+3918,AVzYRMPsLD2H7whiWxds,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bensalem,RU,"USD,RUB",,16x16 Brooklyn Pizza,Allstar Pizza,0,25,PA,172,172,172
+3919,AVwcv4V-IN2L1WUfoc1a,"Pizza Place University City,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Pizza,Drexel Pizza,0,25,PA,172,172,172
+3920,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Pizza Bread,Drexel Hill Pizza,25,40,PA,172,172,172
+3921,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Pizza Fries,Drexel Hill Pizza,25,40,PA,172,172,172
+3922,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White Pizza Large,Drexel Hill Pizza,25,40,PA,172,172,172
+3923,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White Pizza Small,Drexel Hill Pizza,25,40,PA,172,172,172
+3924,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",Our spicy BBQ sauce and mozzarella cheese,BBQ Chicken Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3925,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White Pizza Medium,Drexel Hill Pizza,25,40,PA,172,172,172
+3926,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",Our classic topped with sliced imported ham or bacon and sliced pineapple,Hawaiian Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3927,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Pizza Steak,Drexel Hill Pizza,25,40,PA,172,172,172
+3928,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Mozzarella Sticks Pizza Sauce,Drexel Hill Pizza,25,40,PA,172,172,172
+3929,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White with Grilled Chicken Broccoli Ricotta Cheese Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3930,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",Our classic topped with mushrooms pepperoni sausage green pepper onion and olives,Special Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3931,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White Pizza Large,Drexel Hill Pizza,25,40,PA,172,172,172
+3932,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White Broccoli and Sliced Tomatoes Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3933,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,White Pizza Large,Drexel Hill Pizza,25,40,PA,172,172,172
+3934,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",Pizza sauce topped with Roma tomatoes fresh mozzarella cheese and fresh basil,Margherita Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3935,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",Red or white Broccoli mushroom tomato onion green pepper and olives Vegetarian,Vegetarian Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3936,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Plain Sauce and Cheese Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3937,AVzoFevqLD2H7whiXica,"Restaurant,Pizza Place",Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",Green pepper onion mozzarella cheese and sauce,Steak Pizza,Drexel Hill Pizza,25,40,PA,172,172,172
+3938,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB",,Sicilian Special Pizza,Marios Pizza,0,25,PA,172,172,172
+3939,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB",,"Stuffed Pizza ""Chicago Style""",Marios Pizza,0,25,PA,172,172,172
+3940,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB","Steak, lettuce, tomatoes, onion, mozzarella, hot peppers",German Pizza,Marios Pizza,0,25,PA,172,172,172
+3941,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB",,Pizza Margherita,Marios Pizza,0,25,PA,172,172,172
+3942,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB","Ground beef, lettuce, tomato, onion, cheddar cheese and taco sauce",Taco Pizza,Marios Pizza,0,25,PA,172,172,172
+3943,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB","Broccoli, spinach, mushrooms, onions, green peppers, sauce and mozzarella",Vegetable Pizza,Marios Pizza,0,25,PA,172,172,172
+3944,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB",,Buffalo Chicken Pizza,Marios Pizza,0,25,PA,172,172,172
+3945,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB",,Sicilian Pizza,Marios Pizza,0,25,PA,172,172,172
+3946,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB",,White Pizza With Broccoli or Spinach,Marios Pizza,0,25,PA,172,172,172
+3947,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB","Ricotta and mozzarella, no sauce",White Pizza,Marios Pizza,0,25,PA,172,172,172
+3948,AVwcz5nZIN2L1WUfpJf8,Pizza Place,Accommodation & Food Services,Northampton,RU,"USD,RUB","Chicken, hot sauce, blue cheese, cheddar cheese, mozzarella cheese",Buffalo Chicken Pizza,Marios Pizza,0,25,PA,172,172,172
+3949,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Meat Lover's Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3950,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Philadelphia Steak Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3951,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Fajita Chicken Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3952,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Broccoli Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3953,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Jambalaya Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3954,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Margherita Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3955,AVzA-v5WFcQ3k02bBapq,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Tomato Pizza,Top Tomato Pizza Cafe,0,25,PA,172,172,172
+3956,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Meatballs hot sausage pepperoni ham and bacon,Meat Eaters Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3957,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Soldier & Sailors Supreme Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3958,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Mushrooms onions black olives hot peppers broccoli and green peppers,Veggie Lovers Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3959,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Sicilian Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3960,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Olive oil sliced tomato pepperoni spinach and ricotta,Atwood Street Special Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3961,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Thicker round crust seasoned with garlic and topped with tomato fillets,Chicago Style Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3962,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Red sauce on a thin crust,Traditional Round Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3963,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Hawaiian Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3964,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Chicken BBQ sauce onions and bacon,BBQ Chicken Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3965,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Pizza Bagel,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3966,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Veggie Lovers Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3967,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Not available for delivery,Late Night Pickup Special 1 Large Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3968,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Breaded chicken homemade Buffalo sauce and a side of our ranch,Buffalo Chicken Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3969,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Traditional Round Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3970,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Hot sausage meatballs green peppers onions and hot peppers,Forbes Field Original Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3971,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Extra Large 1 Topping Pizza Special,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3972,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",4 Large Traditional Pizzas Not available for PickUp,Late Night Delivery Special 4 Pizzas,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3973,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Forbes Field Original Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3974,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Chunks of pineapple topped with sliced ham,Hawaiian Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3975,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",3 Large Traditional Pizzas Not available for PickUp,Late Night Delivery Special 3 Pizzas,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3976,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Buffalo Chicken Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3977,AVweTTECIN2L1WUf3u9S,"Restaurant,Pizza Place Central Oakland,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,White Pizza,Sorrentos Pizza Roma,0,25,PA,172,172,172
+3978,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Margherita Pizza,Olive Peppers,0,25,PA,172,172,172
+3979,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB","Fire roasted tomoatoes, spinach, portabella mushrooms, onions, no cheese",Rossa Pizza,Olive Peppers,0,25,PA,172,172,172
+3980,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Cheese Plain Pizza,Olive Peppers,0,25,PA,172,172,172
+3981,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",With pepperoni,Mini Pizza,Olive Peppers,0,25,PA,172,172,172
+3982,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Spinach Pizza,Olive Peppers,0,25,PA,172,172,172
+3983,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Primavera Pizza,Olive Peppers,0,25,PA,172,172,172
+3984,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Primavera Pizza,Olive Peppers,0,25,PA,172,172,172
+3985,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Rossa Pizza,Olive Peppers,0,25,PA,172,172,172
+3986,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Caldo Pizza,Olive Peppers,0,25,PA,172,172,172
+3987,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Margherita Pizza,Olive Peppers,0,25,PA,172,172,172
+3988,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB","Crushed tomatoes, fresh basil, fresh mozzarell",Margherita Pizza,Olive Peppers,0,25,PA,172,172,172
+3989,AVweb2cFByjofQCxyK3d,Pizza Place,Accommodation & Food Services,Bakerstown,RU,"USD,RUB",,Cheese Plain Pizza,Olive Peppers,0,25,PA,172,172,172
+3990,AV0dKBpC-gnIPe8DV-Uw,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Mechanicsburg,RU,"USD,RUB",,Pizza Burger,JoJos Pizza Pasta,0,25,PA,172,172,172
+3991,AV0dKBpC-gnIPe8DV-Uw,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Mechanicsburg,RU,"USD,RUB",,Slice Cheese Pizza,JoJos Pizza Pasta,0,25,PA,172,172,172
+3992,AVweEkGKIN2L1WUf1u4v,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pepperoni Pizza Fries,Accu Pizza,25,40,PA,172,172,172
+3993,AVzBAZHyLD2H7whiWJVB,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Norristown,RU,"USD,RUB",,White Pizza,Primos Brick Oven Pizza,0,25,PA,172,172,172
+3994,AVzBAZHyLD2H7whiWJVB,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Norristown,RU,"USD,RUB",,Pizza Fries,Primos Brick Oven Pizza,0,25,PA,172,172,172
+3995,AVzBAZHyLD2H7whiWJVB,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Norristown,RU,"USD,RUB",,Pizza Burger,Primos Brick Oven Pizza,0,25,PA,172,172,172
+3996,AVzThCWTFcQ3k02bB0ED,"Pizza Place,Dive Bar",Accommodation & Food Services,Irwin,RU,"USD,RUB",,Pita Pizza Toppings Included,Pizza Gyro Express,0,25,PA,172,172,172
+3997,AVz1W4RH3D1zeR_xC3Pu,Pizza Place,Accommodation & Food Services,Glenside,RU,"USD,RUB",,Pizza Steak,Apollo Pizza,0,25,PA,172,172,172
+3998,AVz1W4RH3D1zeR_xC3Pu,Pizza Place,Accommodation & Food Services,Glenside,RU,"USD,RUB",,Chicken Pizza Steak,Apollo Pizza,0,25,PA,172,172,172
+3999,AVz1W4RH3D1zeR_xC3Pu,Pizza Place,Accommodation & Food Services,Glenside,RU,"USD,RUB",,Louisiana Pizza,Apollo Pizza,0,25,PA,172,172,172
+4000,AVz1W4RH3D1zeR_xC3Pu,Pizza Place,Accommodation & Food Services,Glenside,RU,"USD,RUB",,Pizza Burger,Apollo Pizza,0,25,PA,172,172,172
+4001,AVzA9l_j3D1zeR_xBCQZ,Pizza Place,Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Sicilian Pizza,Crust,0,25,PA,172,172,172
+4002,AVzoFH27LD2H7whiXh_4,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Doylestown,RU,"USD,RUB",One size thick crust fresh garlic chopped tomato red onion grated pecorino cheese and olive oil Additional toppings extra,Bruschetta Sicilian Pizza,Artistic Pizzeria,0,25,PA,172,172,172
+4003,AVzoFH27LD2H7whiXh_4,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Doylestown,RU,"USD,RUB",Mozzarella sauce sausage pepperoni meatball and bacon,18ampquot Stuffed Priazzo Pizza,Artistic Pizzeria,0,25,PA,172,172,172
+4004,AVzoFH27LD2H7whiXh_4,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Doylestown,RU,"USD,RUB",One Size thick square crust with sauce fresh mozzarella basil and grated pecorino cheese Additional toppings extra,La Nonna Sicilian Pizza,Artistic Pizzeria,0,25,PA,172,172,172
+4005,AVwc4L7_IN2L1WUfp4Ax,"Pizza,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Pizza,Joe Santuccis Square Pizza Bar and Grill,0,25,PA,172,172,172
+4006,AVwc4L7_IN2L1WUfp4Ax,"Pizza,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza,Joe Santuccis Square Pizza Bar and Grill,0,25,PA,172,172,172
+4007,AVwdSzh4_7pvs4fz4W3A,"Diner and Pizza Place,Diner,Pizza Place,Diner and Pizza Place Northern Liberties - Fishtown",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,Paradise Restaurant Pizzeria,0,25,PA,172,172,172
+4008,AVwdSzh4_7pvs4fz4W3A,"Diner and Pizza Place,Diner,Pizza Place,Diner and Pizza Place Northern Liberties - Fishtown",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Burger,Paradise Restaurant Pizzeria,0,25,PA,172,172,172
+4009,AVwdSzh4_7pvs4fz4W3A,"Diner and Pizza Place,Diner,Pizza Place,Diner and Pizza Place Northern Liberties - Fishtown",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","12 pc. chicken nuggets, 1 french fry.",2 Sm. Cheese Pizzas,Paradise Restaurant Pizzeria,0,25,PA,172,172,172
+4010,AVwdSzh4_7pvs4fz4W3A,"Diner and Pizza Place,Diner,Pizza Place,Diner and Pizza Place Northern Liberties - Fishtown",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Plain,Paradise Restaurant Pizzeria,0,25,PA,172,172,172
+4011,AVwdSzh4_7pvs4fz4W3A,"Diner and Pizza Place,Diner,Pizza Place,Diner and Pizza Place Northern Liberties - Fishtown",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Steak Pizza,Paradise Restaurant Pizzeria,0,25,PA,172,172,172
+4012,AVwdSzh4_7pvs4fz4W3A,"Diner and Pizza Place,Diner,Pizza Place,Diner and Pizza Place Northern Liberties - Fishtown",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,2 Lg. Cheese Pizzas,Paradise Restaurant Pizzeria,0,25,PA,172,172,172
+4013,AVwcid7rIN2L1WUfmDzX,"Pizza,Restaurant,Caterers,Pizza Place Haverford,Pizza Place,Restaurants",Accommodation & Food Services,Havertown,RU,"USD,RUB",,Pizza Fries,Cenzos Pizzeria,0,25,PA,172,172,172
+4014,AVzA99JbLD2H7whiWIB1,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Tomato Pizza,Zios Pizza,0,25,PA,172,172,172
+4015,AVzA99JbLD2H7whiWIB1,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Margherita Pizza,Zios Pizza,0,25,PA,172,172,172
+4016,AVzA99JbLD2H7whiWIB1,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Buffalo Chicken Pizza,Zios Pizza,0,25,PA,172,172,172
+4017,AVzA99JbLD2H7whiWIB1,"Pizza,Restaurant,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Hawaiian Pizza,Zios Pizza,0,25,PA,172,172,172
+4018,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB","Pepperoni, sausage, mushroom, onion, green peppers",Chicago Works Pizza,Pizza Plaza,0,25,PA,172,172,172
+4019,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Pizza Plaza,Pizza Plaza,0,25,PA,172,172,172
+4020,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Bruschetta Pizza,Pizza Plaza,0,25,PA,172,172,172
+4021,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Chicago Cheese Pizza,Pizza Plaza,0,25,PA,172,172,172
+4022,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Pizza Burger,Pizza Plaza,0,25,PA,172,172,172
+4023,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Chicken Pizza,Pizza Plaza,0,25,PA,172,172,172
+4024,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Ricotta Pizza,Pizza Plaza,0,25,PA,172,172,172
+4025,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB","Pepperoni, sausage, mushrooms, green peppers, onions",Pizza Plaza Special,Pizza Plaza,0,25,PA,172,172,172
+4026,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Veggie Pizza,Pizza Plaza,0,25,PA,172,172,172
+4027,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Pizza Plaza Special,Pizza Plaza,0,25,PA,172,172,172
+4028,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Hawaiian Pizza,Pizza Plaza,0,25,PA,172,172,172
+4029,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Pita Pizza,Pizza Plaza,0,25,PA,172,172,172
+4030,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,Chicago Works Pizza,Pizza Plaza,0,25,PA,172,172,172
+4031,AVwcpOdFIN2L1WUfnS6K,Pizza Place,Accommodation & Food Services,Horsham,RU,"USD,RUB",,12&#34 Focaccia Pizza,Pizza Plaza,0,25,PA,172,172,172
+4032,AVweMVGzIN2L1WUf2y5k,Pizza Place,Accommodation & Food Services,Belle Vernon,RU,"USD,RUB",,White Pizza,Jakes Pizza Rostraver,0,25,PA,172,172,172
+4033,AVweMVGzIN2L1WUf2y5k,Pizza Place,Accommodation & Food Services,Belle Vernon,RU,"USD,RUB",,Pizza,Jakes Pizza Rostraver,0,25,PA,172,172,172
+4034,AVweMVGzIN2L1WUf2y5k,Pizza Place,Accommodation & Food Services,Belle Vernon,RU,"USD,RUB",,9 Inch Pizza,Jakes Pizza Rostraver,0,25,PA,172,172,172
+4035,AVweMVGzIN2L1WUf2y5k,Pizza Place,Accommodation & Food Services,Belle Vernon,RU,"USD,RUB",,Pizza Burger,Jakes Pizza Rostraver,0,25,PA,172,172,172
+4036,AVweMVGzIN2L1WUf2y5k,Pizza Place,Accommodation & Food Services,Belle Vernon,RU,"USD,RUB",,16 Inch Pizza,Jakes Pizza Rostraver,0,25,PA,172,172,172
+4037,AV1c-9ma3-Khe5l_Mcvx,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Wellsboro,RU,"USD,RUB",,Bbq Chicken Pizza,Pudgies Pizza,0,25,PA,172,172,172
+4038,AV1c-9ma3-Khe5l_Mcvx,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Wellsboro,RU,"USD,RUB",,Regular Pizza,Pudgies Pizza,0,25,PA,172,172,172
+4039,AV1c-9ma3-Khe5l_Mcvx,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Wellsboro,RU,"USD,RUB",,Cheesesteak Pizza,Pudgies Pizza,0,25,PA,172,172,172
+4040,AVwciCY0IN2L1WUfl-dw,Pizza Place,Accommodation & Food Services,Palmerton,RU,"USD,RUB",,Vegetarian Pizza,Tonys Pizza,0,25,PA,172,172,172
+4041,AVwciCY0IN2L1WUfl-dw,Pizza Place,Accommodation & Food Services,Palmerton,RU,"USD,RUB",,Margarita Pizza,Tonys Pizza,0,25,PA,172,172,172
+4042,AVwciCY0IN2L1WUfl-dw,Pizza Place,Accommodation & Food Services,Palmerton,RU,"USD,RUB",,Buffalo Chicken Pizza,Tonys Pizza,0,25,PA,172,172,172
+4043,AVwciCY0IN2L1WUfl-dw,Pizza Place,Accommodation & Food Services,Palmerton,RU,"USD,RUB",,Alfredo Sauce Pizza,Tonys Pizza,0,25,PA,172,172,172
+4044,AVwciCY0IN2L1WUfl-dw,Pizza Place,Accommodation & Food Services,Palmerton,RU,"USD,RUB",,Lasagna Pizza,Tonys Pizza,0,25,PA,172,172,172
+4045,AVwciCY0IN2L1WUfl-dw,Pizza Place,Accommodation & Food Services,Palmerton,RU,"USD,RUB",,White Pizza,Tonys Pizza,0,25,PA,172,172,172
+4046,AVwdeVux_7pvs4fz6Qas,"Restaurant,Pizza Place",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",Two certified 100 angus beef pattiesampcomma topped with sauce ampamp baked with parmesan and provolone cheeses,Pizza Burger,Toninos Pizza Grille,0,25,PA,172,172,172
+4047,AVzA-oKj-gnIPe8DSf38,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coatesville,RU,"USD,RUB",mushroomsampcomma peppersampcomma onionsampcomma olivesampcomma sausageampcomma pepperoniampcomma sauce and mozzarella,The Works Pizza,Jacks Pizza,0,25,PA,172,172,172
+4048,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",,Chicken Pesto Pizza,Tonys Pizza,0,25,PA,172,172,172
+4049,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",,Pizza Raponese,Tonys Pizza,0,25,PA,172,172,172
+4050,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",This pizza special not available for delivery.,1 Large Cheese Pizza and A Pitcher of Soda,Tonys Pizza,0,25,PA,172,172,172
+4051,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",This pizza special not available for delivery.,2 Large Cheese Pizzas,Tonys Pizza,0,25,PA,172,172,172
+4052,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",Your choice of three toppings folded in a pizza dough with mozzarella cheese.,Pizza Puff,Tonys Pizza,0,25,PA,172,172,172
+4053,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",Small,Slice of Regular Pizza,Tonys Pizza,0,25,PA,172,172,172
+4054,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",With ricotta and mozzarella cheese.,White Cheese Pizza,Tonys Pizza,0,25,PA,172,172,172
+4055,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",,B.b.q Chicken Pizza,Tonys Pizza,0,25,PA,172,172,172
+4056,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB","San marzano tomatoes, ham and pineapple.",Hawaiian Pizza,Tonys Pizza,0,25,PA,172,172,172
+4057,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",Small,Slice of Special Pizza,Tonys Pizza,0,25,PA,172,172,172
+4058,AVwdVui4IN2L1WUfuxbD,Pizza Place,Accommodation & Food Services,Greencastle,RU,"USD,RUB",,2 Medium Cheese Pizzas,Tonys Pizza,0,25,PA,172,172,172
+4059,AVwcrdgZ_7pvs4fzxyiL,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,"2 Large 16"" Cheese Pizzas",Illiano Pizza Restaurant,0,25,PA,172,172,172
+4060,AVwcrdgZ_7pvs4fzxyiL,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Buffalo Chicken Pizza (Lg),Illiano Pizza Restaurant,0,25,PA,172,172,172
+4061,AVwcrdgZ_7pvs4fzxyiL,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,Illiano Pizza Restaurant,0,25,PA,172,172,172
+4062,AVzBEzoMLD2H7whiWL7R,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Lancaster,RU,"USD,RUB",Jalapenosampcomma tomatoes,Mexican Pizza,Antonio's Pizza House,0,25,PA,172,172,172
+4063,AVz7oLcSLD2H7whiYQEH,Pizza Place,Accommodation & Food Services,Broomall,RU,"USD,RUB",,Pizza Burger,Alfredos,0,25,PA,172,172,172
+4064,AVz7oLcSLD2H7whiYQEH,Pizza Place,Accommodation & Food Services,Broomall,RU,"USD,RUB",,Pizza Fries,Alfredos,0,25,PA,172,172,172
+4065,AVzA-xC9FcQ3k02bBaqa,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Up Side Down Pizza,Yunique Pizza,0,25,PA,172,172,172
+4066,AVzA-xC9FcQ3k02bBaqa,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Burgers,Yunique Pizza,0,25,PA,172,172,172
+4067,AVzA-xC9FcQ3k02bBaqa,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak Or Pepperoni Cheese Steak,Yunique Pizza,0,25,PA,172,172,172
+4068,AVzoFKCR3D1zeR_xCY3-,"Restaurant,Pizza Place",Accommodation & Food Services,Glenside,RU,"USD,RUB",8 oz of marinated sirloin steak on a foot long roll topped with pizza sauce and mozzarella cheese toasted to perfection Served with our without fried onions and your choice of cheese,Pizza Steak Sandwich,Glenside Pizza,0,25,PA,172,172,172
+4069,AVzoFKCR3D1zeR_xCY3-,"Restaurant,Pizza Place",Accommodation & Food Services,Glenside,RU,"USD,RUB",,Gluten Free Pizza,Glenside Pizza,0,25,PA,172,172,172
+4070,AVzoFKCR3D1zeR_xCY3-,"Restaurant,Pizza Place",Accommodation & Food Services,Glenside,RU,"USD,RUB",Limit 2 specials per order,2 Large Cheese Pizzas Family Special,Glenside Pizza,0,25,PA,172,172,172
+4071,AVzoFKCR3D1zeR_xCY3-,"Restaurant,Pizza Place",Accommodation & Food Services,Glenside,RU,"USD,RUB",12 liter soda Limit 2 specials per order,1 Large Plain Cheese Pizza and 10 Piece Wings Family Special,Glenside Pizza,0,25,PA,172,172,172
+4072,AVzoFKCR3D1zeR_xCY3-,"Restaurant,Pizza Place",Accommodation & Food Services,Glenside,RU,"USD,RUB",12 liter soda Limit 2 specials per order,1 Large Plain Pizza and 2 Cheesesteaks Family Special,Glenside Pizza,0,25,PA,172,172,172
+4073,AVzX8tf-FcQ3k02bCExO,"Restaurant,Pizza Place",Accommodation & Food Services,Dresher,RU,"USD,RUB",,Pizza Fries,Mamas Pizza IV,0,25,PA,172,172,172
+4074,AVzX8tf-FcQ3k02bCExO,"Restaurant,Pizza Place",Accommodation & Food Services,Dresher,RU,"USD,RUB",,Pizza Burger,Mamas Pizza IV,0,25,PA,172,172,172
+4075,AVzX8tf-FcQ3k02bCExO,"Restaurant,Pizza Place",Accommodation & Food Services,Dresher,RU,"USD,RUB",,Pizza Steak with Tried Onion,Mamas Pizza IV,0,25,PA,172,172,172
+4076,AVzxmK1fLD2H7whiX3u-,Pizza Place,Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Pizza Steak,Janos,0,25,PA,172,172,172
+4077,AVzxmK1fLD2H7whiX3u-,Pizza Place,Accommodation & Food Services,Drexel Hill,RU,"USD,RUB",,Pizza By the Slice,Janos,0,25,PA,172,172,172
+4078,AVwderupIN2L1WUfwOgT,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Meat Lovers Pizza,Mama's Pizza,0,25,PA,172,172,172
+4079,AVwderupIN2L1WUfwOgT,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB","Beef, pepperoni, italian sausage, and canadian bacon.",All Meat Pizza,Mama's Pizza,0,25,PA,172,172,172
+4080,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Grilled sweet pepper steak homemade sauce and cheese on fresh dough,Pepper Steak Pizza,Mario's Pizza,0,25,PA,172,172,172
+4081,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Slice of Sicilian Cheese Pizza,Mario's Pizza,0,25,PA,172,172,172
+4082,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Stuffed Pizza Double Crust,Mario's Pizza,0,25,PA,172,172,172
+4083,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Six slices Thick crust pizza sauce and mozzarella cheese,16ampquot Thick Crust Half Sicilian Pan Pizza,Mario's Pizza,0,25,PA,172,172,172
+4084,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Ham pineapple bacon homemade sauce and mozzarella cheese on fresh dough,Hawaiian Pizza,Mario's Pizza,0,25,PA,172,172,172
+4085,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Slice of Specialty Pizza,Mario's Pizza,0,25,PA,172,172,172
+4086,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Provolone mozzarella and fresh ricotta cheeses and fresh garlic on fresh dough,White Pizza,Mario's Pizza,0,25,PA,172,172,172
+4087,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Marinated chicken breast with mozzarella cheese and homemade tomato sauce on fresh dough,Grilled Chicken Pizza,Mario's Pizza,0,25,PA,172,172,172
+4088,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,2 Large Cheese Pizzas and 2Liter Special,Mario's Pizza,0,25,PA,172,172,172
+4089,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Breaded chicken cutlet bacon and ranch dressing topped with mozzarella cheese on fresh dough,Ranch Chicken Pizza,Mario's Pizza,0,25,PA,172,172,172
+4090,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Chicken Parmigiana Pizza,Mario's Pizza,0,25,PA,172,172,172
+4091,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,1 Large 1Topping Pizza and 12 Wings Special,Mario's Pizza,0,25,PA,172,172,172
+4092,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Hawaiian Pizza,Mario's Pizza,0,25,PA,172,172,172
+4093,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Pizza sauce and mozzarella cheese,Pizza Steak,Mario's Pizza,0,25,PA,172,172,172
+4094,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Grilled chicken steak with BBQ sauce sauce and cheese on fresh dough,BBQ Chicken Pizza,Mario's Pizza,0,25,PA,172,172,172
+4095,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Slice of Thin Crust Cheese Pizza,Mario's Pizza,0,25,PA,172,172,172
+4096,AVwcfGjW_7pvs4fzvlJb,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Ground beef hot sauce bleu cheese lettuce and tomatoes on fresh dough,Taco Pizza,Mario's Pizza,0,25,PA,172,172,172
+4097,AVweiIY3IN2L1WUf51I2,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",Hamampcomma pineapple and bacon,Hawaiian Pizza,Pat's Pizzeria,0,25,PA,172,172,172
+4098,AVweiIY3IN2L1WUf51I2,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",,Happy Birthday Pizza,Pat's Pizzeria,0,25,PA,172,172,172
+4099,AVweiIY3IN2L1WUf51I2,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",Black olivesampcomma mushroomsampcomma onionsampcomma tomatoes and fresh peppers,Vegetarian Pizza,Pat's Pizzeria,0,25,PA,172,172,172
+4100,AVweiIY3IN2L1WUf51I2,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",,White Pizza,Pat's Pizzeria,0,25,PA,172,172,172
+4101,AVweiIY3IN2L1WUf51I2,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",,Medium Cheese Pizza Special,Pat's Pizzeria,0,25,PA,172,172,172
+4102,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,2 Medium Cheese Pizzas,Original Mama's Pizza,0,25,PA,172,172,172
+4103,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Cheese Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4104,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,All You Can Eat Pizza & Wings!!,Original Mama's Pizza,0,25,PA,172,172,172
+4105,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,2 Large Cheese Pizzas and 20 Jumbo Wings,Original Mama's Pizza,0,25,PA,172,172,172
+4106,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",Same great Mamas pizza now Gluten Free,Specialty Gluten Free Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4107,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Pizza Fries,Original Mama's Pizza,0,25,PA,172,172,172
+4108,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,All You Can Eat Pizza & Wings,Original Mama's Pizza,0,25,PA,172,172,172
+4109,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Counter Style Stuffed Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4110,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Pizza Fries,Original Mama's Pizza,0,25,PA,172,172,172
+4111,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",Includes any Specialty Pizza,Large Unlimited Topping Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4112,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Large Unlimited Topping Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4113,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Cheese Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4114,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,2 Large Cheese Pizzas and 20 Jumbo Wings & 2 Liter Soda,Original Mama's Pizza,0,25,PA,172,172,172
+4115,AVweI6uxkufWRAb5AVsJ,"Pizza Place,Restaurants",Accommodation & Food Services,Reading,RU,"USD,RUB",,Large Cheese Pizza,Original Mama's Pizza,0,25,PA,172,172,172
+4116,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Deep Dish Pan Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4117,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Grilled Chicken Spinach Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4118,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Taco Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4119,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Taco Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4120,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Hawaiian Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4121,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Hawaiian Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4122,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,The Deluxe Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4123,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Blt Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4124,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Steak Portabella Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4125,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Blt Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4126,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Grilled Chicken Spinach Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4127,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Chicken Bacon Ranch Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4128,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Chicken Teriyaki Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4129,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Chicken Teriyaki Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4130,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Chicken Teriyaki Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4131,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4132,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Buffalo Chicken Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4133,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Grilled Chicken Spinach Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4134,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Chicken Teriyaki Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4135,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Deep Dish Pan Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4136,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Grilled Chicken Spinach Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4137,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Taco Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4138,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Gyro Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4139,AV1dPj4Ia4HuVbed6Pa0,Pizza Place,Accommodation & Food Services,Irwin,RU,"USD,RUB",,Gyro Pizza,Mr Mikes Pub Pizza,0,25,PA,172,172,172
+4140,AWEM-bzia4HuVbedMik0,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Cheese Pizza,Petes Pizza,0,25,PA,172,172,172
+4141,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Pizza Steak,Two Cousins Pizza,0,25,PA,172,172,172
+4142,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Fried Bbq Chicken Pizza,Two Cousins Pizza,0,25,PA,172,172,172
+4143,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Bacon Cheeseburger Pizza,Two Cousins Pizza,0,25,PA,172,172,172
+4144,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Spicy Chicken Pizza,Two Cousins Pizza,0,25,PA,172,172,172
+4145,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Regular Style Pizza,Two Cousins Pizza,0,25,PA,172,172,172
+4146,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Grilled Bbq Chicken Pizza,Two Cousins Pizza,0,25,PA,172,172,172
+4147,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Pizza Burger,Two Cousins Pizza,0,25,PA,172,172,172
+4148,AVwdNCCN_7pvs4fz3XOe,Pizza Place,Accommodation & Food Services,Camp Hill,RU,"USD,RUB",,Supreme Pizza,Two Cousins Pizza,0,25,PA,172,172,172
+4149,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Taco Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4150,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Grilled chicken, barbecue sauce, mozzarella and American cheese",Barbecue Chicken Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4151,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Garlic, broccoli, spinach, tomato",Capri Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4152,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Grilled chicken, ripe plum tomato, shredded prosciutto, fresh sliced onion and ranch sauce",California Ranch Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4153,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Pizza Fries,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4154,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,South Philly Steak Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4155,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Florentine Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4156,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",With plum tomato sauce and mozzarella,Cheese Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4157,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Meat Lovers Stuffed Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4158,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Ricotta, spinach, mozzarella",Spinach Stuffed Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4159,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Grilled chicken, peppers and red onions",Chicken Cajun Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4160,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Bianca Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4161,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Ground beef, Canadian bacon, pepperoni, sausage",Meat Lovers Stuffed Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4162,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Hawaiian Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4163,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB",,Pizza Steak,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4164,AVweRPSQIN2L1WUf3c8T,Pizza Place,Accommodation & Food Services,Exton,RU,"USD,RUB","Green peppers, mushrooms, white onions, mozzarella cheese and tomato sauce",Romano Pizza,Roccos Pizza Restaurant,0,25,PA,172,172,172
+4165,AVzBAeXW-gnIPe8DSguW,Pizza Place,Accommodation & Food Services,Ambler,RU,"USD,RUB",,Mac and Cheese Pizzaiola,Il Giardino,0,25,PA,172,172,172
+4166,AVzBAeXW-gnIPe8DSguW,Pizza Place,Accommodation & Food Services,Ambler,RU,"USD,RUB",,Pizza Fries,Il Giardino,0,25,PA,172,172,172
+4167,AVzBDeBC-gnIPe8DSiqs,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Pizza,Fazio's Pizza,0,25,PA,172,172,172
+4168,AVzBDeBC-gnIPe8DSiqs,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Toppings small 100ampcomma medium 125ampcomma large 150 Small 6 cutsampcomma medium 8 cutsampcomma large 10 cuts,Pizza,Fazio's Pizza,0,25,PA,172,172,172
+4169,AVwc7SgvIN2L1WUfqZ-5,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Narberth,RU,"USD,RUB",,Sicilian Pizza,Italian Delight,0,25,PA,172,172,172
+4170,AVwc7SgvIN2L1WUfqZ-5,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Narberth,RU,"USD,RUB",,Slice of Cheese Pizza,Italian Delight,0,25,PA,172,172,172
+4171,AVwc7SgvIN2L1WUfqZ-5,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Narberth,RU,"USD,RUB",,Slices Pizza,Italian Delight,0,25,PA,172,172,172
+4172,AVwea_2cIN2L1WUf4wzX,"Pizza Place Roxborough,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Taco Pizza,Mr P Pizza & Pasta Inc,0,25,PA,172,172,172
+4173,AVwea_2cIN2L1WUf4wzX,"Pizza Place Roxborough,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Buffalo Chicken Pizza,Mr P Pizza & Pasta Inc,0,25,PA,172,172,172
+4174,AVwea_2cIN2L1WUf4wzX,"Pizza Place Roxborough,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza,Mr P Pizza & Pasta Inc,0,25,PA,172,172,172
+4175,AVwea_2cIN2L1WUf4wzX,"Pizza Place Roxborough,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak,Mr P Pizza & Pasta Inc,0,25,PA,172,172,172
+4176,AVwea_2cIN2L1WUf4wzX,"Pizza Place Roxborough,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Mini Pizza,Mr P Pizza & Pasta Inc,0,25,PA,172,172,172
+4177,AVwc1PtYkufWRAb5zfct,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Coopersburg,RU,"USD,RUB",,Pizza Steak,Carlo's Pizza,0,25,PA,172,172,172
+4178,AVwc1YIiIN2L1WUfpZ6c,"Pizza,Restaurant,Pizza Restaurants,Caterers,Pizza Place,Pizza Place East Falls,Catering,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,Slices Pizza,0,25,PA,172,172,172
+4179,AV1thBeYa4HuVbed8XdQ,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Cheese Pizza,Benny Fierros,0,25,PA,172,172,172
+4180,AV1thBeYa4HuVbed8XdQ,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Please call for selection,Monthly Veggie Special Pizza,Benny Fierros,0,25,PA,172,172,172
+4181,AV1thBeYa4HuVbed8XdQ,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Please call for selection,Monthly Veggie Special Pizza Slice,Benny Fierros,0,25,PA,172,172,172
+4182,AV1thBeYa4HuVbed8XdQ,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Pepperoni Pizza,Benny Fierros,0,25,PA,172,172,172
+4183,AV1thBeYa4HuVbed8XdQ,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Pepperoni Pizza Slice,Benny Fierros,0,25,PA,172,172,172
+4184,AV1thBeYa4HuVbed8XdQ,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Sausage Pizza Slice,Benny Fierros,0,25,PA,172,172,172
+4185,AVwdGauBkufWRAb52TXS,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Chicken Cheesesteak Pizza,Monte Carlo Pizza,0,25,PA,172,172,172
+4186,AVwdGauBkufWRAb52TXS,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Hawaiian Pizza,Monte Carlo Pizza,0,25,PA,172,172,172
+4187,AVwdGauBkufWRAb52TXS,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Spinach White Pizza,Monte Carlo Pizza,0,25,PA,172,172,172
+4188,AVwdGauBkufWRAb52TXS,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Bacon Cheeseburger Pizza,Monte Carlo Pizza,0,25,PA,172,172,172
+4189,AVwdGauBkufWRAb52TXS,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Cheesesteak Pizza,Monte Carlo Pizza,0,25,PA,172,172,172
+4190,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Pizza Bread,Roman Delight,0,25,PA,172,172,172
+4191,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Bruschetta Pizza,Roman Delight,0,25,PA,172,172,172
+4192,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Pizza Steak Italiano,Roman Delight,0,25,PA,172,172,172
+4193,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Hawaiian Pizza,Roman Delight,0,25,PA,172,172,172
+4194,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,White Pizza,Roman Delight,0,25,PA,172,172,172
+4195,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Buffalo Chicken Pizza,Roman Delight,0,25,PA,172,172,172
+4196,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Traditional Brooklyn Pizza,Roman Delight,0,25,PA,172,172,172
+4197,AVz1WhuR3D1zeR_xC3O_,"Restaurant,Pizza Place",Accommodation & Food Services,Southampton,RU,"USD,RUB",,Margarita Pizza,Roman Delight,0,25,PA,172,172,172
+4198,AVwd69EV_7pvs4fz-cBH,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pepperoni Pizza Steak,Plaza Pizza Restaurant,0,25,PA,172,172,172
+4199,AVwd69EV_7pvs4fz-cBH,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pepperoni Pizza Fries,Plaza Pizza Restaurant,0,25,PA,172,172,172
+4200,AV1dZrW23-Khe5l_Mm8o,"Pizza Place,Restaurants",Accommodation & Food Services,Mount Gretna,RU,"USD,RUB",,One Topping Pizza,Mt Gretna Pizzeria,0,25,PA,172,172,172
+4201,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Bama Pizza,Picasso Pizza,0,25,PA,172,172,172
+4202,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Holiday Pizza,Picasso Pizza,0,25,PA,172,172,172
+4203,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Bruschetta Pizza,Picasso Pizza,0,25,PA,172,172,172
+4204,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Large Plain Pizza,Picasso Pizza,0,25,PA,172,172,172
+4205,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Taco Pizza,Picasso Pizza,0,25,PA,172,172,172
+4206,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Tortellini Alfredo Sauce Pizza,Picasso Pizza,0,25,PA,172,172,172
+4207,AVwcnMG4_7pvs4fzxDZw,"Pizza Place,Restaurants",Accommodation & Food Services,Trexlertown,RU,"USD,RUB",,Sausage Sicilian Pizza,Picasso Pizza,0,25,PA,172,172,172
+4208,AV1XXGmYFcQ3k02bFpU1,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Cheese Pizza,Gino Brothers Pizzeria,0,25,PA,172,172,172
+4209,AV1XXGmYFcQ3k02bFpU1,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Pizza Boat,Gino Brothers Pizzeria,0,25,PA,172,172,172
+4210,AVzoFeld3D1zeR_xCZPE,Pizza Place,Accommodation & Food Services,Lansdowne,RU,"USD,RUB",,Meatlovers Pizza,Paul Reveres,0,25,PA,172,172,172
+4211,AVzoFeld3D1zeR_xCZPE,Pizza Place,Accommodation & Food Services,Lansdowne,RU,"USD,RUB",,Pita Pizza,Paul Reveres,0,25,PA,172,172,172
+4212,AVwcoqW5ByjofQCxgflc,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Quentin,RU,"USD,RUB",,Meatball Parm Pizza,Cc's Pizza,0,25,PA,172,172,172
+4213,AVwdROa3ByjofQCxnU-T,"Pizza Place,Restaurants",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,"1 Large Two Topping 16"" Pizza, Double Order of Wings",Pomodoro's Pizza,0,25,PA,172,172,172
+4214,AVwdROa3ByjofQCxnU-T,"Pizza Place,Restaurants",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,"Medium 14"" Plain Pizza",Pomodoro's Pizza,0,25,PA,172,172,172
+4215,AVwdROa3ByjofQCxnU-T,"Pizza Place,Restaurants",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Bufflao Chicken Pizza,Pomodoro's Pizza,0,25,PA,172,172,172
+4216,AVwdROa3ByjofQCxnU-T,"Pizza Place,Restaurants",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,"Large 16"" Plain Pizza",Pomodoro's Pizza,0,25,PA,172,172,172
+4217,AVwdROa3ByjofQCxnU-T,"Pizza Place,Restaurants",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Upside Down Pizza,Pomodoro's Pizza,0,25,PA,172,172,172
+4218,AVweEWAKkufWRAb5_uBl,"Bar,Pizza Place,Pizza Place and Bar",Accommodation & Food Services,Allison Park,RU,"USD,RUB",,2016 Worlds Best Pan Pizza the Quack Attack,Caliente Pizza Hampton,0,25,PA,172,172,172
+4219,AVwd0dGFIN2L1WUfzf-5,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Horsham,RU,"USD,RUB",,White Pizza,Anthony's Coal Fired Pizza,25,40,PA,172,172,172
+4220,AVzotGmh3D1zeR_xCiQh,Pizza Place,Accommodation & Food Services,Bensalem,RU,"USD,RUB",,Pizza Bread,Champs Pizza,0,25,PA,172,172,172
+4221,AVzotGmh3D1zeR_xCiQh,Pizza Place,Accommodation & Food Services,Bensalem,RU,"USD,RUB",,Pizza Burger (Long Roll),Champs Pizza,0,25,PA,172,172,172
+4222,AVwctEyCByjofQCxhQtr,Pizza Place,Accommodation & Food Services,Glen Mills,RU,"USD,RUB",,Steak Pizza Special,Brothers Pizza,0,25,PA,172,172,172
+4223,AVwclUx5_7pvs4fzwtjm,"Pizza Place,Pizza Place Bella Vista - Southwark",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak,Napoli Pizza,0,25,PA,172,172,172
+4224,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Sicilian Brooklyn Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4225,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Sicilian Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4226,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Chicken Barbecue Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4227,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Pizza Burger,Randazzos Pizzeria,0,25,PA,172,172,172
+4228,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB","Grilled chicken, mushrooms, bacon, honey mustard sauce",Honey Mustard Grilled Chicken Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4229,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Chicago Veggie Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4230,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Hawaiian Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4231,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Pizza Steak,Randazzos Pizzeria,0,25,PA,172,172,172
+4232,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Buffalo Chicken Cheese Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4233,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Chicago Meat Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4234,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB","Pepperoni, sausage, bacon",Chicago Meat Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4235,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Chicken Pizza with Broccoli & Tomato,Randazzos Pizzeria,0,25,PA,172,172,172
+4236,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Chicago Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4237,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Broccoli Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4238,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",grilled chickenampcomma mushroomsampcomma baconampcomma honey mustard sauceampcomma,Honey Mustard Grilled Chicken Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4239,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",chickenampcomma hamampcomma provolone ampamp american cheeseampcomma tunaampcomma pepperampcomma pepperoniampcomma mushroomampcomma mixed giardineraampcomma green olivesampcomma salamiampcomma capicollaampcomma picklesampcomma cucumbersampcomma onions ampamp your choice of dressing,Randazzoampaposs Pizza Special Salad,Randazzos Pizzeria,0,25,PA,172,172,172
+4240,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Spinach Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4241,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB","Pepperoni, sausage, mushrooms, green peppers, onions",Pizza Special,Randazzos Pizzeria,0,25,PA,172,172,172
+4242,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Chicago Works Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4243,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Sicilian Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4244,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,1 Large Pizzaampcomma 18 Wingsampcomma 2 Small Fries,Randazzos Pizzeria,0,25,PA,172,172,172
+4245,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Honey Mustard Grilled Chicken Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4246,AVwcfV2__7pvs4fzvoFR,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Willow Grove,RU,"USD,RUB",,Hawaiian Pizza,Randazzos Pizzeria,0,25,PA,172,172,172
+4247,AVwcwbDT_7pvs4fzyoWF,Pizza Place,Accommodation & Food Services,Scranton,RU,"USD,RUB",,Vegetable Pizza,Granteeds,0,25,PA,172,172,172
+4248,AVwcwbDT_7pvs4fzyoWF,Pizza Place,Accommodation & Food Services,Scranton,RU,"USD,RUB",,Tomato Pizza,Granteeds,0,25,PA,172,172,172
+4249,AVwdM-sXByjofQCxmlwr,"Wings Joint,Pizza Place,Pizza Place and Wings Joint",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Grandma's Cast Iron Pizza,The Wild Tomato Pizzeria,0,25,PA,172,172,172
+4250,AVzA-qhY3D1zeR_xBDIK,Pizza Place,Accommodation & Food Services,Collegeville,RU,"USD,RUB",,Pizza Cheese Steak,Roccos Brick Oven Pizzeria,0,25,PA,172,172,172
+4251,AVzA-qhY3D1zeR_xBDIK,Pizza Place,Accommodation & Food Services,Collegeville,RU,"USD,RUB",,Capri Pizza,Roccos Brick Oven Pizzeria,0,25,PA,172,172,172
+4252,AVwczaHb_7pvs4fzzIQv,Pizza Place,Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Sicilian Pizza,Giuseppes Pizza Family Restaurant Bar,0,25,PA,172,172,172
+4253,AVwczaHb_7pvs4fzzIQv,Pizza Place,Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Pan Pizza,Giuseppes Pizza Family Restaurant Bar,0,25,PA,172,172,172
+4254,AVwczaHb_7pvs4fzzIQv,Pizza Place,Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Pizza Steak Sandwich,Giuseppes Pizza Family Restaurant Bar,0,25,PA,172,172,172
+4255,AVwczaHb_7pvs4fzzIQv,Pizza Place,Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Pizza Skins,Giuseppes Pizza Family Restaurant Bar,0,25,PA,172,172,172
+4256,AVwczaHb_7pvs4fzzIQv,Pizza Place,Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Chicken Pizza Steak,Giuseppes Pizza Family Restaurant Bar,0,25,PA,172,172,172
+4257,AVwczaHb_7pvs4fzzIQv,Pizza Place,Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Pizza Bread,Giuseppes Pizza Family Restaurant Bar,0,25,PA,172,172,172
+4258,AVz1Wi1qLD2H7whiX_Mw,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Levittown,RU,"USD,RUB",,White Pizza,Scappa,0,25,PA,172,172,172
+4259,AVz1Wi1qLD2H7whiX_Mw,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Levittown,RU,"USD,RUB",,Margherita Pizza,Scappa,0,25,PA,172,172,172
+4260,AVwdZat0kufWRAb55eSN,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cherryville,RU,"USD,RUB",,Clam Pizza,Pizza Como North,0,25,PA,172,172,172
+4261,AVwdZat0kufWRAb55eSN,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cherryville,RU,"USD,RUB",,Hawaiian Pizza,Pizza Como North,0,25,PA,172,172,172
+4262,AVwdZat0kufWRAb55eSN,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cherryville,RU,"USD,RUB",,White Pizza,Pizza Como North,0,25,PA,172,172,172
+4263,AVwdZat0kufWRAb55eSN,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cherryville,RU,"USD,RUB",,Taco Pizza,Pizza Como North,0,25,PA,172,172,172
+4264,AVwdZat0kufWRAb55eSN,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cherryville,RU,"USD,RUB",,Stuffed Pizza,Pizza Como North,0,25,PA,172,172,172
+4265,AVweVsf_ByjofQCxxV1O,"Restaurant,Pizza Place",Accommodation & Food Services,Cranberry Township,RU,"USD,RUB",,One Large Pizza,Champs Pizza House,0,25,PA,172,172,172
+4266,AVweVsf_ByjofQCxxV1O,"Restaurant,Pizza Place",Accommodation & Food Services,Cranberry Township,RU,"USD,RUB",,One Small Pan Pizza,Champs Pizza House,0,25,PA,172,172,172
+4267,AVwcmtFuByjofQCxgJak,Pizza Place,Accommodation & Food Services,Greensburg,RU,"USD,RUB",,Pizza,Little Es Pizza,0,25,PA,172,172,172
+4268,AVwcmtFuByjofQCxgJak,Pizza Place,Accommodation & Food Services,Greensburg,RU,"USD,RUB","Steak, cheese, red onions, mushrooms, green peppers, lettuce, tomato and mayo",Pizza,Little Es Pizza,0,25,PA,172,172,172
+4269,AVwdH7fvIN2L1WUfscyO,Pizza Place,Accommodation & Food Services,Swarthmore,RU,"USD,RUB",16 x 16 thick crust square cut into 16 pieces topped with sauce and our 3 cheeses (4 Or More),Sicilian Pizza,Swarthmore Pizza,0,25,PA,172,172,172
+4270,AVwdH7fvIN2L1WUfscyO,Pizza Place,Accommodation & Food Services,Swarthmore,RU,"USD,RUB",,Cacciatore Pizza,Swarthmore Pizza,0,25,PA,172,172,172
+4271,AVwdH7fvIN2L1WUfscyO,Pizza Place,Accommodation & Food Services,Swarthmore,RU,"USD,RUB",,Pizza Fries,Swarthmore Pizza,0,25,PA,172,172,172
+4272,AVwdH7fvIN2L1WUfscyO,Pizza Place,Accommodation & Food Services,Swarthmore,RU,"USD,RUB",,Cheese Pizza,Swarthmore Pizza,0,25,PA,172,172,172
+4273,AVwdH7fvIN2L1WUfscyO,Pizza Place,Accommodation & Food Services,Swarthmore,RU,"USD,RUB",,Pizza Fries,Swarthmore Pizza,0,25,PA,172,172,172
+4274,AVzTg8ec3D1zeR_xBZFF,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Mechanicsburg,RU,"USD,RUB",,Slice of White Pizza,Al's Pizza Subs,0,25,PA,172,172,172
+4275,AVzTg8ec3D1zeR_xBZFF,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Mechanicsburg,RU,"USD,RUB",,Slice of Vegetarian Delight Pizza,Al's Pizza Subs,0,25,PA,172,172,172
+4276,AVzTg8ec3D1zeR_xBZFF,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Mechanicsburg,RU,"USD,RUB",,Slice of Al's Special Pizza,Al's Pizza Subs,0,25,PA,172,172,172
+4277,AVzA-np7LD2H7whiWIgs,"Pizza,Restaurant,Caterers,Pizza Place,Restaurants",Accommodation & Food Services,Pottstown,RU,"USD,RUB",,Personel Pizza,Parma Pizza,0,25,PA,172,172,172
+4278,AV1c1O9Ia4HuVbed5dbu,"Pizza,Restaurant,Food Delivery,Pizza Place,Restaurants",Accommodation & Food Services,Wayne,RU,"USD,RUB",Loaded with cheddar and mozzarella cheesesampcomma bacon and beef,Bacon Cheeseburger Feast Pizza,Domino's Pizza,0,25,PA,172,172,172
+4279,AV1c1O9Ia4HuVbed5dbu,"Pizza,Restaurant,Food Delivery,Pizza Place,Restaurants",Accommodation & Food Services,Wayne,RU,"USD,RUB",,Large 14ampquot Cheese Pizza,Domino's Pizza,0,25,PA,172,172,172
+4280,AVzBDLolFcQ3k02bBdP3,"American Restaurant,Pizza Place",Accommodation & Food Services,Hershey,RU,"USD,RUB",,Pepperoni Pizza Burger,Your Place Restaurant Pub,25,40,PA,172,172,172
+4281,AV0Zn10S3D1zeR_xEGps,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Easton,RU,"USD,RUB",Traditional sauce and cheese,Napoletana Pizza,Gino''s Pizza,0,25,PA,172,172,172
+4282,AV0Zn10S3D1zeR_xEGps,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Easton,RU,"USD,RUB",Contains hazelnut spread,Nutella Dessert Pizza,Gino''s Pizza,0,25,PA,172,172,172
+4283,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",,Chicken Vodka Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4284,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",,Meatball Parmesan Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4285,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",Mozzarella cheese,White Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4286,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",Mozzarella tomato garlic and ricotta cheese,Fresca Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4287,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",Eggplant mozzarella chunky tomato sauce olive oil shredded Parmigiano cheese and fresh basil,Eggplant Traditional Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4288,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",French fries bacon mozzarella and cheddar,Super Frie Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4289,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",,Brooklyn ampamp Margherita Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4290,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",,BLT with Ranch Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4291,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",Chicken pesto sauce fresh tomato mozzarella and olive oil,Chicken Genovese Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4292,AVzxlXO7FcQ3k02bDJMD,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Newtown,RU,"USD,RUB",,Hamburger Pizza,Marco's Pizzeria,0,25,PA,172,172,172
+4293,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Pepperoni sausage ham and bacon No substitutions deletions okay,Meat Lovers Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4294,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",,Sicilian Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4295,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Ranch dressing  chicken bacon cheddar and mozzarella cheese No substitutions deletions okay,Chicken Bacon Ranch Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4296,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",A1 sauce steak mushrooms green peppers onions cheddar and mozzarella cheese No substitutions deletions okay,A1 Philly Steak Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4297,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Shrimp crabmeat onions tomatoes and garlic butter No substitutions deletions okay,Seafood Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4298,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Onions mushrooms green peppers black olives hot peppers and tomato No substitutions deletions okay,Vegetarian Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4299,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Triple pepperoni and extra cheese No substitutions deletions okay,Pepperoni Pounder Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4300,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Ranch dressing  shredded steak mushrooms green peppers onions cheddar and mozzarella cheese No substitutions deletions okay,Steak Ranch Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4301,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Chicken hot sauce cheddar and mozzarella cheese No substitutions deletions okay,Buffalo Chicken Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4302,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",,Sicilian Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4303,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Gyro meat lettuce tomato onion cucumber sauce and mozzarella cheese No substitutions deletions okay,Gyro Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4304,AVzn83WS-gnIPe8DT1pw,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Coraopolis,RU,"USD,RUB",Onions mushrooms green peppers black olives hot peppers and tomato No substitutions deletions okay,Vegetarian Pizza,Angelia's Pizza,0,25,PA,172,172,172
+4305,AVwc4uKn_7pvs4fz0AZw,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Wyncote,RU,"USD,RUB",,Grilled Chicken Pizza,Vinny's Pizza,0,25,PA,172,172,172
+4306,AVzA-oMFFcQ3k02bBakG,"Pizza,Italian Restaurant,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Thorndale,RU,"USD,RUB",,Pizza Burger,Joey's Pizza,0,25,PA,172,172,172
+4307,AVzA-oMFFcQ3k02bBakG,"Pizza,Italian Restaurant,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Thorndale,RU,"USD,RUB",mozzarella cheeseampcomma sauce,Pizza Steak,Joey's Pizza,0,25,PA,172,172,172
+4308,AVwd_xtU_7pvs4fz_HTK,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Lansdale,RU,"USD,RUB",,Greek Pizza,New Station Pizza,0,25,PA,172,172,172
+4309,AVzBEQ4LFcQ3k02bBdtm,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Chicago Style Deep Dish Pizza Most Popular,Gennaros Pizza & Pasta,0,25,PA,172,172,172
+4310,AVzBEQ4LFcQ3k02bBdtm,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Chicken Alfredo Pizza,Gennaros Pizza & Pasta,0,25,PA,172,172,172
+4311,AVzBEQ4LFcQ3k02bBdtm,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,B.O.S.S. Pizza,Gennaros Pizza & Pasta,0,25,PA,172,172,172
+4312,AVzBEQ4LFcQ3k02bBdtm,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Buffalo Chicken Pizza Most Popular,Gennaros Pizza & Pasta,0,25,PA,172,172,172
+4313,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Steak Supreme Pizza,Pizza Perfectta Inc,0,25,PA,172,172,172
+4314,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB","Spinach, mushrooms, red onions, green peppers, tomatoes, garlic, provolone, mozzarella, and romano",Vegetable Pizza,Pizza Perfectta Inc,0,25,PA,172,172,172
+4315,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Seafood Pizza,Pizza Perfectta Inc,0,25,PA,172,172,172
+4316,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Pizza Boat,Pizza Perfectta Inc,0,25,PA,172,172,172
+4317,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB","BBQ sauce, grilled chicken strips, pineapple, provolone, mozzarella, and cheddar",Bbq Chicken Pizza,Pizza Perfectta Inc,0,25,PA,172,172,172
+4318,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB","Mozzarella, provolone, fontinella, ricotta and cheddar",Five Cheese Pizza,Pizza Perfectta Inc,0,25,PA,172,172,172
+4319,AVwd1XGaIN2L1WUfzoH9,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Mediterranean Pizza,Pizza Perfectta Inc,0,25,PA,172,172,172
+4320,AVwc5tjyIN2L1WUfqIwH,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Deep Pan Pizza,Two Brothers Restaurant & Pizzeria,0,25,PA,172,172,172
+4321,AVwc5tjyIN2L1WUfqIwH,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Pizza Burger,Two Brothers Restaurant & Pizzeria,0,25,PA,172,172,172
+4322,AVwc5tjyIN2L1WUfqIwH,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Anchovies Pizza,Two Brothers Restaurant & Pizzeria,0,25,PA,172,172,172
+4323,AVwc5tjyIN2L1WUfqIwH,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Buffalo Pizza,Two Brothers Restaurant & Pizzeria,0,25,PA,172,172,172
+4324,AVwc5tjyIN2L1WUfqIwH,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Chicken Parm Pizza,Two Brothers Restaurant & Pizzeria,0,25,PA,172,172,172
+4325,AV673L-ERxPSIh2RlfUE,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,King of Prussia,RU,"USD,RUB",,Select Pizzas,Pizzeria Vetri,0,25,PA,172,172,172
+4326,AV673L-ERxPSIh2RlfUE,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,King of Prussia,RU,"USD,RUB",,Nutella Pizza,Pizzeria Vetri,0,25,PA,172,172,172
+4327,AVz7oRk9FcQ3k02bDh6G,"Pizza,Restaurant,American Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,100% Whole Wheat Pizza,Rex Pizza,0,25,PA,172,172,172
+4328,AVz7oRk9FcQ3k02bDh6G,"Pizza,Restaurant,American Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Sicilian Cheese Pizza,Rex Pizza,0,25,PA,172,172,172
+4329,AVz7oRk9FcQ3k02bDh6G,"Pizza,Restaurant,American Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Sicilian Pizza,Rex Pizza,0,25,PA,172,172,172
+4330,AVz7oRk9FcQ3k02bDh6G,"Pizza,Restaurant,American Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Vegetarian Pizza,Rex Pizza,0,25,PA,172,172,172
+4331,AVz7oRk9FcQ3k02bDh6G,"Pizza,Restaurant,American Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Grilled Chicken Breast Pizza,Rex Pizza,0,25,PA,172,172,172
+4332,AVz7oRk9FcQ3k02bDh6G,"Pizza,Restaurant,American Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Cheese Pizza Half & Half,Rex Pizza,0,25,PA,172,172,172
+4333,AVwciw0ckufWRAb5wVIL,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",rollampcomma mozzerella cheeseampcomma meatballsampcomma saltampcomma pepper and sauce,Pizza Meatball,Castor Pizza,0,25,PA,172,172,172
+4334,AVzxscEXFcQ3k02bDOhD,"Bar,Pizza Place",Accommodation & Food Services,Irwin,RU,"USD,RUB",,Pizza Burger,Black Sheep Bar Grill,0,25,PA,172,172,172
+4335,AVzxscEXFcQ3k02bDOhD,"Bar,Pizza Place",Accommodation & Food Services,Irwin,RU,"USD,RUB",,Pizza Roni,Black Sheep Bar Grill,0,25,PA,172,172,172
+4336,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Meatball Parmigiana Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4337,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Sicilian Supreme Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4338,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Picante Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4339,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Philly Steak,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4340,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Neopolitan Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4341,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Cheese Sicilian Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4342,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Veggie Supreme Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4343,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Grilled Chicken Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4344,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Mexican Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4345,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Roma Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4346,AVzA-xljLD2H7whiWInn,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Milano's White Pizza,Milanos Pizzeria Grill,0,25,PA,172,172,172
+4347,AVzBESsu3D1zeR_xBGTB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Chicken Pizza,Graziano's Pizzeria,0,25,PA,172,172,172
+4348,AVzBESsu3D1zeR_xBGTB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Cheese Pizza,Graziano's Pizzeria,0,25,PA,172,172,172
+4349,AVzBESsu3D1zeR_xBGTB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Lunch Special Pizza,Graziano's Pizzeria,0,25,PA,172,172,172
+4350,AVzBESsu3D1zeR_xBGTB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Steak Pizza,Graziano's Pizzeria,0,25,PA,172,172,172
+4351,AVzBESsu3D1zeR_xBGTB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Large Cheese Pizza Special,Graziano's Pizzeria,0,25,PA,172,172,172
+4352,AVwcxamf_7pvs4fzyzX9,Pizza Place,Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Steak,Express Pizza,0,25,PA,172,172,172
+4353,AVwcxamf_7pvs4fzyzX9,Pizza Place,Accommodation & Food Services,Phoenixville,RU,"USD,RUB","Chucks of breaded chicken, our homemade tomato sauce, mozzarella and romano",Chicken Parmesan Pizza Personal,Express Pizza,0,25,PA,172,172,172
+4354,AVwcxamf_7pvs4fzyzX9,Pizza Place,Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Burger,Express Pizza,0,25,PA,172,172,172
+4355,AVwcxamf_7pvs4fzyzX9,Pizza Place,Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,White Pizza,Express Pizza,0,25,PA,172,172,172
+4356,AVwcxamf_7pvs4fzyzX9,Pizza Place,Accommodation & Food Services,Phoenixville,RU,"USD,RUB",Mozzarella cheese. Olive oil and fresh garlic.,White Pizza,Express Pizza,0,25,PA,172,172,172
+4357,AVwcxamf_7pvs4fzyzX9,Pizza Place,Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Fries,Express Pizza,0,25,PA,172,172,172
+4358,AVwdSa8GkufWRAb54UP1,Pizza Place,Accommodation & Food Services,Oxford,RU,"USD,RUB",,Pizza Pasquale,Pats Pizza,0,25,PA,172,172,172
+4359,AVwdSa8GkufWRAb54UP1,Pizza Place,Accommodation & Food Services,Oxford,RU,"USD,RUB",,Cheese Pizza,Pats Pizza,0,25,PA,172,172,172
+4360,AVwdSa8GkufWRAb54UP1,Pizza Place,Accommodation & Food Services,Oxford,RU,"USD,RUB",,Pizza Athena,Pats Pizza,0,25,PA,172,172,172
+4361,AVwdSa8GkufWRAb54UP1,Pizza Place,Accommodation & Food Services,Oxford,RU,"USD,RUB",,Pizza Nepoleon,Pats Pizza,0,25,PA,172,172,172
+4362,AVwdPmH5IN2L1WUftvyN,"Restaurant,Pizza Place",Accommodation & Food Services,Cheswick,RU,"USD,RUB",Single topping Personal Pan Pizza,Pizza Kidsampapos Meal,Pizza Hut,0,25,PA,172,172,172
+4363,AVwdPmH5IN2L1WUftvyN,"Restaurant,Pizza Place",Accommodation & Food Services,Cheswick,RU,"USD,RUB",Loaded with white meat chickenampcomma drizzled with zesty Buffalo wing sauceampcomma served with ranch dipping sauce,Buffalo Chicken Pizza,Pizza Hut,0,25,PA,172,172,172
+4364,AVwdPmH5IN2L1WUftvyN,"Restaurant,Pizza Place",Accommodation & Food Services,Cheswick,RU,"USD,RUB",Loaded with more cheese and more pepperoni,Pepperoni Loverampaposs Pizza,Pizza Hut,0,25,PA,172,172,172
+4365,AVwdRG_UIN2L1WUfuA2p,"Restaurant,Pizza Place McKeesport - White Oak,Pizza Place",Accommodation & Food Services,McKeesport,RU,"USD,RUB",,Cherry Dessert Pizza,Pizza Hut,0,25,PA,172,172,172
+4366,AVwdRG_UIN2L1WUfuA2p,"Restaurant,Pizza Place McKeesport - White Oak,Pizza Place",Accommodation & Food Services,McKeesport,RU,"USD,RUB",,Apple Dessert Pizza,Pizza Hut,0,25,PA,172,172,172
+4367,AVwdX8MFIN2L1WUfvJmh,"Restaurant,Pizza Place",Accommodation & Food Services,Scranton,RU,"USD,RUB",With garlicampcomma olive oilampcomma mozzarellaampcomma roma tomato slicesampcomma parmesean cheeseampcomma pesto sauce ampamp basil,Bruchetta Pizza,Alfredo's Pizza Cafe,25,40,PA,172,172,172
+4368,AVwdX8MFIN2L1WUfvJmh,"Restaurant,Pizza Place",Accommodation & Food Services,Scranton,RU,"USD,RUB",Thin pizza baked on the health with sauce and fresh basil and fresh mozzarella,Thin and Crispy (personal Pizza),Alfredo's Pizza Cafe,25,40,PA,172,172,172
+4369,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Kielbasa sauerkraut mozzarella cheese caramelized onions and a mustard base,Stuts Pizza,Art Of Pizza,0,25,PA,172,172,172
+4370,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Diced Tomato Pizza,Art Of Pizza,0,25,PA,172,172,172
+4371,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",12ampquot hand tossed pizza,Personal Size Pizza,Art Of Pizza,0,25,PA,172,172,172
+4372,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Steak chicken ground beef green peppers onions mozzarella and pizza sauce,Art of Pizza Stromboli,Art Of Pizza,0,25,PA,172,172,172
+4373,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Pizza sauce and mozzarella cheese,Pizza Burger,Art Of Pizza,0,25,PA,172,172,172
+4374,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Buffalo Chicken Pizza,Art Of Pizza,0,25,PA,172,172,172
+4375,AVwdh5kmIN2L1WUfwtpy,"Restaurant,Pizza Place,Pizza Place North Philadelphia",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",8ampquot personal pizza,Gluten Free Pizza,Art Of Pizza,0,25,PA,172,172,172
+4376,AV3SErt2RxPSIh2ReLoT,"Restaurant,Pizza Place",Accommodation & Food Services,Selinsgrove,RU,"USD,RUB",,Medium Cheese Pizza,Bella's Pizza,0,25,PA,172,172,172
+4377,AV3SErt2RxPSIh2ReLoT,"Restaurant,Pizza Place",Accommodation & Food Services,Selinsgrove,RU,"USD,RUB",,Large Cheese Pizza,Bella's Pizza,0,25,PA,172,172,172
+4378,AV3SErt2RxPSIh2ReLoT,"Restaurant,Pizza Place",Accommodation & Food Services,Selinsgrove,RU,"USD,RUB",,Medium Cheese Pizza,Bella's Pizza,0,25,PA,172,172,172
+4379,AVzoFeMgLD2H7whiXibe,"Restaurant,Pizza Place",Accommodation & Food Services,Reading,RU,"USD,RUB",,Pizza Steak,Mama's Pizza,25,40,PA,172,172,172
+4380,AVzoFeMgLD2H7whiXibe,"Restaurant,Pizza Place",Accommodation & Food Services,Reading,RU,"USD,RUB",,All You Can Eat Pizza & Wings,Mama's Pizza,25,40,PA,172,172,172
+4381,AVzoFeMgLD2H7whiXibe,"Restaurant,Pizza Place",Accommodation & Food Services,Reading,RU,"USD,RUB",,"3 Large Cheese Pizzas, 50 Jumbo Wings & (2) 2 Liters",Mama's Pizza,25,40,PA,172,172,172
+4382,AVzoFeMgLD2H7whiXibe,"Restaurant,Pizza Place",Accommodation & Food Services,Reading,RU,"USD,RUB",,Specialty Gluten Free Pizza,Mama's Pizza,25,40,PA,172,172,172
+4383,AVzoFeMgLD2H7whiXibe,"Restaurant,Pizza Place",Accommodation & Food Services,Reading,RU,"USD,RUB",,Pizza Fries,Mama's Pizza,25,40,PA,172,172,172
+4384,AVzoFeMgLD2H7whiXibe,"Restaurant,Pizza Place",Accommodation & Food Services,Reading,RU,"USD,RUB",,2 Medium Cheese Pizzas,Mama's Pizza,25,40,PA,172,172,172
+4385,AVwdHqJ9kufWRAb52gFq,"Restaurant,Pizza Place",Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Pizza By The Slice,Sorrento Pizza,0,25,PA,172,172,172
+4386,AVwdz21S_7pvs4fz9eDs,"Restaurant,Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Wexford,RU,"USD,RUB",Sirloin steakampcomma pizza sauce and cheese,Pizza Steak,Mama Lucia,0,25,PA,172,172,172
+4387,AVwdz21S_7pvs4fz9eDs,"Restaurant,Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Wexford,RU,"USD,RUB",Toppings 150ampcomma extra cheese 200,Plain Pizza Half Sicilian 6 Cut,Mama Lucia,0,25,PA,172,172,172
+4388,AVwc0sg2kufWRAb5zZ0w,"Restaurant,Pizza Place",Accommodation & Food Services,Warrington,RU,"USD,RUB","Pepperoni, Sausage, Mushrooms, Green Peppers, Onions",Warrington Pizza Special,Warrington Pizza,0,25,PA,172,172,172
+4389,AVwc0sg2kufWRAb5zZ0w,"Restaurant,Pizza Place",Accommodation & Food Services,Warrington,RU,"USD,RUB",,Buffalo Chicken Cheese Pizza,Warrington Pizza,0,25,PA,172,172,172
+4390,AVwc0sg2kufWRAb5zZ0w,"Restaurant,Pizza Place",Accommodation & Food Services,Warrington,RU,"USD,RUB",,Chicken Barbecue Bacon Pizza,Warrington Pizza,0,25,PA,172,172,172
+4391,AVwc0sg2kufWRAb5zZ0w,"Restaurant,Pizza Place",Accommodation & Food Services,Warrington,RU,"USD,RUB",,Traditional Pizza,Warrington Pizza,0,25,PA,172,172,172
+4392,AVwc0sg2kufWRAb5zZ0w,"Restaurant,Pizza Place",Accommodation & Food Services,Warrington,RU,"USD,RUB",,Hawaiian Pizza,Warrington Pizza,0,25,PA,172,172,172
+4393,AVwc0sg2kufWRAb5zZ0w,"Restaurant,Pizza Place",Accommodation & Food Services,Warrington,RU,"USD,RUB",,Cheesesteak Hoagie Pizza,Warrington Pizza,0,25,PA,172,172,172
+4394,AVwc8hTL_7pvs4fz0pB6,"Restaurant,Pizza Place",Accommodation & Food Services,Quakertown,RU,"USD,RUB",,Baked Ziti Pizza,Frank's Pizza New York Style,0,25,PA,172,172,172
+4395,AVwdl9x-ByjofQCxqpQn,Pizza Place,Accommodation & Food Services,Brodheadsville,RU,"USD,RUB",,Margherita Pizza,Mike's Pizzeria Italian Restaurant /Brodheadsville,0,25,PA,172,172,172
+4396,AVwdl9x-ByjofQCxqpQn,Pizza Place,Accommodation & Food Services,Brodheadsville,RU,"USD,RUB",,Pizza Steak,Mike's Pizzeria Italian Restaurant /Brodheadsville,0,25,PA,172,172,172
+4397,AVwdl9x-ByjofQCxqpQn,Pizza Place,Accommodation & Food Services,Brodheadsville,RU,"USD,RUB",,Taco Pizza,Mike's Pizzeria Italian Restaurant /Brodheadsville,0,25,PA,172,172,172
+4398,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",,Build Your Own Cheese Pizza,Frazer Pizza,0,25,PA,172,172,172
+4399,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",Topped with lettuceampcomma tomatoes and onions,Pizza Steak Hoagie,Frazer Pizza,0,25,PA,172,172,172
+4400,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",Bruschetta tomatoes and cheese,Bruschetta Pizza,Frazer Pizza,0,25,PA,172,172,172
+4401,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",,Special Pizza Slice,Frazer Pizza,0,25,PA,172,172,172
+4402,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",,Pizza Fries,Frazer Pizza,0,25,PA,172,172,172
+4403,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",Breaded eggplantampcomma ricottaampcomma red sauce and mozzarella,Eggplant Parm Pizza,Frazer Pizza,0,25,PA,172,172,172
+4404,AVweTM8B_7pvs4fzByGA,"Restaurant,Pizza Place",Accommodation & Food Services,Malvern,RU,"USD,RUB",Chicken steak and baconampcomma topped with our ranch dressing,Chicken Bacon Ranch Pizza,Frazer Pizza,0,25,PA,172,172,172
+4405,AVzA-l95-gnIPe8DSf18,"Restaurant,Pizza Place",Accommodation & Food Services,Conshohocken,RU,"USD,RUB",,Tortilla Pizza,Franzone's,0,25,PA,172,172,172
+4406,AVzA-l95-gnIPe8DSf18,"Restaurant,Pizza Place",Accommodation & Food Services,Conshohocken,RU,"USD,RUB",,Sicilian Pizza,Franzone's,0,25,PA,172,172,172
+4407,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Made with tender cuts of chicken breast Buffalo hot sauce and onions with provolone and American cheeses on a cheesy cheddar crust,Buffalo Chicken Pizza,Domino's Pizza,0,25,PA,172,172,172
+4408,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Made with tender cuts of chicken breast BBQ sauce and onions with provolone mozzarella and cheddar cheeses on a cheesy cheddar crust,Memphis BBQ Chicken Pizza,Domino's Pizza,0,25,PA,172,172,172
+4409,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",A mouthwatering combination of spicy pepperoni Italian sausage green peppers mushrooms onions and cheese,Deluxe Feast Pizza,Domino's Pizza,0,25,PA,172,172,172
+4410,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Sliced ham bacon pineapple and roasted red peppers with provolone cheese on a Parmesan cheese crust,Honolulu Hawaiian Pizza,Domino's Pizza,0,25,PA,172,172,172
+4411,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Loads of pepperoni ham Italian sausage beef onions green peppers mushrooms and black olives topped with an extra layer of cheese,ExtravaganZZa Feast Pizza,Domino's Pizza,0,25,PA,172,172,172
+4412,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Made with two layers of pepperoni sandwiched between Parmesan provolone and mozzarella cheeses with oregano,Ultimate Pepperoni Feast Pizza,Domino's Pizza,0,25,PA,172,172,172
+4413,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Sliced ham bacon pineapple and roasted red peppers with provolone cheese on a Parmesan cheese crust with hot sauce and jalapenos,Fiery Hawaiian Pizza,Domino's Pizza,0,25,PA,172,172,172
+4414,AWEKcl99IxWefVJwxA96,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Cheese Pizza,Domino's Pizza,0,25,PA,172,172,172
+4415,AVwcoMAbByjofQCxgaGN,"Restaurant,Pizza Place",Accommodation & Food Services,Doylestown,RU,"USD,RUB",With pepperoniampcomma sausageampcomma bacon and honey ham,The Carnivore Our Meatiest Pizza,Baked on Main,0,25,PA,172,172,172
+4416,AVzA9kmnLD2H7whiWHrL,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Pomodoro mozzarella di bufala basil Parmesan and extra virgin olive oil,Margherita Extra Pizza,Stone Neapolitan Pizzeria,25,40,PA,172,172,172
+4417,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Steak Pizza,Pizza Palermo,0,25,PA,172,172,172
+4418,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Spinach & Chicken Pizza,Pizza Palermo,0,25,PA,172,172,172
+4419,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Includes homemade ranch dressing on the side,Mini 7ampquot Traditional Cheese Pizza,Pizza Palermo,0,25,PA,172,172,172
+4420,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Meat Lover's Pizza,Pizza Palermo,0,25,PA,172,172,172
+4421,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Spinach & Feta Pizza,Pizza Palermo,0,25,PA,172,172,172
+4422,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Greek Pizza,Pizza Palermo,0,25,PA,172,172,172
+4423,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Steak Ranchero Pizza,Pizza Palermo,0,25,PA,172,172,172
+4424,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Vegetable Pizza,Pizza Palermo,0,25,PA,172,172,172
+4425,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Mediterranean Pizza,Pizza Palermo,0,25,PA,172,172,172
+4426,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Bbq Chicken Pizza,Pizza Palermo,0,25,PA,172,172,172
+4427,AVzA95LR3D1zeR_xBCii,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Ranchero Chicken Pizza,Pizza Palermo,0,25,PA,172,172,172
+4428,AV4u1hZrIxWefVJwkWrX,"Restaurant,Pizza Place",Accommodation & Food Services,Bloomsburg,RU,"USD,RUB",Mashed potatoampcomma cheddar and mozzarella,Pierogie Pizza,Naps Pizza,0,25,PA,172,172,172
+4429,AV4u1hZrIxWefVJwkWrX,"Restaurant,Pizza Place",Accommodation & Food Services,Bloomsburg,RU,"USD,RUB",Bbq sauceampcomma spicy hot chicken,Buffalo Chicken Pizza,Naps Pizza,0,25,PA,172,172,172
+4430,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Chicken Parmigiana Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4431,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Chicken Ranchero Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4432,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Pizza Dough,Rosario's Pizzeria,0,25,PA,172,172,172
+4433,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Slice Plain Pizza with Fries,Rosario's Pizzeria,0,25,PA,172,172,172
+4434,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Crispy thick crust round pizza baked then topped with our chopped greek salad drizzled with our 34italian style dressing feta cheese amp kalamata olives,Greek Salad Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4435,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Hawaiian Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4436,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Vodka Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4437,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Marinara Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4438,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Hearty combination of fresh sausage meatballs pepperoni mushrooms and chopped peppers,South Beach Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4439,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Classic combination of fresh chicken amp mushrooms sauted in brown marsala sauce topped with mozzarella,Chicken Marsala Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4440,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Pizza Fries,Rosario's Pizzeria,0,25,PA,172,172,172
+4441,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Creamy pink vodka sauce over a thin crust and topped with mozzarella cheese,Vodka Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4442,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Mozzarella cheese and sauce,Pizza Steak,Rosario's Pizzeria,0,25,PA,172,172,172
+4443,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Veggie Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4444,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Chicken Parmigiana Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4445,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Peppers onion and mushroom,Philly Cheese Steak Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4446,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",Fresh diced chicken cutlets roma tomatoes red onions and baked with mozzarella cheese,Chicken Bruschetta Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4447,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Meat Lovers Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4448,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",34Old world34 pan pizza topped with our traditional garlic and herb plum tomato sauce aged romano cheese amp oregano,Marinara Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4449,AV4rI8r83-Khe5l_R6cS,"Restaurant,Pizza Place",Accommodation & Food Services,Clarks Summit,RU,"USD,RUB",,Margherita Pizza,Rosario's Pizzeria,0,25,PA,172,172,172
+4450,AV1dPj7L3-Khe5l_MmCZ,"Restaurant,Pizza Place",Accommodation & Food Services,Irwin,RU,"USD,RUB",,Apple Dessert Pizza,Pizza Hut,0,25,PA,172,172,172
+4451,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",,Pizza Chicken Cheese Steak,Bravo Pizza,0,25,PA,172,172,172
+4452,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",,2 Spaghetti ampamp Meatball Dinners ampamp 1 Large Plain Pizza,Bravo Pizza,0,25,PA,172,172,172
+4453,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",,Pizza Burger,Bravo Pizza,0,25,PA,172,172,172
+4454,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",,Pizza Fries,Bravo Pizza,0,25,PA,172,172,172
+4455,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",With ricottaampcomma olive oil ampamp garlic,White Pizza,Bravo Pizza,0,25,PA,172,172,172
+4456,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",,Pizza Fries,Bravo Pizza,0,25,PA,172,172,172
+4457,AVwc2KQa_7pvs4fzzk_s,"Restaurant,Pizza Place",Accommodation & Food Services,Royersford,RU,"USD,RUB",,Pizza Steak,Bravo Pizza,0,25,PA,172,172,172
+4458,AVweKL9S_7pvs4fzAj2h,"Restaurant,Pizza Place Mayfair,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak,Renzi's Pizzeria,0,25,PA,172,172,172
+4459,AVweKL9S_7pvs4fzAj2h,"Restaurant,Pizza Place Mayfair,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,Renzi's Pizzeria,0,25,PA,172,172,172
+4460,AWHoYuHn3-Khe5l_hJg_,"Restaurant,Pizza Place",Accommodation & Food Services,Mercersburg,RU,"USD,RUB",,14ampquot White Pizza,Romeo's,0,25,PA,172,172,172
+4461,AWHoYuHn3-Khe5l_hJg_,"Restaurant,Pizza Place",Accommodation & Food Services,Mercersburg,RU,"USD,RUB",Pestoampcomma ricottaampcomma mozzarella,16ampquot White Pizza,Romeo's,0,25,PA,172,172,172
+4462,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",,Medium Cheese Pizza,Domino's Pizza,0,25,PA,172,172,172
+4463,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Roasted red peppersampcomma fresh baby spinachampcomma fresh onionsampcomma fresh mushroomsampcomma tomatoesampcomma black olivesampcomma cheeses made with 100 real mozzarellaampcomma feta and provoloneampcomma sprinkled with garlic herb seasoning on a cheesy Parmesan Asiago crust,Pecific Veggie Pizza,Domino's Pizza,0,25,PA,172,172,172
+4464,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",,Small Cheese Pizza,Domino's Pizza,0,25,PA,172,172,172
+4465,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Topped with pepperoniampcomma Italian sausageampcomma fresh green peppersampcomma fresh mushroomsampcomma fresh onions and cheese made with 100 real mozzarella,Deluxe Feast Pizza,Domino's Pizza,0,25,PA,172,172,172
+4466,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Sliced hamampcomma smoked baconampcomma pineappleampcomma roasted red peppersampcomma hot sauceampcomma jalapenosampcomma cheeses made with 100 real mozzarella and provolone on a cheesy ParmesanAsiago crust,Fiery Hawaiian Pizza,Domino's Pizza,0,25,PA,172,172,172
+4467,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Loads of pepperoniampcomma hamampcomma Italian sausageampcomma beefampcomma fresh onionsampcomma fresh green peppersampcomma fresh mushrooms and black olives topped with extra cheese made with 100 real mozzarella,Extravaganza Feast Pizza,Domino's Pizza,0,25,PA,172,172,172
+4468,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Grilled chicken breastampcomma BBQ sauceampcomma fresh onionsampcomma cheeses made with 100 real mozzarellaampcomma provolone and cheddar on a cheesy cheddar crust,Memphis BBQ Chicken Pizza,Domino's Pizza,0,25,PA,172,172,172
+4469,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Served two An inspired blend of our robust marinara and Alfredo sauceampcomma grilled chicken breastampcomma smoked baconampcomma cheeseampcomma diced tomatoes and a dash of oregano on an artisanstyle crust,Chicken and Bacon Carbonara Artisan Pizza,Domino's Pizza,0,25,PA,172,172,172
+4470,AVzX81oSFcQ3k02bCExm,"Restaurant,Pizza Place",Accommodation & Food Services,Ambler,RU,"USD,RUB",Served two Alfredo sauceampcomma feta and Parmesan Asiago cheesesampcomma fresh baby spinach and fresh onion toppings All balanced and baked to perfection on an artisanstyle crust,Spinach and Feta Artisan Pizza,Domino's Pizza,0,25,PA,172,172,172
+4471,AVwdDAvoByjofQCxk8xS,"Pizza,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza By The Slice,Lorenzo and Sons Pizza,0,25,PA,172,172,172
+4472,AVwdDAvoByjofQCxk8xS,"Pizza,Restaurant,Italian,Pizza Place",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",no toppings on slices,Pizza By The Slice,Lorenzo and Sons Pizza,0,25,PA,172,172,172
+4473,AVwcvN0K_7pvs4fzya86,Pizza Place,Accommodation & Food Services,Kittanning,RU,"USD,RUB",,Medium Pizza Offers,Papa John's Pizza,0,25,PA,172,172,172
+4474,AV1eBcNhRxPSIh2RZwOS,"Italian Restaurant,Pizza Place",Accommodation & Food Services,McKeesport,RU,"USD,RUB",,Homemade Pizza Sicilian (16 Inch),Veltre's Pizza of White Oak,0,25,PA,172,172,172
+4475,AV1eBcNhRxPSIh2RZwOS,"Italian Restaurant,Pizza Place",Accommodation & Food Services,McKeesport,RU,"USD,RUB",,Homemade Pizza Small (12 Inch),Veltre's Pizza of White Oak,0,25,PA,172,172,172
+4476,AV1eBcNhRxPSIh2RZwOS,"Italian Restaurant,Pizza Place",Accommodation & Food Services,McKeesport,RU,"USD,RUB",,Homemade Pizza Medium (14 Inch),Veltre's Pizza of White Oak,0,25,PA,172,172,172
+4477,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Plain Flatbread Pizza,Double Decker Pizza,0,25,PA,172,172,172
+4478,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Pizza Burger,Double Decker Pizza,0,25,PA,172,172,172
+4479,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Pizza Burger,Double Decker Pizza,0,25,PA,172,172,172
+4480,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Greek Pizza,Double Decker Pizza,0,25,PA,172,172,172
+4481,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Plain Flatbread Pizza,Double Decker Pizza,0,25,PA,172,172,172
+4482,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Pita Pizza,Double Decker Pizza,0,25,PA,172,172,172
+4483,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Pizza Steak,Double Decker Pizza,0,25,PA,172,172,172
+4484,AVzxqreHFcQ3k02bDOaB,"Restaurant,Pizza Place",Accommodation & Food Services,Media,RU,"USD,RUB",,Pita Pizza,Double Decker Pizza,0,25,PA,172,172,172
+4485,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,Bambino White Pizza and A Small Tossed Salad,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4486,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,White Pizza,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4487,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,Bbq Chicken Pizza,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4488,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,Bambino White Pizza and a Small Tossed Salad,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4489,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,Sampler Pizza,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4490,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,Original Pizza,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4491,AVwc7JypkufWRAb50eXc,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Latrobe,RU,"USD,RUB",,Buffalo Chicken Pizza,Gino Gianilli's Homestyle Pizza Italian Restaurant,25,40,PA,172,172,172
+4492,AVzxlWzm-gnIPe8DURIJ,Pizza Place,Accommodation & Food Services,Southampton,RU,"USD,RUB",,Chicken Pizzaiola,Aldo's Ristorante Italiano and Pizzeria,0,25,PA,172,172,172
+4493,AVzxlWzm-gnIPe8DURIJ,Pizza Place,Accommodation & Food Services,Southampton,RU,"USD,RUB",,Veal Pizzaiola,Aldo's Ristorante Italiano and Pizzeria,0,25,PA,172,172,172
+4494,AVzxlWzm-gnIPe8DURIJ,Pizza Place,Accommodation & Food Services,Southampton,RU,"USD,RUB",,Brooklyn Style Pizza,Aldo's Ristorante Italiano and Pizzeria,0,25,PA,172,172,172
+4495,AVzxlWzm-gnIPe8DURIJ,Pizza Place,Accommodation & Food Services,Southampton,RU,"USD,RUB",,Nonno's Pizza,Aldo's Ristorante Italiano and Pizzeria,0,25,PA,172,172,172
+4496,AV42l2WVa4HuVbed_1rh,"wich Place,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Individual Cuts of Pizza,Donte's Pizza,0,25,PA,172,172,172
+4497,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",,Roasted Garlic Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4498,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",White pizza with tomatoes broccoli and spinach,Primavera Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4499,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",,Mushrooms Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4500,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",Thincrust square Fresh mozzarella basil and olive oil,Large Brooklyn Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4501,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",American cheese,Cheesesteak Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4502,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",Mozzarella wing sauce chicken and bleu cheese,Buffalo Chicken Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4503,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",,Pizza Fries,Randazzo's Pizza,0,25,PA,172,172,172
+4504,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",,Chicken Bacon Honey Mustard Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4505,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",Mozzarella BBQ sauce and chicken,BBQ Chicken Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4506,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",,Jalapenos Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4507,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",,Extra Cheese Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4508,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",Mushrooms tomatoes onions and green peppers,Veggie Pizza,Randazzo's Pizza,0,25,PA,172,172,172
+4509,AVwdg6J7kufWRAb56o5Y,"Restaurant,Pizza Place",Accommodation & Food Services,Jamison,RU,"USD,RUB",Available Monday only,Large Cheese Pizza Special,Randazzo's Pizza,0,25,PA,172,172,172
+4510,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",With provolone cheese,Pizza Steak,Julio's Pizzeria,0,25,PA,172,172,172
+4511,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza with Penne,Julio's Pizzeria,0,25,PA,172,172,172
+4512,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza with Penne,Julio's Pizzeria,0,25,PA,172,172,172
+4513,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,"Buffalo Chicken Pizza 16""",Julio's Pizzeria,0,25,PA,172,172,172
+4514,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,"Buffalo Chicken Pizza 10""",Julio's Pizzeria,0,25,PA,172,172,172
+4515,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,"Buffalo Chicken Pizza 14""",Julio's Pizzeria,0,25,PA,172,172,172
+4516,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza with French Fries,Julio's Pizzeria,0,25,PA,172,172,172
+4517,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Chicken Pizza Steak,Julio's Pizzeria,0,25,PA,172,172,172
+4518,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza with French Fries,Julio's Pizzeria,0,25,PA,172,172,172
+4519,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,"Margarita Pizza 10""",Julio's Pizzeria,0,25,PA,172,172,172
+4520,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza Steak,Julio's Pizzeria,0,25,PA,172,172,172
+4521,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,"Margarita Pizza 14""",Julio's Pizzeria,0,25,PA,172,172,172
+4522,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza Fries Or Mozzarella Fries,Julio's Pizzeria,0,25,PA,172,172,172
+4523,AVwcfMKTByjofQCxex1J,Pizza Place,Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza with Penne,Julio's Pizzeria,0,25,PA,172,172,172
+4524,AVwcrS4vIN2L1WUfnqOX,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,York,RU,"USD,RUB",,Pizza Steak,Genova's,25,40,PA,172,172,172
+4525,AVwcrS4vIN2L1WUfnqOX,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,York,RU,"USD,RUB","Mozzarella, garlic, olive oil, and ricotta",White Pizza,Genova's,25,40,PA,172,172,172
+4526,AVwcrS4vIN2L1WUfnqOX,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,York,RU,"USD,RUB",,"Pizza Sauce, Alfredo or Butter Garlic",Genova's,25,40,PA,172,172,172
+4527,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Spicy pepperoni rounds on top of our original cheese pie,Pepperoni Pizza,Big Ass Slices,0,25,PA,172,172,172
+4528,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",A rich blend of premium cheeses no tomato sauce and garlic accents,White Pizza,Big Ass Slices,0,25,PA,172,172,172
+4529,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Fresh veggies in a variety of combinations different combos each day,Veggie Lover39s Pizza,Big Ass Slices,0,25,PA,172,172,172
+4530,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Please call the restaurant for daily selection Changes every day,Crazy Ass Special Pizza,Big Ass Slices,0,25,PA,172,172,172
+4531,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",A suprising flavor punch from fresh chicken and our special sauce,BBQ Chicken Pizza,Big Ass Slices,0,25,PA,172,172,172
+4532,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Wiz Tots,Big Ass Slices,0,25,PA,172,172,172
+4533,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Drizzling melted cheddar on chicken and bacon is a serious flavor explosion,Cheddar Chicken Bacon Pizza,Big Ass Slices,0,25,PA,172,172,172
+4534,AVzBBVnc3D1zeR_xBEnW,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",The classic mix of spicy Buffalo sauce and tender chicken on a cheese pie,Buffalo Chicken Pizza,Big Ass Slices,0,25,PA,172,172,172
+4535,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",With mushrooms,Cheese Steak Pizzaiola,Mario's Pizza Cafe,0,25,PA,172,172,172
+4536,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Pizza By the Slice,Mario's Pizza Cafe,0,25,PA,172,172,172
+4537,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Pizza By The Slice,Mario's Pizza Cafe,0,25,PA,172,172,172
+4538,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Pizza Panini,Mario's Pizza Cafe,0,25,PA,172,172,172
+4539,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Special Pizza,Mario's Pizza Cafe,0,25,PA,172,172,172
+4540,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Pizza Burger,Mario's Pizza Cafe,0,25,PA,172,172,172
+4541,AVwcuYDoByjofQCxhe88,Pizza Place,Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Veggie Pizza With Cheese,Mario's Pizza Cafe,0,25,PA,172,172,172
+4542,AVzBDL8M-gnIPe8DSijn,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Joy,RU,"USD,RUB",,M&M Pizza,DiMaria's Pizza & Italian Kitchen,0,25,PA,172,172,172
+4543,AVzBDL8M-gnIPe8DSijn,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Joy,RU,"USD,RUB",,Chicken Pizza Steak,DiMaria's Pizza & Italian Kitchen,0,25,PA,172,172,172
+4544,AVzBDL8M-gnIPe8DSijn,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Joy,RU,"USD,RUB",,2 Large Cheeze Pizzas (Topping Extra),DiMaria's Pizza & Italian Kitchen,0,25,PA,172,172,172
+4545,AVzBDL8M-gnIPe8DSijn,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Joy,RU,"USD,RUB",,Round Thin Crust Pizza,DiMaria's Pizza & Italian Kitchen,0,25,PA,172,172,172
+4546,AVzBDL8M-gnIPe8DSijn,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Joy,RU,"USD,RUB",,Chicken Texas Pizza,DiMaria's Pizza & Italian Kitchen,0,25,PA,172,172,172
+4547,AVwdJzRi_7pvs4fz2zZ9,Pizza Place,Accommodation & Food Services,Canonsburg,RU,"USD,RUB",,Pita Pizza 1 Topping,Big Fella's Pizza and Wings,0,25,PA,172,172,172
+4548,AVwdJzRi_7pvs4fz2zZ9,Pizza Place,Accommodation & Food Services,Canonsburg,RU,"USD,RUB",,Bbq Chicken Pizza,Big Fella's Pizza and Wings,0,25,PA,172,172,172
+4549,AVzA9yyULD2H7whiWH3l,"Restaurant,Pizza Place",Accommodation & Food Services,Norristown,RU,"USD,RUB",,Pizza Bread,Affamato's Pizza & Italian Restaurant,0,25,PA,172,172,172
+4550,AVzA9yyULD2H7whiWH3l,"Restaurant,Pizza Place",Accommodation & Food Services,Norristown,RU,"USD,RUB",,Pizza Steak,Affamato's Pizza & Italian Restaurant,0,25,PA,172,172,172
+4551,AVzA9yyULD2H7whiWH3l,"Restaurant,Pizza Place",Accommodation & Food Services,Norristown,RU,"USD,RUB",,Pizza Fries,Affamato's Pizza & Italian Restaurant,0,25,PA,172,172,172
+4552,AVzBEQtQFcQ3k02bBdtj,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",9ampquot No substitutions,The Quack Attack Pan Pizza,Caliente Pizza and Draft House,0,25,PA,172,172,172
+4553,AVzBEQtQFcQ3k02bBdtj,"Restaurant,Pizza Place",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,2016 Worlds Best Pan Pizza the Quack Attack,Caliente Pizza and Draft House,0,25,PA,172,172,172
+4554,AVwc2w_3kufWRAb5zu2p,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Cosmos Pizza,Cosmos Restaurant,25,40,PA,172,172,172
+4555,AVwc2w_3kufWRAb5zu2p,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Gourmet White Pizza,Cosmos Restaurant,25,40,PA,172,172,172
+4556,AVwc2w_3kufWRAb5zu2p,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,White Pizza,Cosmos Restaurant,25,40,PA,172,172,172
+4557,AVwc2w_3kufWRAb5zu2p,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Four Cheese Pizza,Cosmos Restaurant,25,40,PA,172,172,172
+4558,AVwc2w_3kufWRAb5zu2p,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Pizza Fries,Cosmos Restaurant,25,40,PA,172,172,172
+4559,AVwc2w_3kufWRAb5zu2p,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Fairless Hills,RU,"USD,RUB",,Sorrento Pizza,Cosmos Restaurant,25,40,PA,172,172,172
+4560,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,Bbq Chicken Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4561,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,Meatza Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4562,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,Loaded Baked Potato Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4563,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",Add up to 2 Toppings,2 Large Cheese Pizzas,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4564,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,Buffalo Chicken Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4565,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,Bruschetta Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4566,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,Sev's Smore Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4567,AVwcyNVUIN2L1WUfo2_v,"Restaurant,Pizza Place",Accommodation & Food Services,Carlisle,RU,"USD,RUB",,White Pizza,Seve-n-Dots Publik Pizza Place,0,25,PA,172,172,172
+4568,AVzxqlQh-gnIPe8DUWQ1,"Restaurant,Pizza Place",Accommodation & Food Services,Broomall,RU,"USD,RUB",,Pizza By the Slice,Italian Delight,0,25,PA,172,172,172
+4569,AVzxqlQh-gnIPe8DUWQ1,"Restaurant,Pizza Place",Accommodation & Food Services,Broomall,RU,"USD,RUB",,Bbq Chicken Pizza,Italian Delight,0,25,PA,172,172,172
+4570,AVzxqlQh-gnIPe8DUWQ1,"Restaurant,Pizza Place",Accommodation & Food Services,Broomall,RU,"USD,RUB",,Pizza Fries,Italian Delight,0,25,PA,172,172,172
+4571,AVwcfwh_ByjofQCxe4K8,Pizza Place,Accommodation & Food Services,Hatboro,RU,"USD,RUB",,Stuffed Pizza,Frank's Pizza,0,25,PA,172,172,172
+4572,AVwcfwh_ByjofQCxe4K8,Pizza Place,Accommodation & Food Services,Hatboro,RU,"USD,RUB",,Baked Ziti Pizza,Frank's Pizza,0,25,PA,172,172,172
+4573,AVwcfwh_ByjofQCxe4K8,Pizza Place,Accommodation & Food Services,Hatboro,RU,"USD,RUB",,Eggplant Pizza With Ricotta,Frank's Pizza,0,25,PA,172,172,172
+4574,AVwdZmRokufWRAb55gYw,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Pizza with Everything,Martellucci's Pizzeria,0,25,PA,172,172,172
+4575,AVwdZmRokufWRAb55gYw,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Bethlehem,RU,"USD,RUB",,Veggie Pizza,Martellucci's Pizzeria,0,25,PA,172,172,172
+4576,AVwc4C5mkufWRAb5z88Z,Pizza Place,Accommodation & Food Services,Harrisburg,RU,"USD,RUB","A white pizza with grilled zucchini, eggplant and tomatoes, topped with fresh garlic and mozzarella cheese",Grilled Veggie Pizza,Jo-Jo's,0,25,PA,172,172,172
+4577,AVwc4C5mkufWRAb5z88Z,Pizza Place,Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Stuffed Pizza,Jo-Jo's,0,25,PA,172,172,172
+4578,AVwc4C5mkufWRAb5z88Z,Pizza Place,Accommodation & Food Services,Harrisburg,RU,"USD,RUB",,Pizza Burger Sub,Jo-Jo's,0,25,PA,172,172,172
+4579,AVwc4C5mkufWRAb5z88Z,Pizza Place,Accommodation & Food Services,Harrisburg,RU,"USD,RUB","Fresh mozzarella, tomato sauce, fresh basil and parmesan cheese",Margherita Pizza,Jo-Jo's,0,25,PA,172,172,172
+4580,AVwcw6hf_7pvs4fzytkj,"Restaurant,Pizza Place and Sports Bar,Pizza Place,Sports Bar,Pizza Place and Sports Bar Eastside",Accommodation & Food Services,Allentown,RU,"USD,RUB",Mozzarella cheese and pizza sauce,Pizza Burger,Big Woody's Pizza,0,25,PA,172,172,172
+4581,AVweY2STkufWRAb5Ceak,"Pizza Place,Restaurant",Accommodation & Food Services,Ardmore,RU,"USD,RUB",,Pizza Burger,Ardmore Pizza,0,25,PA,172,172,172
+4582,AVweY2STkufWRAb5Ceak,"Pizza Place,Restaurant",Accommodation & Food Services,Ardmore,RU,"USD,RUB",,Chicken Pizza Steak,Ardmore Pizza,0,25,PA,172,172,172
+4583,AVweY2STkufWRAb5Ceak,"Pizza Place,Restaurant",Accommodation & Food Services,Ardmore,RU,"USD,RUB",,Pizza Fries,Ardmore Pizza,0,25,PA,172,172,172
+4584,AVweROkB_7pvs4fzBgsw,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant",Accommodation & Food Services,Ardmore,RU,"USD,RUB",,Pizza Steak,Bella Italia Pizzeria,25,40,PA,172,172,172
+4585,AVwc66mmIN2L1WUfqV76,"Pizza Place,Restaurant,American,Italian,Pizza,Pizza Place Northern Liberties - Fishtown,Restaurants,Pizza Restaurants,Italian Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Chubbies Pizza,Not Just Pizza,0,25,PA,172,172,172
+4586,AVwc66mmIN2L1WUfqV76,"Pizza Place,Restaurant,American,Italian,Pizza,Pizza Place Northern Liberties - Fishtown,Restaurants,Pizza Restaurants,Italian Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Rancho Pizza,Not Just Pizza,0,25,PA,172,172,172
+4587,AVwc66mmIN2L1WUfqV76,"Pizza Place,Restaurant,American,Italian,Pizza,Pizza Place Northern Liberties - Fishtown,Restaurants,Pizza Restaurants,Italian Restaurants",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Roll,Not Just Pizza,0,25,PA,172,172,172
+4588,AVwdKmNQIN2L1WUfs4kN,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Signature Pizza,Santucci's Square Pizza,25,40,PA,172,172,172
+4589,AWBU_sBYRxPSIh2RpR2t,"Pizza Place,Pizza,Caterers,Restaurants",Accommodation & Food Services,Glenside,RU,"USD,RUB",,Two Slices of Plain Pizza & a 20Oz Soda,Luigi's Pizza & Pasta,0,25,PA,172,172,172
+4590,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,White Pizza,TD Alfredos,0,25,PA,172,172,172
+4591,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Steak,TD Alfredos,0,25,PA,172,172,172
+4592,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB","Pepperoni, sausage, ham bacon, hamburger",All Meat Pizza,TD Alfredos,0,25,PA,172,172,172
+4593,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,2 Slices Pizza,TD Alfredos,0,25,PA,172,172,172
+4594,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,House Pizza,TD Alfredos,0,25,PA,172,172,172
+4595,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,"Sicilian Pizza 14"" Square",TD Alfredos,0,25,PA,172,172,172
+4596,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Hawaiian Pizza Ham & Pineapple,TD Alfredos,0,25,PA,172,172,172
+4597,AVweFAhOByjofQCxvE3v,"Pizza Place,Restaurant",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Buffalo Chicken Cheese Steak Pizza,TD Alfredos,0,25,PA,172,172,172
+4598,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,3. Taco Pizza,Spatola's Pizza,0,25,PA,172,172,172
+4599,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",Extra topping,Regular Cheese Pizza,Spatola's Pizza,0,25,PA,172,172,172
+4600,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,Regular Cheese Pizza,Spatola's Pizza,0,25,PA,172,172,172
+4601,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,1. White Pizza,Spatola's Pizza,0,25,PA,172,172,172
+4602,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,4. White Pizza,Spatola's Pizza,0,25,PA,172,172,172
+4603,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,Vegetable Pizza (Red),Spatola's Pizza,0,25,PA,172,172,172
+4604,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,Vegetable Pizza (white),Spatola's Pizza,0,25,PA,172,172,172
+4605,AVwcqEtfkufWRAb5xmR2,Pizza Place,Accommodation & Food Services,New Hope,RU,"USD,RUB",,Special Pizza,Spatola's Pizza,0,25,PA,172,172,172
+4606,AVweFFuJByjofQCxvFmJ,"Pizza Place,American Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Steak Or Chicken Steak Pizza,City View Pizza and Grill,0,25,PA,172,172,172
+4607,AVweFFuJByjofQCxvFmJ,"Pizza Place,American Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak,City View Pizza and Grill,0,25,PA,172,172,172
+4608,AVweFFuJByjofQCxvFmJ,"Pizza Place,American Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Hawaiian Pizza,City View Pizza and Grill,0,25,PA,172,172,172
+4609,AVweFFuJByjofQCxvFmJ,"Pizza Place,American Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pepperoni Pizza Fries,City View Pizza and Grill,0,25,PA,172,172,172
+4610,AVweFFuJByjofQCxvFmJ,"Pizza Place,American Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Bbq Chicken Pizza,City View Pizza and Grill,0,25,PA,172,172,172
+4611,AVwdxAHjByjofQCxsTCE,Pizza Place,Accommodation & Food Services,Oakmont,RU,"USD,RUB",,White Pizza,Veltre's Pizza & Sandwiches,0,25,PA,172,172,172
+4612,AVwcfCpX_7pvs4fzvkUA,Pizza Place,Accommodation & Food Services,West Chester,RU,"USD,RUB",,Pizza Burger,Mike's Pizza Shoppe,0,25,PA,172,172,172
+4613,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Taco Pizza,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4614,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Pizza,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4615,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Taco Pizza,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4616,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Pizza Steak,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4617,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Pizza Fries,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4618,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Buffalo Chicken Pizza,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4619,AVwdD54HByjofQCxlGdC,"Pizza Place,Pizza Place Abington",Accommodation & Food Services,Abington,RU,"USD,RUB",,Pizza Fries,Mister P's Pasta and Pizza,0,25,PA,172,172,172
+4620,AVweFARb_7pvs4fz_1sg,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Doylestown,RU,"USD,RUB",,Kids Pizza,Roman Delight of Fountainville,25,40,PA,172,172,172
+4621,AVweFARb_7pvs4fz_1sg,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Doylestown,RU,"USD,RUB",,Pizza Burger Italiano,Roman Delight of Fountainville,25,40,PA,172,172,172
+4622,AVweFARb_7pvs4fz_1sg,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Doylestown,RU,"USD,RUB",,Mini Pizza,Roman Delight of Fountainville,25,40,PA,172,172,172
+4623,AVweFARb_7pvs4fz_1sg,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Doylestown,RU,"USD,RUB",,Pizza Steak,Roman Delight of Fountainville,25,40,PA,172,172,172
+4624,AVwdHQttByjofQCxloxi,"Pizza Place,Restaurant",Accommodation & Food Services,North Wales,RU,"USD,RUB","Tender veal sauteed with fresh mushrooms, and onions topped with sauce and mozzarella cheese",Veal Pizzaiola,Franconi's Pizzeria,0,25,PA,172,172,172
+4625,AVwdHQttByjofQCxloxi,"Pizza Place,Restaurant",Accommodation & Food Services,North Wales,RU,"USD,RUB",,White Broccoli Pizza,Franconi's Pizzeria,0,25,PA,172,172,172
+4626,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak,California Pizza,0,25,PA,172,172,172
+4627,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","Ham, bacon, pineapple",The Super Hawaiian Pizza,California Pizza,0,25,PA,172,172,172
+4628,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,The California Pizza,California Pizza,0,25,PA,172,172,172
+4629,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Pizza,California Pizza,0,25,PA,172,172,172
+4630,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","Mushroom, pineapple, tomato",The California Pizza,California Pizza,0,25,PA,172,172,172
+4631,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,The Hawaiian Pizza,California Pizza,0,25,PA,172,172,172
+4632,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Primevera Pizza,California Pizza,0,25,PA,172,172,172
+4633,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Buffalo Chicken Pizza,California Pizza,0,25,PA,172,172,172
+4634,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Fries,California Pizza,0,25,PA,172,172,172
+4635,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,The Tremor Pizza,California Pizza,0,25,PA,172,172,172
+4636,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","Tomato, broccoli, spinach",The Great White Pizza,California Pizza,0,25,PA,172,172,172
+4637,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","Green peppers, mushroom, onion, olives, broccoli",Vegetable Cravers Pizza,California Pizza,0,25,PA,172,172,172
+4638,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Cheese Pizza,California Pizza,0,25,PA,172,172,172
+4639,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","Pepperoni, onion, sausage, green pepper, mushroom",The Tremor Pizza,California Pizza,0,25,PA,172,172,172
+4640,AVwdHYbx_7pvs4fz2al7,"Pizza Place,Restaurant,Pizza,Pizza Place Powelton Village",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Burger,California Pizza,0,25,PA,172,172,172
+4641,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Burger,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4642,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Fries,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4643,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Plain Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4644,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Chicken Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4645,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Chicken Florentine Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4646,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Burger,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4647,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4648,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pita Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4649,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Whole Wheat Tortilla Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4650,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB",,Pizza Fries,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4651,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB","Basil, Tomatoes on a White Pizza",Margherita Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4652,AVwd0zin_7pvs4fz9mgc,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Phoenixville,RU,"USD,RUB","Chicken, Roasted Peppers and Spinach on a White Pizza",Chicken Florentine Pizza,Valley Forge Trattoria & Lounge,25,40,PA,172,172,172
+4653,AVz8jeSK-gnIPe8DUqAL,"Pizza Place,Pizza,Italian Restaurants,Restaurants,Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak Hoagie,Tower Style Pizza,0,25,PA,172,172,172
+4654,AVz8jeSK-gnIPe8DUqAL,"Pizza Place,Pizza,Italian Restaurants,Restaurants,Restaurant",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pepperoni Pizza Steak,Tower Style Pizza,0,25,PA,172,172,172
+4655,AVwdGPrykufWRAb52RhA,"Pizza Place,Restaurant,American,Pizza",Accommodation & Food Services,Philadelphia,RU,"USD,RUB","Sausage, pepperoni, onion, black olives, sweet peppers, mushrooms",Village Pizza Special,Village Pizza,0,25,PA,172,172,172
+4656,AVwdGPrykufWRAb52RhA,"Pizza Place,Restaurant,American,Pizza",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",Create your own pizza.,Cheese Pizza,Village Pizza,0,25,PA,172,172,172
+4657,AVwdGPrykufWRAb52RhA,"Pizza Place,Restaurant,American,Pizza",Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Puff,Village Pizza,0,25,PA,172,172,172
+4658,AVwcqIsE_7pvs4fzxjIo,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Erie,RU,"USD,RUB","Pepperoni ball cut in half, topped with sauce and cheese then baked",Pizza Bal,Skippereno's,25,40,PA,172,172,172
+4659,AVwcyHhnByjofQCxiJEw,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Burger,Zesto Pizza,0,25,PA,172,172,172
+4660,AVwcyHhnByjofQCxiJEw,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Steak,Zesto Pizza,0,25,PA,172,172,172
+4661,AVwcyHhnByjofQCxiJEw,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Cheese Pizza,Zesto Pizza,0,25,PA,172,172,172
+4662,AVwd7dilIN2L1WUf0di5,Pizza Place,Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",Served by the Cut.,Pizza,Mineo's Pizza,0,25,PA,172,172,172
+4663,AVwdjGq7_7pvs4fz6-W_,"Pizza Place,Bar,Pizza Place and Bar,Pizza Place and Bar Braddock Hills - Forest Hills",Accommodation & Food Services,Pittsburgh,RU,"USD,RUB",,Personal Pizza,Foli's Pizza,0,25,PA,172,172,172
+4664,AVwcqsnGIN2L1WUfnjV5,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant",Accommodation & Food Services,Altoona,RU,"USD,RUB",Grape tomatoes and basil on a thin crust  with extra virgin olive oil.,Pizza Margherita,Dino's Pizza (2nd Floor),0,25,PA,172,172,172
+4665,AVwcqsnGIN2L1WUfnjV5,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant",Accommodation & Food Services,Altoona,RU,"USD,RUB",Comes with mozzarella cheese. toppings extra,"Thin, Regular or Thick Crust Pizza",Dino's Pizza (2nd Floor),0,25,PA,172,172,172
+4666,AVwcqsnGIN2L1WUfnjV5,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant",Accommodation & Food Services,Altoona,RU,"USD,RUB","(no tomato sauce) broccoli, garlic, olive oil, thin crust",Pizza Broccoli,Dino's Pizza (2nd Floor),0,25,PA,172,172,172
+4667,AVwcqsnGIN2L1WUfnjV5,"Pizza Place,Italian Restaurant,Pizza Place and Italian Restaurant",Accommodation & Food Services,Altoona,RU,"USD,RUB","(no tomato sauce) thin crust, tuna salad, cheddar, moz",Tuna Melt Pizza,Dino's Pizza (2nd Floor),0,25,PA,172,172,172
+4668,AVwdK0eB_7pvs4fz2-Lz,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza By The Slice,Santucci's Square Pizza V,0,25,PA,172,172,172
+4669,AVwdK0eB_7pvs4fz2-Lz,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,White Pizza,Santucci's Square Pizza V,0,25,PA,172,172,172
+4670,AVwdK0eB_7pvs4fz2-Lz,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza Roll,Santucci's Square Pizza V,0,25,PA,172,172,172
+4671,AVwdK0eB_7pvs4fz2-Lz,Pizza Place,Accommodation & Food Services,Philadelphia,RU,"USD,RUB",,Pizza By the Slice,Santucci's Square Pizza V,0,25,PA,172,172,172
+4672,AVwczH3fIN2L1WUfpA5_,"Pizza Place,Bar,Pizza Place and Bar",Accommodation & Food Services,Pennsburg,RU,"USD,RUB",,Pizza Burger,Tosco's Pizza and Restaurant,0,25,PA,172,172,172
+4673,AVwczH3fIN2L1WUfpA5_,"Pizza Place,Bar,Pizza Place and Bar",Accommodation & Food Services,Pennsburg,RU,"USD,RUB",,Buffalo Chicken Pizza,Tosco's Pizza and Restaurant,0,25,PA,172,172,172
+4674,AVwczH3fIN2L1WUfpA5_,"Pizza Place,Bar,Pizza Place and Bar",Accommodation & Food Services,Pennsburg,RU,"USD,RUB",,Stuffed Pizza,Tosco's Pizza and Restaurant,0,25,PA,172,172,172
+4675,AVwdhHzjkufWRAb56rCx,"Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB","Ground beef, crispy bacon, and american cheese w. our homemade old forge style pizza sauce",Bacon Cheeseburger Pizza,Grande Pizza,0,25,PA,172,172,172
+4676,AVwdhHzjkufWRAb56rCx,"Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Philly Cheese Steak Pizza,Grande Pizza,0,25,PA,172,172,172
+4677,AVwdhHzjkufWRAb56rCx,"Pizza Place,Restaurants",Accommodation & Food Services,Scranton,RU,"USD,RUB",,Hot Wing Pizza,Grande Pizza,0,25,PA,172,172,172

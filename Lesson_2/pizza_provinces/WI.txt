@@ -1,0 +1,141 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+7975,AVzA86ss-gnIPe8DSebH,"Restaurant,Pizza Place",Accommodation & Food Services,Saint Francis,RU,"USD,RUB",Chocolate chips mini marshmallows and crisp topping,S39mores Pizza,Papa Murphys,0,25,WI,32,32,32
+7976,AVwcmZL_kufWRAb5w-Ns,Pizza Place,Accommodation & Food Services,Madison,RU,"USD,RUB",,Taco Pizza,Ians Pizza by the Slice,0,25,WI,32,32,32
+7977,AVzA84tA3D1zeR_xBBi4,"American Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,The Individual Mini Pizza 8'',Organ Piper Pizza Palace,0,25,WI,32,32,32
+7978,AVzA84tA3D1zeR_xBBi4,"American Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,The Milwaukee Special Pizza,Organ Piper Pizza Palace,0,25,WI,32,32,32
+7979,AVzA84tA3D1zeR_xBBi4,"American Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Garlic Pizza Brad Add One Topping,Organ Piper Pizza Palace,0,25,WI,32,32,32
+7980,AVzA84tA3D1zeR_xBBi4,"American Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,The Veggie Pizza,Organ Piper Pizza Palace,0,25,WI,32,32,32
+7981,AVzA84tA3D1zeR_xBBi4,"American Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Garlic Pizza Bread,Organ Piper Pizza Palace,0,25,WI,32,32,32
+7982,AVzdAmzL3D1zeR_xB5dX,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Hudson,RU,"USD,RUB",,Cheese Pizza,Dough Boys Pizza,0,25,WI,32,32,32
+7983,AVwdQtv3ByjofQCxnPa1,Pizza Place,Accommodation & Food Services,New Berlin,RU,"USD,RUB",,(2) Large Pizzas,Crossroads II,0,25,WI,32,32,32
+7984,AVwdQtv3ByjofQCxnPa1,Pizza Place,Accommodation & Food Services,New Berlin,RU,"USD,RUB",,11 Gluten Free Pizza,Crossroads II,0,25,WI,32,32,32
+7985,AVwdQtv3ByjofQCxnPa1,Pizza Place,Accommodation & Food Services,New Berlin,RU,"USD,RUB",,Cheese Pizza,Crossroads II,0,25,WI,32,32,32
+7986,AVwdQtv3ByjofQCxnPa1,Pizza Place,Accommodation & Food Services,New Berlin,RU,"USD,RUB",,(1) Large 16 Pizza,Crossroads II,0,25,WI,32,32,32
+7987,AVwdbDXukufWRAb55vnM,"Restaurant,Pizza Place",Accommodation & Food Services,Fond du Lac,RU,"USD,RUB",,Any Large Pizza,Papa Johns Pizza,0,25,WI,32,32,32
+7988,AVwc4_JF_7pvs4fz0Dt2,"Sicilian Restaurant,Pizza Place,Pizza Restaurant",Accommodation & Food Services,Kaukauna,RU,"USD,RUB",,Margherita Pizza,Pagonis Pizza Kaukauna,0,25,WI,32,32,32
+7989,AVwc4_JF_7pvs4fz0Dt2,"Sicilian Restaurant,Pizza Place,Pizza Restaurant",Accommodation & Food Services,Kaukauna,RU,"USD,RUB",,Mama's Dipping Stick Pizza,Pagonis Pizza Kaukauna,0,25,WI,32,32,32
+7990,AVwc4_JF_7pvs4fz0Dt2,"Sicilian Restaurant,Pizza Place,Pizza Restaurant",Accommodation & Food Services,Kaukauna,RU,"USD,RUB",,Margherita Pizza,Pagonis Pizza Kaukauna,0,25,WI,32,32,32
+7991,AVwcxjlDkufWRAb5y4mF,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Regular Slice Of Pizza Or Pasta Choiceampcomma Soda And Treat,Rocky Rococo,0,25,WI,32,32,32
+7992,AVwcxjlDkufWRAb5y4mF,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",sausage ampamp pepperoni,Super Slices z934 Pound Of Pizza,Rocky Rococo,0,25,WI,32,32,32
+7993,AVwcxjlDkufWRAb5y4mF,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",2 orders of italian breadsticks pitcher of cocacola 2 liter for delivery,Large OneTopping Pan Pizza,Rocky Rococo,0,25,WI,32,32,32
+7994,AVwcxjlDkufWRAb5y4mF,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Rockyampaposs Thin Crust Pizza  XCheese,Rocky Rococo,0,25,WI,32,32,32
+7995,AVwc_OSV_7pvs4fz1Ez2,"Pizza Place,Pizza Place Tenney-Lapham",Accommodation & Food Services,Madison,RU,"USD,RUB",,Gluten Free Pizzas,Salvatores Tomato Pies,0,25,WI,32,32,32
+7996,AVwc_OSV_7pvs4fz1Ez2,"Pizza Place,Pizza Place Tenney-Lapham",Accommodation & Food Services,Madison,RU,"USD,RUB",,Gluten Free Pizza,Salvatores Tomato Pies,0,25,WI,32,32,32
+7997,AVzxr_XS3D1zeR_xC1b8,"Restaurant,Pizza Place",Accommodation & Food Services,Sun Prairie,RU,"USD,RUB",,Triple Play Pizza Deal,Rocky Rococo Pan Style Pizza,0,25,WI,32,32,32
+7998,AVzxr_XS3D1zeR_xC1b8,"Restaurant,Pizza Place",Accommodation & Food Services,Sun Prairie,RU,"USD,RUB","Medium Pan Pizza or 16"" XL Mama's Thin with Three Toppings",Triple Play Pizza Deal,Rocky Rococo Pan Style Pizza,0,25,WI,32,32,32
+7999,AVyisSial8hL2jjQyP30,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Stuffed Pizza with the Works,Alphonsos,0,25,WI,32,32,32
+8000,AV5U-Rqa3-Khe5l_U6kq,Pizza Place,Accommodation & Food Services,Waupaca,RU,"USD,RUB",,Cheese Only Pizza,Weasels of Waupaca,0,25,WI,32,32,32
+8001,AV5U-Rqa3-Khe5l_U6kq,Pizza Place,Accommodation & Food Services,Waupaca,RU,"USD,RUB",,Cheese Only Pizza,Weasels of Waupaca,0,25,WI,32,32,32
+8002,AV0XuBWQ3D1zeR_xDsjg,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,La Crosse,RU,"USD,RUB",,Regular Pizza Slices Everyday,Rocky Rococo Panstyle Pizza,0,25,WI,32,32,32
+8003,AWM7PB2fa4HuVbedQAtn,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Oshkosh,RU,"USD,RUB",,Cherry Pie Pizza,Glass Nickel Pizza,25,40,WI,32,32,32
+8004,AVwdIokdByjofQCxl2Qy,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Cheese Pizza,Ferraro's Pizza,0,25,WI,32,32,32
+8005,AVwdIokdByjofQCxl2Qy,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",With Our Own Special Tomato Sauce and CheeseHot or Mild peppers Sandwich with Mozzarella Cheese 050 extra Sandwich Plates are available with French Fries or Mashed Potatoes and Cole Slaw 2 extra,Pizza Burger,Ferraro's Pizza,0,25,WI,32,32,32
+8006,AVwdNfWN_7pvs4fz3cK3,"Pizza Place,Restaurants",Accommodation & Food Services,Milwaukee,RU,"USD,RUB","Grilled Chicken, Mushrooms, Onions, Green Pepper, Tomatoes, Mozzarella.",Chicken Philly Pizza,Nypd,0,25,WI,32,32,32
+8007,AVwdNfWN_7pvs4fz3cK3,"Pizza Place,Restaurants",Accommodation & Food Services,Milwaukee,RU,"USD,RUB","Gyro Meat, Onions, Tomatoes, Olives, Feta Cheese, Mozzarella.",Greek Pizza,Nypd,0,25,WI,32,32,32
+8008,AVwdNfWN_7pvs4fz3cK3,"Pizza Place,Restaurants",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Pizza Puffs,Nypd,0,25,WI,32,32,32
+8009,AVwdNfWN_7pvs4fz3cK3,"Pizza Place,Restaurants",Accommodation & Food Services,Milwaukee,RU,"USD,RUB","Pepperoni, Pepperoncini Peppers, Mozzarella.",Ellis Island Pizza,Nypd,0,25,WI,32,32,32
+8010,AVwcw1X4_7pvs4fzyso4,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Sicilian Style Pizza,Infusino's Pizzeria,0,25,WI,32,32,32
+8011,AVwcw1X4_7pvs4fzyso4,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Thin Crust Pizza,Infusino's Pizzeria,0,25,WI,32,32,32
+8012,AVwcw1X4_7pvs4fzyso4,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Virgin Crust Pizza,Infusino's Pizzeria,0,25,WI,32,32,32
+8013,AVwcw1X4_7pvs4fzyso4,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Vegas Pizza,Infusino's Pizzeria,0,25,WI,32,32,32
+8014,AVwcw1X4_7pvs4fzyso4,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Vegas Pizza,Infusino's Pizzeria,0,25,WI,32,32,32
+8015,AVwcw1X4_7pvs4fzyso4,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Racine,RU,"USD,RUB",,Virgin Crust Pizza,Infusino's Pizzeria,0,25,WI,32,32,32
+8016,AVweG3QiByjofQCxvVWK,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cudahy,RU,"USD,RUB","Sweet BBQ sauce, topped with mozzarella cheese and tender chunks of chicken breast.",Bbq Chicken Pizza,Papa Luigi's Pizza,0,25,WI,32,32,32
+8017,AVweG3QiByjofQCxvVWK,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cudahy,RU,"USD,RUB",,Hawaiian Pizza,Papa Luigi's Pizza,0,25,WI,32,32,32
+8018,AVweG3QiByjofQCxvVWK,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cudahy,RU,"USD,RUB",,Pizza Burger,Papa Luigi's Pizza,0,25,WI,32,32,32
+8019,AVweG3QiByjofQCxvVWK,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cudahy,RU,"USD,RUB",,Buffalo Chicken Pizza,Papa Luigi's Pizza,0,25,WI,32,32,32
+8020,AVweG3QiByjofQCxvVWK,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cudahy,RU,"USD,RUB",,Pocket Pizza,Papa Luigi's Pizza,0,25,WI,32,32,32
+8021,AVwcmfiSByjofQCxgHJZ,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Appleton,RU,"USD,RUB",,Medium Pizza Offers,Papa John's Pizza,0,25,WI,32,32,32
+8022,AVwc9pWUIN2L1WUfqyp5,"Pizza,Karaoke,Pizza Place,Restaurants",Accommodation & Food Services,West Bend,RU,"USD,RUB","Ground beef, ricotta, Mozzarella",Lasagna Pizza,Sal's Pizzeria,0,25,WI,32,32,32
+8023,AVzdAmojLD2H7whiXA53,"Restaurant,Pizza Place",Accommodation & Food Services,Hudson,RU,"USD,RUB",,Pizza Di Bricks,Bricks Neapolitan Pizza,0,25,WI,32,32,32
+8024,AWEKUDkVRxPSIh2RrNAS,"Restaurant,Pizza Place",Accommodation & Food Services,Rice Lake,RU,"USD,RUB",pepperoni or cheese original round no limit carry out plus tax,HotNReady Large Pizza,Little Caesar's Pizza,0,25,WI,32,32,32
+8025,AVwdCs4skufWRAb51sjs,"Restaurant,Pizza Place",Accommodation & Food Services,Hartford,RU,"USD,RUB",carry out plus taxes,Large 3 Topping Pizza,Little Caesar's Pizza,0,25,WI,32,32,32
+8026,AVwdFIZuIN2L1WUfsAik,"Restaurant,Pizza Place",Accommodation & Food Services,Waukesha,RU,"USD,RUB",pepperoni or cheese original round no limit carry out plus tax,HotNReady Large Pizza,Little Caesar's Pizza,0,25,WI,32,32,32
+8027,AVwdFIZuIN2L1WUfsAik,"Restaurant,Pizza Place",Accommodation & Food Services,Waukesha,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesar's Pizza,0,25,WI,32,32,32
+8028,AVwdFIZuIN2L1WUfsAik,"Restaurant,Pizza Place",Accommodation & Food Services,Waukesha,RU,"USD,RUB",carry out plus taxes,Large 3 Topping Pizza,Little Caesar's Pizza,0,25,WI,32,32,32
+8029,AV1mRyWBa4HuVbed70Ll,"Restaurant,Pizza Place",Accommodation & Food Services,Hudson,RU,"USD,RUB",Additional toppings 050,7 Cheese Pizza,Red's Savoy Pizza,0,25,WI,32,32,32
+8030,AV1mRyWBa4HuVbed70Ll,"Restaurant,Pizza Place",Accommodation & Food Services,Hudson,RU,"USD,RUB",,Pizza Fries with Sauce,Red's Savoy Pizza,0,25,WI,32,32,32
+8031,AVzBASWBFcQ3k02bBbXI,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",full pound of chicken wings,Large OneTopping Pan Pizza Or XLarge ampquotZa Thin,Rocky Rococo,0,25,WI,32,32,32
+8032,AVzBASWBFcQ3k02bBbXI,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",super slice of the day,Super Slices  34 Pound Of Pizza,Rocky Rococo,0,25,WI,32,32,32
+8033,AVzBASWBFcQ3k02bBbXI,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Rockyampaposs Thin Crust Pizza  XCheese,Rocky Rococo,0,25,WI,32,32,32
+8034,AVzBASWBFcQ3k02bBbXI,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Rockyampaposs Thin Crust Pizza  Cheese,Rocky Rococo,0,25,WI,32,32,32
+8035,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",A vegetable pizza complete with mushroomsampcomma onionampcomma green peppersampcomma black olivesampcomma diced tomatoes and topped with Parmesan cheese,Garden of Eatinampapos Pizza,Rocky Rococo,0,25,WI,32,32,32
+8036,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",,Thin Crust Round 5Topping Pizza,Rocky Rococo,0,25,WI,32,32,32
+8037,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",Italian sausageampcomma pepperoniampcomma mushroomsampcomma onionsampcomma green peppersampcomma black and green olives and diced tomatoes,The Works Thin Crust Pizza,Rocky Rococo,0,25,WI,32,32,32
+8038,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",Serves three to four people,Medium Pan Cheese Pizza,Rocky Rococo,0,25,WI,32,32,32
+8039,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",A marriage of Italian sausageampcomma pepperoniampcomma mushrooms and onions topped with diced tomatoes and a touch of oregano,Uncle Salampaposs Pizza,Rocky Rococo,0,25,WI,32,32,32
+8040,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",Stuffed crust pizza Five cheese mix with sausage,Medium Motherload Pizza,Rocky Rococo,0,25,WI,32,32,32
+8041,AVwdUOgq_7pvs4fz4ltZ,"Restaurant,Pizza Place",Accommodation & Food Services,Wausau,RU,"USD,RUB",,Thin Crust Round Cheese Pizza,Rocky Rococo,0,25,WI,32,32,32
+8042,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,"14"" Pizza",Guppy's Pizza,0,25,WI,32,32,32
+8043,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Gyro Guy Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8044,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Pepperoni, Sausage, Ham, Bacon and Extra Cheese.",Four Meat Classic Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8045,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","White Meat Garlic Chicken, Bleu Cheese Dressing, Ranch Dressing, Hot Sauce, Celery, Extra Cheese.",Chicken Chaser Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8046,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Farmer Frank Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8047,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Bbq Chicken Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8048,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Tomatoes, Mushrooms, Onions, Green Peppers, Black Olives, Banana Peppers, Extra Cheese.",Veggi Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8049,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","White Meat Garlic Chicken, Alfredo Sauce, Mushrooms, Onions, Extra Cheese.",Chicken Alfredo Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8050,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Four Cheese & Tomato Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8051,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Ranch dressing, Potatoes, Bacon, Green Onions, Cheddar, Mozzarella, Provolone. Served with Sour Cream on the side.",Spuds Supreme Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8052,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Creamy Feta Sauce, Pepperoni, Bacon, Gyro Topping, Onion, Tomato and Extra Cheese.",Freckled Feta Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8053,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Create Your Own Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8054,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Chicken Alfredo Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8055,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Pepperoni, Sausage, Garlic, Mushrooms, Onions, Green Peppers, Black Olives, Extra Cheese.",Deluxe Supreme Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8056,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Texas Tacos Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8057,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Spuds Supreme Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8058,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Deluxe Supreme Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8059,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Taco Seasoned Ground Beef, Black Olives, Onions, Cheddar Cheese. Topped with Tomatoes, Lettuce. Served with Salsa and Sour Cream.",Texas Tacos Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8060,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Large 1Topping Pizza ampamp Medium Sticks Special,Guppy's Pizza,0,25,WI,32,32,32
+8061,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Philly Steak Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8062,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Freckled Feta Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8063,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Creamy Feta dressing, Gyro Topping, Green Peppers, Onions, Extra Cheese.",Gyro Guy Pizza,Guppy's Pizza,0,25,WI,32,32,32
+8064,AVweJgKKIN2L1WUf2aTU,"Restaurant,Pizza Place",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Buy One Pizza Get One Free,Guppy's Pizza,0,25,WI,32,32,32
+8065,AVyisQvIgXLl9CNj_ARg,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Ladolce Pizza,Classic Slice,25,40,WI,32,32,32
+8066,AVyisQvIgXLl9CNj_ARg,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Raw Pizza Dough,Classic Slice,25,40,WI,32,32,32
+8067,AVwdYrcW_7pvs4fz5Vdh,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",2 orders of italian breadsticks pitcher of cocacola 2 liter for delivery,Large OneTopping Pan Pizza,Rocky Rococo,0,25,WI,32,32,32
+8068,AVwcwwIhIN2L1WUfomuC,"Restaurant,Pizza Place",Accommodation & Food Services,Oconomowoc,RU,"USD,RUB",,Regular Slice Of Pizza Or Pasta Choiceampcomma Soda And Treat,Rocky Rococo,0,25,WI,32,32,32
+8069,AVwcwwIhIN2L1WUfomuC,"Restaurant,Pizza Place",Accommodation & Food Services,Oconomowoc,RU,"USD,RUB",,Rockyampaposs Thin Crust Pizza Each Topping,Rocky Rococo,0,25,WI,32,32,32
+8070,AVwcwwIhIN2L1WUfomuC,"Restaurant,Pizza Place",Accommodation & Food Services,Oconomowoc,RU,"USD,RUB",sausage ampamp pepperoni,Super Slices z934 Pound Of Pizza,Rocky Rococo,0,25,WI,32,32,32
+8071,AVwcwwIhIN2L1WUfomuC,"Restaurant,Pizza Place",Accommodation & Food Services,Oconomowoc,RU,"USD,RUB",34 lb of austin blues bbq rib tips,Large OneTopping Pan Pizza Or XLarge ampaposZa Thin,Rocky Rococo,0,25,WI,32,32,32
+8072,AVzBAS3bFcQ3k02bBbXR,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",2 orders of italian breadsticks pitcher of cocacola 2 liter for delivery,Large OneTopping Pan Pizza,Rocky Rococo,25,40,WI,32,32,32
+8073,AVzBAS3bFcQ3k02bBbXR,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",full pound of chicken wings,Large OneTopping Pan Pizza Or XLarge ampquotZa Thin,Rocky Rococo,25,40,WI,32,32,32
+8074,AVzBAS3bFcQ3k02bBbXR,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Rockyampaposs Thin Crust Pizza  Cheese,Rocky Rococo,25,40,WI,32,32,32
+8075,AVzBAS3bFcQ3k02bBbXR,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",a complete food italian sausageampcomma fresh mushroomsampcomma green peppersampcomma ampamp onionsampcomma sprinkled with italian spices very popular,The Perfect Pizza,Rocky Rococo,25,40,WI,32,32,32
+8076,AVwd3xG5IN2L1WUfz8XL,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",a complete food italian sausageampcomma fresh mushroomsampcomma green peppersampcomma ampamp onionsampcomma sprinkled with italian spices very popular,The Perfect Pizza,Rocky Rococo,0,25,WI,32,32,32
+8077,AVwd3xG5IN2L1WUfz8XL,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Regular Slice Of Pizza Or Pasta Choiceampcomma Soda And Treat,Rocky Rococo,0,25,WI,32,32,32
+8078,AVwd3xG5IN2L1WUfz8XL,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",full pound of chicken wings,Large OneTopping Pan Pizza Or XLarge ampquotZa Thin,Rocky Rococo,0,25,WI,32,32,32
+8079,AVwd3xG5IN2L1WUfz8XL,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",super slice of the day,Super Slices  34 Pound Of Pizza,Rocky Rococo,0,25,WI,32,32,32
+8080,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB","Our BBQ red sauce, slow smoked dry rubbed pork loins (smoked on site) , red onion, and roasted red peppers.",Bbq Pork Pizza,Downtown Pizza,0,25,WI,32,32,32
+8081,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Hearty slices of gyro meatampcomma fresh roma tomatoesampcomma sliced onions and feta cheese topped with taziki sauce,The Gyro Pizza,Downtown Pizza,0,25,WI,32,32,32
+8082,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Mounds of Idaho potatoesampcomma shredded cheeseampcomma baconampcomma roma tomatoesampcomma onions with nacho cheese sauce and topped with sour cream,Baked Potato Pizza,Downtown Pizza,0,25,WI,32,32,32
+8083,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Cheeseampcomma Italian sausageampcomma fresh mushroomsampcomma onions and black olives,Classic Pizza,Downtown Pizza,0,25,WI,32,32,32
+8084,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Our BBQ redsauceampcomma slow smoked dry rubbed pork loins smoked on siteampcomma red onion and roasted red peppers,BBQ Pork Pizza,Downtown Pizza,0,25,WI,32,32,32
+8085,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",8 inch personal pan one topping pizza.,Personal Pan Pizza,Downtown Pizza,0,25,WI,32,32,32
+8086,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Cheeseampcomma red onionampcomma buffalo chickenampcomma ranch and green onion,Tatanka Chicken Pizza,Downtown Pizza,0,25,WI,32,32,32
+8087,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Rich white sauceampcomma mozzarella cheeseampcomma slices of grilled chickenampcomma diced tomatoesampcomma chunks of crisp bacon and green onion,Chicken Bacon Ranch Pizza,Downtown Pizza,0,25,WI,32,32,32
+8088,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Fresh pasto sauceampcomma chunks of ripe and sun dried tomatoesampcomma Romano and mozzarella cheese,Pesto Pizza,Downtown Pizza,0,25,WI,32,32,32
+8089,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Fresh mushroomampcomma green pepperampcomma onionampcomma diced tomatoesampcomma black olives and mozzarella cheese,Fresh Veggie Pizza,Downtown Pizza,0,25,WI,32,32,32
+8090,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",,Personal Pan Pizza,Downtown Pizza,0,25,WI,32,32,32
+8091,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Delicious zesty garlic Alfredo covers with crustampcomma then succulent marinated chickenampcomma mushroomsampcomma onionampcomma cheese and spinach,Alfredo Pizza,Downtown Pizza,0,25,WI,32,32,32
+8092,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Creamy Alfredo sauce on a bed of fresh spinach leaves with roma tomatoesampcomma garlic infused olive oil and feta cheese,Olive Oyl Popeye Pizza,Downtown Pizza,0,25,WI,32,32,32
+8093,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Cheeseampcomma baconampcomma pepperoniampcomma homemade Italian sausage and ham,Lotsa Meatsa Pizza,Downtown Pizza,0,25,WI,32,32,32
+8094,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",Made with loads of chickenampcomma lots of fresh vegetables and a savory rosemary crumble crust topping,Pot Pie Pizza,Downtown Pizza,0,25,WI,32,32,32
+8095,AVwdLuIgByjofQCxmYAJ,"Restaurant,Pizza Place",Accommodation & Food Services,Grafton,RU,"USD,RUB",,Bbq Pork Pizza,Downtown Pizza,0,25,WI,32,32,32
+8096,AVwc3HTqByjofQCxi_cM,"Restaurant,Pizza Place Downtown Appleton,Pizza Place",Accommodation & Food Services,Appleton,RU,"USD,RUB",,Frank's Special Pizza,Frank's Pizza Palace,25,40,WI,32,32,32
+8097,AVwc4yqiIN2L1WUfp-Z6,Pizza Place,Accommodation & Food Services,Eau Claire,RU,"USD,RUB","Gyro beef, onions, green peppers, with cucumber sauce on side.",Gyro Pizza,New York Pizza,0,25,WI,32,32,32
+8098,AVwc4yqiIN2L1WUfp-Z6,Pizza Place,Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Gyro Pizza,New York Pizza,0,25,WI,32,32,32
+8099,AVwc4yqiIN2L1WUfp-Z6,Pizza Place,Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Meat Lover's Pizza,New York Pizza,0,25,WI,32,32,32
+8100,AVwc4yqiIN2L1WUfp-Z6,Pizza Place,Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Chicken Pizza,New York Pizza,0,25,WI,32,32,32
+8101,AVwcqY9-IN2L1WUfnfw-,"Bar,Bar & Grills,Pizza Place,Pizza Place and Bar,Restaurants",Accommodation & Food Services,Kenosha,RU,"USD,RUB",,Truffle & Mushroom Pizza,Slice,0,25,WI,32,32,32
+8102,AVwcqY9-IN2L1WUfnfw-,"Bar,Bar & Grills,Pizza Place,Pizza Place and Bar,Restaurants",Accommodation & Food Services,Kenosha,RU,"USD,RUB",,Pizza Bianca,Slice,0,25,WI,32,32,32
+8103,AVwcqY9-IN2L1WUfnfw-,"Bar,Bar & Grills,Pizza Place,Pizza Place and Bar,Restaurants",Accommodation & Food Services,Kenosha,RU,"USD,RUB",,Lido Delle Nazioni Pizza,Slice,0,25,WI,32,32,32
+8104,AVwdXG1XkufWRAb55GW9,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Extra Sauce On Any Pizza,Marco's Pizza,0,25,WI,32,32,32
+8105,AVwdXG1XkufWRAb55GW9,"Restaurant,Pizza Place",Accommodation & Food Services,Milwaukee,RU,"USD,RUB",,Half Lb. Pizza Burger,Marco's Pizza,0,25,WI,32,32,32
+8106,AVzBGMCYFcQ3k02bBebE,"Pizza Place,Pizza,Caterers,Italian Restaurants,Restaurants",Accommodation & Food Services,Madison,RU,"USD,RUB",,Triple Play Pizza Deal,Rocky Rococo Pan Style Pizza - Campus/Downtown,0,25,WI,32,32,32
+8107,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Bacon Double Cheese Burger Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8108,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Hawaiian Island Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8109,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Bbq Bacon Chicken Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8110,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Classic Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8111,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Gyro Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8112,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Veggie Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8113,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Bbq Ranch Chicken & Bacon Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32
+8114,AVwchFuLIN2L1WUflzct,"Pizza Place,Restaurants,Pizza Restaurants",Accommodation & Food Services,Eau Claire,RU,"USD,RUB",,Hazardous Jalapeno Pizza,Buzzy's Pizza Emporium,0,25,WI,32,32,32

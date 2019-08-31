@@ -1,0 +1,9 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+8979,AWEKVNdxIxWefVJww1-8,"Pizza,Pizza Place",Accommodation & Food Services,Long Beach,RU,"USD,RUB,BTC",,Any Large Pizza,Papa Johns Pizza,0,25,MS,7,7,7
+8980,AWEH8QnFa4HuVbedLpXY,Pizza Place,Accommodation & Food Services,Gulfport,RU,"USD,RUB,BTC",,Meat Lover's Pizza,Tonys Brick Oven Pizzeria,0,25,MS,7,7,7
+8981,AVwcs8n3kufWRAb5yGjR,Pizza Place,Accommodation & Food Services,Southaven,RU,"USD,RUB,BTC",,Pizza Bread,Avellinos,0,25,MS,7,7,7
+8982,AVwdn66D_7pvs4fz7t3D,"Pizza,Food and Beverage,Pizza Place",Accommodation & Food Services,Southaven,RU,"USD,RUB,BTC",,Bbq Chicken Pizza,Memphis Pizza Cafe,0,25,MS,7,7,7
+8983,AWEHrUDTa4HuVbedLTBz,"Pizza Place,Dessert Shop",Retail,Biloxi,RU,"USD,RUB,BTC",,"14"" Pizza",Sal & Mookie's New York Style Pizza & Ice Cream Joint,25,40,MS,7,7,7
+8984,AWEHrUDTa4HuVbedLTBz,"Pizza Place,Dessert Shop",Retail,Biloxi,RU,"USD,RUB,BTC",,Cheese Pizza Slice,Sal & Mookie's New York Style Pizza & Ice Cream Joint,25,40,MS,7,7,7
+8985,AWEKTpVjIxWefVJww0Iq,"Restaurant,Pizza Place",Accommodation & Food Services,Brandon,RU,"USD,RUB,BTC",serves 23ampcomma sauce choices  southwestern ranchampcomma picanteampcomma four cheeses and two topping choices baked between two golden crusts,Quesapizza,Mazzios Pizza,0,25,MS,7,7,7
+8986,AWEH746LRxPSIh2Rq3yT,"Restaurant,Pizza Place",Accommodation & Food Services,Biloxi,RU,"USD,RUB,BTC",Great combination of premium allwhite meat chickenampcomma fresh white mushroomsampcomma sweet red onionsampcomma and crisp green peppers,Chicken Supreme Pizza,Pizza Hut,0,25,MS,7,7,7

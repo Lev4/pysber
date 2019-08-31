@@ -1,0 +1,28 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+7902,AVweaRbG_7pvs4fzCuk4,"Restaurant,Pizza Place",Accommodation & Food Services,Edmond,RU,"USD,RUB",,Large Specialty Calzone and Large Specialty Pizza,Stars Stripes Pizza,0,25,OK,11,11,11
+7903,AVweaRbG_7pvs4fzCuk4,"Restaurant,Pizza Place",Accommodation & Food Services,Edmond,RU,"USD,RUB",,Two Large Single Topping Pizzas,Stars Stripes Pizza,0,25,OK,11,11,11
+7904,AVweaRbG_7pvs4fzCuk4,"Restaurant,Pizza Place",Accommodation & Food Services,Edmond,RU,"USD,RUB",,Large Single Topping and Large Specialty Pizza,Stars Stripes Pizza,0,25,OK,11,11,11
+7905,AVwcpI_jIN2L1WUfnR8U,Pizza Place,Accommodation & Food Services,Tulsa,RU,"USD,RUB",,Caesar Pizza,Marleys Chicago Style Pizzeria,25,40,OK,11,11,11
+7906,AVwcpI_jIN2L1WUfnR8U,Pizza Place,Accommodation & Food Services,Tulsa,RU,"USD,RUB",,Bbq Chicken Pizza,Marleys Chicago Style Pizzeria,25,40,OK,11,11,11
+7907,AVwcpI_jIN2L1WUfnR8U,Pizza Place,Accommodation & Food Services,Tulsa,RU,"USD,RUB",,Caesar Pizza,Marleys Chicago Style Pizzeria,25,40,OK,11,11,11
+7908,AVwcpI_jIN2L1WUfnR8U,Pizza Place,Accommodation & Food Services,Tulsa,RU,"USD,RUB",,Bbq Chicken Pizza,Marleys Chicago Style Pizzeria,25,40,OK,11,11,11
+7909,AVzA9sC0FcQ3k02bBZzv,Pizza Place,Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Single Topping Pizza,All American Pizza,0,25,OK,11,11,11
+7910,AV0vP7Zq3D1zeR_xEnKg,"Restaurant,Pizza Place",Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Small Single Topping Pizza,Stars and Stripes Pizza,0,25,OK,11,11,11
+7911,AV0vP7Zq3D1zeR_xEnKg,"Restaurant,Pizza Place",Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Medium Specialty Pizza,Stars and Stripes Pizza,0,25,OK,11,11,11
+7912,AV0vP7Zq3D1zeR_xEnKg,"Restaurant,Pizza Place",Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Small Specialty Pizza,Stars and Stripes Pizza,0,25,OK,11,11,11
+7913,AVweFFrxIN2L1WUf1zLZ,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sand Springs,RU,"USD,RUB",,Pizza Supreme,Minuteman Pizza Parlor,0,25,OK,11,11,11
+7914,AVweFFrxIN2L1WUf1zLZ,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sand Springs,RU,"USD,RUB",,"7"" Pizza",Minuteman Pizza Parlor,0,25,OK,11,11,11
+7915,AV1tgL36IxWefVJwg7eN,"Restaurant,Pizza Place",Accommodation & Food Services,Bartlesville,RU,"USD,RUB",pepperoniampcomma green peppersampcomma onionsampcomma tomatoesampcomma fresh mushroomsampcomma black olives and four cheeses,Lucky 7 Pizza,Mazzio's Pizza,0,25,OK,11,11,11
+7916,AV1tgL36IxWefVJwg7eN,"Restaurant,Pizza Place",Accommodation & Food Services,Bartlesville,RU,"USD,RUB",serves 23ampcomma sauce choices  southwestern ranchampcomma picanteampcomma four cheeses and two topping choices baked between two golden crusts,Quesapizza,Mazzio's Pizza,0,25,OK,11,11,11
+7917,AVweAeaXkufWRAb5_LcM,"Pizza Place,Restaurant",Accommodation & Food Services,Tulsa,RU,"USD,RUB",,White Pizza,Mario's NY Style Pizzeria,0,25,OK,11,11,11
+7918,AVwchEpMByjofQCxfGPa,Pizza Place,Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Pizza Partytm Discount,Mazzio's Pizza,0,25,OK,11,11,11
+7919,AVwdsUrr_7pvs4fz8ZW4,Pizza Place,Accommodation & Food Services,Tulsa,RU,"USD,RUB",,Family Pizza Deal,Top That! Pizza - Midtown Tulsa,25,40,OK,11,11,11
+7920,AVwdsUrr_7pvs4fz8ZW4,Pizza Place,Accommodation & Food Services,Tulsa,RU,"USD,RUB",,16 Inch Jumbo Pizza,Top That! Pizza - Midtown Tulsa,25,40,OK,11,11,11
+7921,AVwdcAojIN2L1WUfv0hX,"Pizza Place,Restaurant",Accommodation & Food Services,Broken Arrow,RU,"USD,RUB",,"Pizza Rustica 14""",Andolini's Pizzeria Broken Arrow,0,25,OK,11,11,11
+7922,AVwdcAojIN2L1WUfv0hX,"Pizza Place,Restaurant",Accommodation & Food Services,Broken Arrow,RU,"USD,RUB",,Pizza Genco,Andolini's Pizzeria Broken Arrow,0,25,OK,11,11,11
+7923,AVwc9vg1ByjofQCxkGQX,"Pizza Place,Caterers,Restaurants,Pizza Place Deep Deuce",Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,2 Toppings Pizza,The Wedge Pizzeria,25,40,OK,11,11,11
+7924,AVwc9vg1ByjofQCxkGQX,"Pizza Place,Caterers,Restaurants,Pizza Place Deep Deuce",Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,5 Toppings Pizza,The Wedge Pizzeria,25,40,OK,11,11,11
+7925,AVwd8ci6ByjofQCxt40T,Pizza Place,Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Cheese Pizza,Papa Dino's,0,25,OK,11,11,11
+7926,AVwd8ci6ByjofQCxt40T,Pizza Place,Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Pizza Roll Sub,Papa Dino's,0,25,OK,11,11,11
+7927,AVwd8ci6ByjofQCxt40T,Pizza Place,Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Pizza Burger,Papa Dino's,0,25,OK,11,11,11
+7928,AVwd8ci6ByjofQCxt40T,Pizza Place,Accommodation & Food Services,Oklahoma City,RU,"USD,RUB",,Cheese Pizza,Papa Dino's,0,25,OK,11,11,11

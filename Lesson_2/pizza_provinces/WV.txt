@@ -1,0 +1,28 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9946,AVzX9KAK3D1zeR_xBpy9,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Morgantown,RU,"USD,RUB,BTC",,Frozen Pizzas,Colasessanos,0,25,WV,6,6,6
+9947,AVwdAdbt_7pvs4fz1SDz,"Restaurant,Pizza Place Downtown Charleston,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",Mozzarellaampcomma provolone ampamp tomato sauce,Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9948,AVwdAdbt_7pvs4fz1SDz,"Restaurant,Pizza Place Downtown Charleston,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Pizza Skins,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9949,AVwdAdbt_7pvs4fz1SDz,"Restaurant,Pizza Place Downtown Charleston,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9950,AVwdAdbt_7pvs4fz1SDz,"Restaurant,Pizza Place Downtown Charleston,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Classic Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9951,AVwdAdbt_7pvs4fz1SDz,"Restaurant,Pizza Place Downtown Charleston,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",With extra cheese or one topping,Pizza Bread,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9952,AV5XxrFla4HuVbedCvI1,"Pizza,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Morgantown,RU,"USD,RUB,BTC",,16 Medium Pizza,Milanos Pizza,0,25,WV,6,6,6
+9953,AVz7q0ZS-gnIPe8DUpjl,Pizza Place,Accommodation & Food Services,Bridgeport,RU,"USD,RUB,BTC",,Pizza Lunch Combo,Mia Margherita,0,25,WV,6,6,6
+9954,AVwd9sBN_7pvs4fz-0gN,"Brewery,Restaurant,Pizza Place and Brewery,Pizza Place",Accommodation & Food Services,Fayetteville,RU,"USD,RUB,BTC",,Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9955,AVwd9sBN_7pvs4fz-0gN,"Brewery,Restaurant,Pizza Place and Brewery,Pizza Place",Accommodation & Food Services,Fayetteville,RU,"USD,RUB,BTC",Mozzerellaampcomma provolone ampamp tomato sauce,Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9956,AVwd9sBN_7pvs4fz-0gN,"Brewery,Restaurant,Pizza Place and Brewery,Pizza Place",Accommodation & Food Services,Fayetteville,RU,"USD,RUB,BTC",,Classic Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9957,AVwd9sBN_7pvs4fz-0gN,"Brewery,Restaurant,Pizza Place and Brewery,Pizza Place",Accommodation & Food Services,Fayetteville,RU,"USD,RUB,BTC",,Pizza Pie,Pies and Pints Pizzeria,25,40,WV,6,6,6
+9958,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Cheese Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9959,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Cheese Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9960,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Mediterranean Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9961,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Spinach Lover's Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9962,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Cheese Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9963,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Pizza Sub,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9964,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Artichoke Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9965,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Cheese Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9966,AVweLAGjkufWRAb5AnvM,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB,BTC",,Mama's Meatball Pizza,Mama Rosa's Pizzeria,0,25,WV,6,6,6
+9967,AVwcwYohByjofQCxh1l-,Pizza Place,Accommodation & Food Services,Martinsburg,RU,"USD,RUB,BTC",,"Cheese Steak Pizza (16"" Large Only)",Kings New York Pizza - Martinsburg,0,25,WV,6,6,6
+9968,AVwcwYohByjofQCxh1l-,Pizza Place,Accommodation & Food Services,Martinsburg,RU,"USD,RUB,BTC",,Pizza Burger,Kings New York Pizza - Martinsburg,0,25,WV,6,6,6
+9969,AVwcwYohByjofQCxh1l-,Pizza Place,Accommodation & Food Services,Martinsburg,RU,"USD,RUB,BTC",,White Pizza with Garlic,Kings New York Pizza - Martinsburg,0,25,WV,6,6,6
+9970,AVwcwYohByjofQCxh1l-,Pizza Place,Accommodation & Food Services,Martinsburg,RU,"USD,RUB,BTC",,Pizza Steak,Kings New York Pizza - Martinsburg,0,25,WV,6,6,6
+9971,AVwcwYohByjofQCxh1l-,Pizza Place,Accommodation & Food Services,Martinsburg,RU,"USD,RUB,BTC",,Margarita Pizza,Kings New York Pizza - Martinsburg,0,25,WV,6,6,6
+9972,AVwcwYohByjofQCxh1l-,Pizza Place,Accommodation & Food Services,Martinsburg,RU,"USD,RUB,BTC",,Pizza Sub,Kings New York Pizza - Martinsburg,0,25,WV,6,6,6

@@ -1,0 +1,119 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+1018,AVwdaeTtkufWRAb55pSH,"Pizza,American restaurants,Pizza Place,Pizza equipment and supplies,Restaurants",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pizza Sub,Spartan Pizzeria,0,25,MD,32,32,32
+1019,AVwdaeTtkufWRAb55pSH,"Pizza,American restaurants,Pizza Place,Pizza equipment and supplies,Restaurants",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,White Pizza,Spartan Pizzeria,0,25,MD,32,32,32
+1020,AVwctBI5kufWRAb5yHR6,"Rock Club,Pizza Place and Rock Club Charles North,Pizza Place and Rock Club,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Wbs Pizza (Writers in Baltimore Schools),Joe Squared Pizza Bar,25,40,MD,32,32,32
+1021,AVwdXk9AIN2L1WUfvFro,Pizza Place,Accommodation & Food Services,Elkton,RU,"USD,RUB",,Buffalo Chicken Pizza,Pats Pizzeria,0,25,MD,32,32,32
+1022,AVwdXk9AIN2L1WUfvFro,Pizza Place,Accommodation & Food Services,Elkton,RU,"USD,RUB",,Cheese Steak Pizza,Pats Pizzeria,0,25,MD,32,32,32
+1023,AVwdXk9AIN2L1WUfvFro,Pizza Place,Accommodation & Food Services,Elkton,RU,"USD,RUB",,White Pizza With Ricotta,Pats Pizzeria,0,25,MD,32,32,32
+1024,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,Bacon Cheeseburger Pizza,Bello Vitos,0,25,MD,32,32,32
+1025,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,"16"" Cheese Pizza",Bello Vitos,0,25,MD,32,32,32
+1026,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,Pizza Turnover,Bello Vitos,0,25,MD,32,32,32
+1027,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,Pizza By The Slice,Bello Vitos,0,25,MD,32,32,32
+1028,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,Slice of Pizza,Bello Vitos,0,25,MD,32,32,32
+1029,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,White Pizza,Bello Vitos,0,25,MD,32,32,32
+1030,AVwdIj1u_7pvs4fz2mEk,Pizza Place,Accommodation & Food Services,Essex,RU,"USD,RUB",,Pizza By the Slice,Bello Vitos,0,25,MD,32,32,32
+1031,AVwdD5lOByjofQCxlGa0,Pizza Place,Accommodation & Food Services,Riverdale,RU,"USD,RUB","White Pizza with Feta, Olives, Gyros Meat, Onions and Tomato",Greek Pizza,Dumms Pizza,0,25,MD,32,32,32
+1032,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,White Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1033,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB","Ground beef, ham, sausage, pepperoni, extra cheese",Meat Lovers Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1034,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB","Broccoli, onions, green peppers and mushrooms",Veggie Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1035,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Chopped Tomato Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1036,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pizza Fries,Fortunato Brothers,0,25,MD,32,32,32
+1037,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Meat Lovers Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1038,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB","Fresh garlic, fresh basil, olive oil and mozzarella cheese",Chopped Tomato Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1039,AVwcxObL_7pvs4fzyxOh,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Veggie Pizza,Fortunato Brothers,0,25,MD,32,32,32
+1040,AV43nWeNRxPSIh2RfGvq,"Pizza,American Restaurants,Pizza Place,Restaurants","Retail,Accommodation & Food Services",Salisbury,RU,"USD,RUB",,Puled Pork Pizza,Specific Gravity Pizzeria Beer Joint,25,40,MD,32,32,32
+1041,AV43nWeNRxPSIh2RfGvq,"Pizza,American Restaurants,Pizza Place,Restaurants","Retail,Accommodation & Food Services",Salisbury,RU,"USD,RUB",,Brownie Pizza,Specific Gravity Pizzeria Beer Joint,25,40,MD,32,32,32
+1042,AVzA9JgtFcQ3k02bBZYi,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Halethorpe,RU,"USD,RUB",,White Pizza,Sorrentos Of Arbutus,0,25,MD,32,32,32
+1043,AVzA9JgtFcQ3k02bBZYi,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Halethorpe,RU,"USD,RUB",,Slice of Pizza,Sorrentos Of Arbutus,0,25,MD,32,32,32
+1044,AVzA9UgvFcQ3k02bBZjq,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Oxon Hill,RU,"USD,RUB",,Gorgonzola Pizza,Franks Pizza Italia,25,40,MD,32,32,32
+1045,AVzA9UgvFcQ3k02bBZjq,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Oxon Hill,RU,"USD,RUB",,Veggie Pizza,Franks Pizza Italia,25,40,MD,32,32,32
+1046,AVzA9UgvFcQ3k02bBZjq,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Oxon Hill,RU,"USD,RUB",,Pizza Florentine,Franks Pizza Italia,25,40,MD,32,32,32
+1047,AVzA9UgvFcQ3k02bBZjq,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Oxon Hill,RU,"USD,RUB",,Hawaiian Pizza,Franks Pizza Italia,25,40,MD,32,32,32
+1048,AV4u1-Mp3-Khe5l_R777,Pizza Place,Accommodation & Food Services,Ocean City,RU,"USD,RUB",,Taco Pizza,Ponzettis Pizza,0,25,MD,32,32,32
+1049,AV4u1-Mp3-Khe5l_R777,Pizza Place,Accommodation & Food Services,Ocean City,RU,"USD,RUB",,White Pizza,Ponzettis Pizza,0,25,MD,32,32,32
+1050,AV4u1-Mp3-Khe5l_R777,Pizza Place,Accommodation & Food Services,Ocean City,RU,"USD,RUB",,Barbecued Chicken Pizza,Ponzettis Pizza,0,25,MD,32,32,32
+1051,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",Hand grated mozzarella with a Thai chili sauce,8ampquot Piccolo Fra Diavalo Pizza,Matthews Pizza,0,25,MD,32,32,32
+1052,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Frozen Parmesan Pizza,Matthews Pizza,0,25,MD,32,32,32
+1053,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",Tomato pie with out cheese,10ampquot Grande Original Pizza,Matthews Pizza,0,25,MD,32,32,32
+1054,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Baked Pizza Fries,Matthews Pizza,0,25,MD,32,32,32
+1055,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",Tomato pie  homemade sauce with hand grated mozzarella cheese and garlic,8ampquot Piccolo Spinach Pizza,Matthews Pizza,0,25,MD,32,32,32
+1056,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",Tomato pie,8ampquot Piccolo Original Pizza,Matthews Pizza,0,25,MD,32,32,32
+1057,AVwdlzVI_7pvs4fz7Y21,"Restaurant,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Matthews Frozen Pizzas,Matthews Pizza,0,25,MD,32,32,32
+1058,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",,Pizza,Guss Pizza Grill,0,25,MD,32,32,32
+1059,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",,Pizza,Guss Pizza Grill,0,25,MD,32,32,32
+1060,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",,Pizza Sub,Guss Pizza Grill,0,25,MD,32,32,32
+1061,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",,Pizza Sub,Guss Pizza Grill,0,25,MD,32,32,32
+1062,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",With French fries,Pizza Sub,Guss Pizza Grill,0,25,MD,32,32,32
+1063,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",,Pizza,Guss Pizza Grill,0,25,MD,32,32,32
+1064,AVwdlG0DByjofQCxqgZO,Pizza Place,Accommodation & Food Services,Edgewood,RU,"USD,RUB",,Pizza Steak Our Steak Served On a Pizza Sub,Guss Pizza Grill,0,25,MD,32,32,32
+1065,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Dog Pound Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1066,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB","Olive oil, fresh mozzarella, feta, spinach, tomatoes, fresh basil, fresh garlic, mushrooms, and kalmata olives",Mr. Green Jeans Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1067,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Old Yeller Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1068,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB","Fresh mozzarella, fresh sliced tomatoes, garlic and fresh basil",Pizza Margherita,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1069,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Thai Chicken Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1070,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pupperoni Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1071,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Baja Chihuahua Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1072,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB","Mozzarella, spinach, mushrooms, bacon, fresh garlic and topped with shredded parmesan",Spinach Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1073,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB","Buffalo wing sauce, mozzarella, green onion, smoked gouda and spicy, marinated buffalo chicken, with cool ranch dressing",The Original Wing Dog Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1074,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB","Tomato sauce, olive oil, mozzarella, roasted garlic, fresh basil and shredded parmesan",Stinking Rose Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1075,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Veggie Dog Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1076,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB","Dijon mustard, asiago, mozzarella, marinated dijon chicken, roasted garlic, smoked bacon and sliced fresh tomatoes",Froggy Dog Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1077,AVwc8kIhkufWRAb50s2Q,"Bar,Bar and Pizza Place,Pizza Place",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Chicken Pesto Pizza,Pub Dog Pizza Drafthouse,25,40,MD,32,32,32
+1078,AV0JX1Ez-gnIPe8DU1zz,"Pizza,Pizza Place,Restaurants",Accommodation & Food Services,Ocean City,RU,"USD,RUB",,Deli Pizza,Milano Pizzeria,0,25,MD,32,32,32
+1079,AVweEsNJIN2L1WUf1v8p,"Pizza Place,Catering,Restaurants",Accommodation & Food Services,Potomac,RU,"USD,RUB",,Vegetable Pizza,Potomac Pizza,25,40,MD,32,32,32
+1080,AVwc4zjS_7pvs4fz0BeK,"Pizza,Caterers,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Aberdeen,RU,"USD,RUB",,Chicken Pizzaiola,Frank's Pizza,0,25,MD,32,32,32
+1081,AVwcvc2hIN2L1WUfoX4d,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,12ampquot 1Topping Pizza and 6 Buffalo Wings Special,Ultimate Pizza,0,25,MD,32,32,32
+1082,AVwcvc2hIN2L1WUfoX4d,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pizza Fries,Ultimate Pizza,0,25,MD,32,32,32
+1083,AVwcvc2hIN2L1WUfoX4d,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Baltimore,RU,"USD,RUB",Two 14ampquot twotopping pizza 10 buffalo wings and a 2 liter soda,2 14ampquot 2Topping Pizzas Wings and Soda Special,Ultimate Pizza,0,25,MD,32,32,32
+1084,AVwcvc2hIN2L1WUfoX4d,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Baltimore,RU,"USD,RUB",One 18ampquot monster pizza with one topping and a 2 liter of Pepsi,18ampquot Monster 1Topping Pizza and 2Liter Pepsi Special,Ultimate Pizza,0,25,MD,32,32,32
+1085,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB",Covered in 100 whole milk mozzarella Parmesan Gorgonzola and ricotta topped with fresh basil and fresh garlic Hand tossed made to order and covered in 100 whole milk mozzarella,GlutenFree 10ampquot 4Cheese White Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1086,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB","Our Triboro Pizza is topped with Meatball, Mozzarella, Pepperoni, Sausage, Tomato Sauce.",Triboro Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1087,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB",Covered in 100 whole milk mozzarella Parmesan Gorgonzola and ricotta topped with fresh basil and fresh garlic Hand tossed made to order and covered in 100 whole milk mozzarella,18ampquot 4Cheese White Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1088,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB","Our Pepperoni Pizza is topped with Mozzarella, Pepperoni, Tomato Sauce.",Pepperoni Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1089,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB",,Pepperoni Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1090,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB","Our Pesto Pizza is topped with Mozzarella, Pesto, Roasted Red Pepper.",Pesto Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1091,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB","Our Tomato Basil Pizza is topped with Fresh Basil, Garlic, Mozzarella, Parmesan, Tomatoes.",Tomato Basil Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1092,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB",,Triboro Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1093,AVweXaqUIN2L1WUf4SNY,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Frederick,RU,"USD,RUB","Our Brooklyn Pizza is topped with Garlic, Meatball, Mozzarella, Mushroom, Pepperoni, Tomato Sauce.",Brooklyn Pizza,Flippin Pizza Frederick,0,25,MD,32,32,32
+1094,AVzA-Mn0-gnIPe8DSfju,Pizza Place,Accommodation & Food Services,Ellicott City,RU,"USD,RUB",,Tomato Sauce & Cheese Pizza,Bella Mia,0,25,MD,32,32,32
+1095,AVwdCqo7_7pvs4fz1pMS,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pizza Subserved On Fresh Rolls and Prepared On Grill.,Oriole Pizza Subs,0,25,MD,32,32,32
+1096,AVwdCqo7_7pvs4fz1pMS,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Medium Cheese Pizza,Oriole Pizza Subs,0,25,MD,32,32,32
+1097,AVwdCqo7_7pvs4fz1pMS,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pepperoni Pizza Sub,Oriole Pizza Subs,0,25,MD,32,32,32
+1098,AVwdCqo7_7pvs4fz1pMS,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,The Oriole Veggie Pizza,Oriole Pizza Subs,0,25,MD,32,32,32
+1099,AVwdCqo7_7pvs4fz1pMS,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,The Oriole Treasure Pizza,Oriole Pizza Subs,0,25,MD,32,32,32
+1100,AVwdCqo7_7pvs4fz1pMS,Pizza Place,Accommodation & Food Services,Baltimore,RU,"USD,RUB",,The Oriole Meat Buster Pizza,Oriole Pizza Subs,0,25,MD,32,32,32
+1101,AVwdWS6UkufWRAb5494O,"Pizza,Caterers,Pizza Place,Restaurants",Accommodation & Food Services,Point of Rocks,RU,"USD,RUB",,Pizza Burger,Aroma House,0,25,MD,32,32,32
+1102,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Grandma Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1103,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Lasagne Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1104,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Cheese Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1105,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Lasagne Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1106,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Cheese Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1107,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Lasagne Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1108,AVwd0tcCkufWRAb59kja,"Pizza,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Annapolis,RU,"USD,RUB",,Cheese Pizza,Dimeo's Pizzeria,0,25,MD,32,32,32
+1109,AVwcyo43kufWRAb5zD6f,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Sykesville,RU,"USD,RUB",,Cheese Pizza,Amantes,25,40,MD,32,32,32
+1110,AVwcyo43kufWRAb5zD6f,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Sykesville,RU,"USD,RUB",,Salmon Pizza,Amantes,25,40,MD,32,32,32
+1111,AVwcwVnE_7pvs4fzynYp,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Laurel,RU,"USD,RUB",,Neapolitan Special Pizza,Three Brothers Italian Restaurant,0,25,MD,32,32,32
+1112,AVwclh7bByjofQCxf7tY,"Italian Restaurant,Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Potomac,RU,"USD,RUB",,Breakfast Pizza,Sugo Osteria,25,40,MD,32,32,32
+1113,AVwdOjDAkufWRAb53p88,"Pizza Place,Restaurants",Accommodation & Food Services,Owings Mills,RU,"USD,RUB",,Spaghetti Pizza,Vito's Express,0,25,MD,32,32,32
+1114,AVwdOjDAkufWRAb53p88,"Pizza Place,Restaurants",Accommodation & Food Services,Owings Mills,RU,"USD,RUB",,Pita Pizza,Vito's Express,0,25,MD,32,32,32
+1115,AVwdOjDAkufWRAb53p88,"Pizza Place,Restaurants",Accommodation & Food Services,Owings Mills,RU,"USD,RUB",,"Hawaiian Pizza (Pineapple, Ham)",Vito's Express,0,25,MD,32,32,32
+1116,AVweCN_r_7pvs4fz_dWt,Pizza Place,Accommodation & Food Services,Windsor Mill,RU,"USD,RUB",,Hawaiian Pizza,Buon Giorno,0,25,MD,32,32,32
+1117,AVweCN_r_7pvs4fz_dWt,Pizza Place,Accommodation & Food Services,Windsor Mill,RU,"USD,RUB",,Steak Pizza,Buon Giorno,0,25,MD,32,32,32
+1118,AVweCN_r_7pvs4fz_dWt,Pizza Place,Accommodation & Food Services,Windsor Mill,RU,"USD,RUB",,White Pizza,Buon Giorno,0,25,MD,32,32,32
+1119,AVweCN_r_7pvs4fz_dWt,Pizza Place,Accommodation & Food Services,Windsor Mill,RU,"USD,RUB",,Caprese Pizza,Buon Giorno,0,25,MD,32,32,32
+1120,AVwdfqeKkufWRAb56czv,Pizza Place,Accommodation & Food Services,Germantown,RU,"USD,RUB",,Mangizza Pizza,Mangino's Pizza & Subs,0,25,MD,32,32,32
+1121,AVwdfqeKkufWRAb56czv,Pizza Place,Accommodation & Food Services,Germantown,RU,"USD,RUB",,Five Cheese Pizza,Mangino's Pizza & Subs,0,25,MD,32,32,32
+1122,AVwdqNK5IN2L1WUfyAlH,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Aberdeen,RU,"USD,RUB",,Birthday Pizza,Pats Pizza,25,40,MD,32,32,32
+1123,AVwei1U2ByjofQCxzOHf,"Pizza Place,Pizza Place Mid-Town Belvedere",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,14 Inch Nino's Special Delight Pizza Pie,Nino Pizza,0,25,MD,32,32,32
+1124,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Chicken Tikki Pizza,Pizza Boli's,0,25,MD,32,32,32
+1125,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pepperoni Pizza Sub,Pizza Boli's,0,25,MD,32,32,32
+1126,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Crab Pizza,Pizza Boli's,0,25,MD,32,32,32
+1127,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pizza Sub,Pizza Boli's,0,25,MD,32,32,32
+1128,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",Large square one topping pizza for,Sicilian Pan Crust Pizza,Pizza Boli's,0,25,MD,32,32,32
+1129,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Greek Pizza,Pizza Boli's,0,25,MD,32,32,32
+1130,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Large Cheese Pizza,Pizza Boli's,0,25,MD,32,32,32
+1131,AVwcxKYTIN2L1WUforqV,"Pizza Place,Catering,Restaurants,Sandwich Shops,Pizza",Accommodation & Food Services,Baltimore,RU,"USD,RUB",,Pizza Deal,Pizza Boli's,0,25,MD,32,32,32
+1132,AVwcrw9nIN2L1WUfnvge,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Taneytown,RU,"USD,RUB",,Hawaiian Pizza,Tony's Cafe,25,40,MD,32,32,32
+1133,AVwcrw9nIN2L1WUfnvge,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Taneytown,RU,"USD,RUB",,Pizza Steak,Tony's Cafe,25,40,MD,32,32,32
+1134,AVwcrw9nIN2L1WUfnvge,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Taneytown,RU,"USD,RUB",,Pizza Burger,Tony's Cafe,25,40,MD,32,32,32
+1135,AVwcrw9nIN2L1WUfnvge,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Taneytown,RU,"USD,RUB",,4 White Pizza,Tony's Cafe,25,40,MD,32,32,32

@@ -1,0 +1,78 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9841,AV5U-NN4a4HuVbedCjTZ,Pizza Place,Accommodation & Food Services,Florence,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosas Pizzeria Mt Zion,0,25,KY,21,21,21
+9842,AWHjWZpAa4HuVbedOuGF,Pizza Place,Accommodation & Food Services,Latonia,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and Small Garden Salad,LaRosas Pizzeria Latonia,0,25,KY,21,21,21
+9843,AWHjWZpAa4HuVbedOuGF,Pizza Place,Accommodation & Food Services,Latonia,RU,"USD,RUB",,Kids Size Pizza,LaRosas Pizzeria Latonia,0,25,KY,21,21,21
+9844,AVwcntBwkufWRAb5xNsG,Pizza Place,Accommodation & Food Services,Lexington,RU,"USD,RUB",,Pizza Sub,La Gourmet Pizza,0,25,KY,21,21,21
+9845,AVwcntBwkufWRAb5xNsG,Pizza Place,Accommodation & Food Services,Lexington,RU,"USD,RUB","Gyro, olive oil, tomato, basil, cucumber, black olives and feta.",Greek Pizza,La Gourmet Pizza,0,25,KY,21,21,21
+9846,AVwcntBwkufWRAb5xNsG,Pizza Place,Accommodation & Food Services,Lexington,RU,"USD,RUB","Chicken or steak, salsa, red onions, black olives, jalapenos, tomato, lettuce and cheddar.",Mexican Pizza,La Gourmet Pizza,0,25,KY,21,21,21
+9847,AVwc6T02IN2L1WUfqPQl,"Restaurant,Bar,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",bearnoampaposs homemade italian sausage link,6 Inches Baby Bearnoampaposs Pizzaampcomma,Bearnos,0,25,KY,21,21,21
+9848,AVwc6T02IN2L1WUfqPQl,"Restaurant,Bar,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",an openfaced loaf of italian bread topped with bearnoampaposs own tomato sauceampcomma pepperoniampcomma green peppersampcomma onionsampcomma green olives and mozzarella cheese mama bearno believes this sandwich is one of her ampaposbest kept secretsampapos,Pizza Hoagy,Bearnos,0,25,KY,21,21,21
+9849,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,Buffalo Chicken Pizza,Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9850,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,Buffalo Chicken Pizza,Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9851,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,Buffalo Chicken Pizza,Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9852,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,Cheese Pizza,Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9853,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,"""Aloha"" Pizza (14"" Large)",Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9854,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,"Bbq Chicken Pizza (10"" Small)",Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9855,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,"""Aloha"" Pizza (12"" Medium)",Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9856,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,Cheese Pizza,Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9857,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,Buffalo Chicken Pizza,Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9858,AVwclJZEkufWRAb5wwA_,"Pizza Place,Pizza Place East Louisville","Accommodation & Food Services,Management of Companies & Enterprises",Louisville,RU,"USD,RUB",,"""Morning"" Pizza (12"" Medium)",Chubby Rays Original Louisville Pizza Company,25,40,KY,21,21,21
+9859,AVzBGGiw3D1zeR_xBG8D,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Pizza Steak,Spinellis Pizzeria,0,25,KY,21,21,21
+9860,AVzBGGiw3D1zeR_xBG8D,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Louisville,RU,"USD,RUB",Pepperoni sausage ham and bacon,Meat Lovers39 Pizza,Spinellis Pizzeria,0,25,KY,21,21,21
+9861,AVzBGGiw3D1zeR_xBG8D,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Louisville,RU,"USD,RUB",Our housemade ranch grilled chicken and bacon,Chicken Bacon Ranch Pizza,Spinellis Pizzeria,0,25,KY,21,21,21
+9862,AVzBGGiw3D1zeR_xBG8D,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Louisville,RU,"USD,RUB",Our housemade ranch breaded chicken hot sauce Fritos and mozzarella,Buffalo Chicken Pizza,Spinellis Pizzeria,0,25,KY,21,21,21
+9863,AVzBGGiw3D1zeR_xBG8D,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Sicilian Pizza,Spinellis Pizzeria,0,25,KY,21,21,21
+9864,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Impellizzeri's Super Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9865,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",Grilled chickenampcomma bacon and ranch dressing,Chicken Bacon Ranch Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9866,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Meats Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9867,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Pizza Sauce,Impellizzeris Pizza,0,25,KY,21,21,21
+9868,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Chicken Bacon Ranch Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9869,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Margherita Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9870,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Four Cheese Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9871,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Sampler Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9872,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",Mushroomsampcomma onionampcomma green peppersampcomma black and green olives and banana peppers,Veggie Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9873,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Deluxe Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9874,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Veggie Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9875,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Blt Flatbread Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9876,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Hawaiian Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9877,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",Mozzarellaampcomma provoloneampcomma cheddar and romano,Four Cheese Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9878,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Meats Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9879,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Sampler Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9880,AVzA_hUsLD2H7whiWI6N,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",Pepperoniampcomma homemade italian sausageampcomma hamampcomma baconampcomma canadian bacon and homemade meatballs,Meats Pizza,Impellizzeris Pizza,0,25,KY,21,21,21
+9881,AVzBGGr6-gnIPe8DSjqN,"Bar,Pizza Place,Pub",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Chicken Ranch Pizza,Saints Bar,25,40,KY,21,21,21
+9882,AVzBGGr6-gnIPe8DSjqN,"Bar,Pizza Place,Pub",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Bbq Chicken Pizza,Saints Bar,25,40,KY,21,21,21
+9883,AVzBGGr6-gnIPe8DSjqN,"Bar,Pizza Place,Pub",Accommodation & Food Services,Louisville,RU,"USD,RUB",,Buffalo Chicken Pizza,Saints Bar,25,40,KY,21,21,21
+9884,AVweljVJByjofQCxznpM,Pizza Place,Accommodation & Food Services,Newport,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosas Pizzeria Alexandria,0,25,KY,21,21,21
+9885,AVzBESDa-gnIPe8DSjAF,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,Create Your Own Pizza Cheese16'',Rockys Pizza Panini,0,25,KY,21,21,21
+9886,AVwdlYNFkufWRAb57UZm,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Louisville,RU,"USD,RUB",with one item and a drink,6inches Individual Pizza,Bearno's By The Bridge,0,25,KY,21,21,21
+9887,AVziRXNN3D1zeR_xCIWl,Pizza Place,Accommodation & Food Services,Florence,RU,"USD,RUB",,Ranch Or Bbq Pizza Add,Grammas Pizza,0,25,KY,21,21,21
+9888,AVziRXNN3D1zeR_xCIWl,Pizza Place,Accommodation & Food Services,Florence,RU,"USD,RUB",,Greek Pizza,Grammas Pizza,0,25,KY,21,21,21
+9889,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,"14"" Large Cheese Pizza",Mad Mushroom Pizza,0,25,KY,21,21,21
+9890,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Pizza Sauce,Mad Mushroom Pizza,0,25,KY,21,21,21
+9891,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Philly Cheesesteak Pizza,Mad Mushroom Pizza,0,25,KY,21,21,21
+9892,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Double Time 1 Topping Pizza,Mad Mushroom Pizza,0,25,KY,21,21,21
+9893,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,White Sauce Pizza,Mad Mushroom Pizza,0,25,KY,21,21,21
+9894,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Large Pizza Up to 5 Toppings,Mad Mushroom Pizza,0,25,KY,21,21,21
+9895,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB","A creamy white sauce topped with Chicken, Green Pepper, Onion, Mushroom and Mozzarella.",Chicken Philly Pizza,Mad Mushroom Pizza,0,25,KY,21,21,21
+9896,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Chicken Philly Pizza,Mad Mushroom Pizza,0,25,KY,21,21,21
+9897,AVwdggM0kufWRAb56lMJ,"Pizza,Pizza Place Historic South Hill,Pizza Place,Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Large Pizza Up To 5 Toppings,Mad Mushroom Pizza,0,25,KY,21,21,21
+9898,AVweZG3NkufWRAb5Cgot,"Restaurant,Pizza Place",Accommodation & Food Services,Louisville,RU,"USD,RUB",pepperoni or cheese original round no limit carry out plus tax,HotNReady Large Pizza,Little Caesar's Pizza,0,25,KY,21,21,21
+9899,AVzA_iDvFcQ3k02bBa-m,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,Sicilian Pizza,Spinelli's Pizza,0,25,KY,21,21,21
+9900,AVzA_iDvFcQ3k02bBa-m,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,"18"" Cheese Pizza",Spinelli's Pizza,0,25,KY,21,21,21
+9901,AVzA_iDvFcQ3k02bBa-m,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,White Pizza,Spinelli's Pizza,0,25,KY,21,21,21
+9902,AVzA_iDvFcQ3k02bBa-m,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,Bbq Chicken Pizza,Spinelli's Pizza,0,25,KY,21,21,21
+9903,AVzA_iDvFcQ3k02bBa-m,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,Taco Pizza,Spinelli's Pizza,0,25,KY,21,21,21
+9904,AV0Y4BC53D1zeR_xD0SU,"Restaurant,Pizza Place",Accommodation & Food Services,Florence,RU,"USD,RUB",,Stuff Your Own Pizza,Mio's Pizzeria,0,25,KY,21,21,21
+9905,AV0Y4BC53D1zeR_xD0SU,"Restaurant,Pizza Place",Accommodation & Food Services,Florence,RU,"USD,RUB",a saucelessampcomma double cheese pizza with a garlic accentampcomma served with tomatoes on a sesame seed crust,Pizza Blanca,Mio's Pizzeria,0,25,KY,21,21,21
+9906,AV0Y4BC53D1zeR_xD0SU,"Restaurant,Pizza Place",Accommodation & Food Services,Florence,RU,"USD,RUB",,Pizza Blanca,Mio's Pizzeria,0,25,KY,21,21,21
+9907,AVwdIqrLkufWRAb52pm-,Pizza Place,Accommodation & Food Services,Georgetown,RU,"USD,RUB",,Pepperoni Pizza Rolls,Fat Kats Pizzeria,0,25,KY,21,21,21
+9908,AVwdIqrLkufWRAb52pm-,Pizza Place,Accommodation & Food Services,Georgetown,RU,"USD,RUB",,Luau Pizza,Fat Kats Pizzeria,0,25,KY,21,21,21
+9909,AVwdIqrLkufWRAb52pm-,Pizza Place,Accommodation & Food Services,Georgetown,RU,"USD,RUB",,Greek Pizza,Fat Kats Pizzeria,0,25,KY,21,21,21
+9910,AVwdIqrLkufWRAb52pm-,Pizza Place,Accommodation & Food Services,Georgetown,RU,"USD,RUB",,Create Your Own Masterpiece Pizza,Fat Kats Pizzeria,0,25,KY,21,21,21
+9911,AVwdIqrLkufWRAb52pm-,Pizza Place,Accommodation & Food Services,Georgetown,RU,"USD,RUB",,Pepperoni Pizza Rolls,Fat Kats Pizzeria,0,25,KY,21,21,21
+9912,AVwc1Hcv_7pvs4fzzaqH,Pizza Place,Accommodation & Food Services,Louisville,RU,"USD,RUB",,Italian Style Pizza,Sicilian Pizza & Pasta,0,25,KY,21,21,21
+9913,AVwchl7dkufWRAb5wHMf,Pizza Place,Accommodation & Food Services,Prospect,RU,"USD,RUB",,Steak & Cheese Pizza,Johnny Brusco's New York Style Neighborhood Pizzeria,25,40,KY,21,21,21
+9914,AVwchl7dkufWRAb5wHMf,Pizza Place,Accommodation & Food Services,Prospect,RU,"USD,RUB",,Cheese Pizza,Johnny Brusco's New York Style Neighborhood Pizzeria,25,40,KY,21,21,21
+9915,AVwduU9PIN2L1WUfynRs,Pizza Place,Accommodation & Food Services,Paducah,RU,"USD,RUB",,New York Style Pizza,Michael's Pizzeria,0,25,KY,21,21,21
+9916,AVwduU9PIN2L1WUfynRs,Pizza Place,Accommodation & Food Services,Paducah,RU,"USD,RUB",,New York Style Pizza,Michael's Pizzeria,0,25,KY,21,21,21
+9917,AVwdE5soIN2L1WUfr-c4,"Pizza Place,American Restaurants,Restaurants,Pizza",Accommodation & Food Services,Florence,RU,"USD,RUB",,Papa's Cheeseburger Pizza,Papa Dino's Pizza,0,25,KY,21,21,21

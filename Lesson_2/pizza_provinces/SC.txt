@@ -1,0 +1,82 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+8898,AVwegda_IN2L1WUf5lPY,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Clemson,RU,"USD,RUB",,1 Pizza Sliceampcomma Salad ampamp Drink,Peppinos Pizzeria,0,25,SC,26,26,26
+8899,AVwdpjMOByjofQCxrMvq,"Pizza,Pizza Place Cannonborough - Elliottborough,Pizza Place,Restaurants",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Supreme Pizza,Mia Pomodori,0,25,SC,26,26,26
+8900,AVwdpjMOByjofQCxrMvq,"Pizza,Pizza Place Cannonborough - Elliottborough,Pizza Place,Restaurants",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Round Cheese Pizza,Mia Pomodori,0,25,SC,26,26,26
+8901,AVwdpjMOByjofQCxrMvq,"Pizza,Pizza Place Cannonborough - Elliottborough,Pizza Place,Restaurants",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Veggie Delight Pizza,Mia Pomodori,0,25,SC,26,26,26
+8902,AVwdpjMOByjofQCxrMvq,"Pizza,Pizza Place Cannonborough - Elliottborough,Pizza Place,Restaurants",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Fresh Salad Pizza,Mia Pomodori,0,25,SC,26,26,26
+8903,AVz_Zi04FcQ3k02bDl-l,"Pizza,American Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",,Pizzano Pizza,Ultimate California Pizza,0,25,SC,26,26,26
+8904,AVwdQOBNIN2L1WUft23V,"Pizza Place Radcliffeborough,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Cheese Pizza,Sabatinos NYC Pizza,0,25,SC,26,26,26
+8905,AVwdQOBNIN2L1WUft23V,"Pizza Place Radcliffeborough,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB","Pepperoni, ham, butcher bought sausage and bacon.",All Meat Pizza,Sabatinos NYC Pizza,0,25,SC,26,26,26
+8906,AVwdQOBNIN2L1WUft23V,"Pizza Place Radcliffeborough,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB","Green peppers, black olives, onions and mushrooms.",All Veggie Pizza,Sabatinos NYC Pizza,0,25,SC,26,26,26
+8907,AVwdQOBNIN2L1WUft23V,"Pizza Place Radcliffeborough,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB",,All Meat Pizza,Sabatinos NYC Pizza,0,25,SC,26,26,26
+8908,AVwdQOBNIN2L1WUft23V,"Pizza Place Radcliffeborough,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB",,All Veggie Pizza,Sabatinos NYC Pizza,0,25,SC,26,26,26
+8909,AVwdQOBNIN2L1WUft23V,"Pizza Place Radcliffeborough,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Any 2 18in Pizzas,Sabatinos NYC Pizza,0,25,SC,26,26,26
+8910,AVwd6VHhIN2L1WUf0TWS,"Restaurant,Pizza Place",Accommodation & Food Services,Swansea,RU,"USD,RUB",Mayoampcomma baconampcomma lettuce and tomato,BLT Pizza,Paparonis Pizza,0,25,SC,26,26,26
+8911,AVwd6VHhIN2L1WUf0TWS,"Restaurant,Pizza Place",Accommodation & Food Services,Swansea,RU,"USD,RUB",Covered with our garlic alfredo sauce and chunks of grilled chicken Add broccoli  179,Chicken Alfredo Pizza,Paparonis Pizza,0,25,SC,26,26,26
+8912,AVwc05iMkufWRAb5zcF-,"Pizza Place Downtown Greenville,Pizza Place",Accommodation & Food Services,Greenville,RU,"USD,RUB",,White Pie Pizza,Antonino Bertolos Pizza,0,25,SC,26,26,26
+8913,AVwc05iMkufWRAb5zcF-,"Pizza Place Downtown Greenville,Pizza Place",Accommodation & Food Services,Greenville,RU,"USD,RUB",,Chocolate Chip Or Cinnamon Pizza,Antonino Bertolos Pizza,0,25,SC,26,26,26
+8914,AVwc05iMkufWRAb5zcF-,"Pizza Place Downtown Greenville,Pizza Place",Accommodation & Food Services,Greenville,RU,"USD,RUB",,Hawaiian Supreme Pizza,Antonino Bertolos Pizza,0,25,SC,26,26,26
+8915,AVwc05iMkufWRAb5zcF-,"Pizza Place Downtown Greenville,Pizza Place",Accommodation & Food Services,Greenville,RU,"USD,RUB",,"12"" Cheese Pizza (6 Slices)",Antonino Bertolos Pizza,0,25,SC,26,26,26
+8916,AVwc05iMkufWRAb5zcF-,"Pizza Place Downtown Greenville,Pizza Place",Accommodation & Food Services,Greenville,RU,"USD,RUB",,"16"" Cheese Pizza (8 Slices)",Antonino Bertolos Pizza,0,25,SC,26,26,26
+8917,AVwc05iMkufWRAb5zcF-,"Pizza Place Downtown Greenville,Pizza Place",Accommodation & Food Services,Greenville,RU,"USD,RUB",,Bacon Double Cheeseburger Pizza,Antonino Bertolos Pizza,0,25,SC,26,26,26
+8918,AVwcvN-z_7pvs4fzya-k,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB",,Ny Cheese Pizza,Baronis New York Pizza,0,25,SC,26,26,26
+8919,AVwcvN-z_7pvs4fzya-k,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB","Dine in, take out, delivery",2 Medium Pizzas With 1 Topping Each,Baronis New York Pizza,0,25,SC,26,26,26
+8920,AVwcvN-z_7pvs4fzya-k,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB",,Ny Cheese Pizza,Baronis New York Pizza,0,25,SC,26,26,26
+8921,AVwcvN-z_7pvs4fzya-k,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB",Take out,Extra Large Cheese Pizza,Baronis New York Pizza,0,25,SC,26,26,26
+8922,AVwcvN-z_7pvs4fzya-k,Pizza Place,Accommodation & Food Services,Charleston,RU,"USD,RUB",,2 Large Pizzas With 1 Topping Each,Baronis New York Pizza,0,25,SC,26,26,26
+8923,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",BBQ sauceampcomma hamburgerampcomma mozzarellaampcomma bacon and cheddar cheese,BBQ Cheeseburger Pizza,Chicago Pizza,0,25,SC,26,26,26
+8924,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",,Pizza Sub,Chicago Pizza,0,25,SC,26,26,26
+8925,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Pepperoniampcomma sausageampcomma baconampcomma hamburgerampcomma Canadian baconampcomma onionampcomma mushroomsampcomma black oliveampcomma green pepper and fresh tomato,The Refrigerator Special Pizza,Chicago Pizza,0,25,SC,26,26,26
+8926,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Chickenampcomma baconampcomma tomatoampcomma red onionampcomma mozzarella on a ranch sauce,Chicken Club with Ranch Pizza,Chicago Pizza,0,25,SC,26,26,26
+8927,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",White pizza Mozzarellaampcomma mushroomsampcomma broccoli and sliced tomatoampcomma sprinkled with feta cheese,Greek Pizza,Chicago Pizza,0,25,SC,26,26,26
+8928,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Pepperoniampcomma sausageampcomma green pepperampcomma onion and mushroom,The Deluxe Pizza,Chicago Pizza,0,25,SC,26,26,26
+8929,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Thick crustampcomma more than twice as thick as the thin crust with heavy sauce and mozzarella cheese,Cheese Hand Tossed Pizza,Chicago Pizza,0,25,SC,26,26,26
+8930,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",,Pizza Bread (Cheese),Chicago Pizza,0,25,SC,26,26,26
+8931,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Garlic sauceampcomma spinachampcomma artichoke heartsampcomma mushroomampcomma mozzarella topped with pignolias and a touch of smoked Gouda,Thatampaposs Italian Pizza,Chicago Pizza,0,25,SC,26,26,26
+8932,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Pepperoniampcomma capicollaampcomma Italian sausageampcomma onion and pepperoncini,Jeanetteampaposs Spicy Italian Pizza,Chicago Pizza,0,25,SC,26,26,26
+8933,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Pepperoniampcomma sausageampcomma hamburgerampcomma bacon and Canadian bacon,Da Bear All Meat Special Pizza,Chicago Pizza,0,25,SC,26,26,26
+8934,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",,Combo White Pizza,Chicago Pizza,0,25,SC,26,26,26
+8935,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Pepperoniampcomma hamampcomma salamiampcomma meatball and sausage,The Al Capone Pizza,Chicago Pizza,0,25,SC,26,26,26
+8936,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",Italian sausageampcomma Italian beefampcomma onionampcomma sweet peppers on a white garlic bread,Combo White Pizza,Chicago Pizza,0,25,SC,26,26,26
+8937,AVz5v4qj3D1zeR_xDF23,"Restaurant,Pizza Place",Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",BBQ sauceampcomma Canadian bacon and pineapple,Papa Jakeampaposs Hawaiian Pizza,Chicago Pizza,0,25,SC,26,26,26
+8938,AVwcmiee_7pvs4fzw7ig,Pizza Place,Accommodation & Food Services,Hilton Head Island,RU,"USD,RUB",,Big Fat Greek Pizza,Giuseppis Pizza,0,25,SC,26,26,26
+8939,AWESKqwzRxPSIh2Rr8mw,Pizza Place,Accommodation & Food Services,Isle of Palms,RU,"USD,RUB",,Bbq Chicken Pizza,Luke n Ollies Pizzeria,0,25,SC,26,26,26
+8940,AV0aPwbL3D1zeR_xETcQ,"Pizza Place,Restaurants",Accommodation & Food Services,York,RU,"USD,RUB",,Medium Pizza Offers,Papa Johns Pizza,0,25,SC,26,26,26
+8941,AV0aPwbL3D1zeR_xETcQ,"Pizza Place,Restaurants",Accommodation & Food Services,York,RU,"USD,RUB",,Add to Large Pizzas,Papa Johns Pizza,0,25,SC,26,26,26
+8942,AVzA_BG6-gnIPe8DSgEq,"Restaurant,Pizza Place",Accommodation & Food Services,Charleston,RU,"USD,RUB",Pepperoniampcomma sausageampcomma green peppersampcomma onionsampcomma basilampcomma melted mozzarella ampamp marinara,Pizza Sub,Paisano's Pizza Grill,0,25,SC,26,26,26
+8943,AVwdOfne_7pvs4fz3nRx,"Restaurant,Pizza Place",Accommodation & Food Services,Lancaster,RU,"USD,RUB",pepperoni or cheese original round no limit carry out plus tax,HotNReady Large Pizza,Little Caesar's Pizza,0,25,SC,26,26,26
+8944,AVwdOfne_7pvs4fz3nRx,"Restaurant,Pizza Place",Accommodation & Food Services,Lancaster,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesar's Pizza,0,25,SC,26,26,26
+8945,AVzBGeSG-gnIPe8DSjyJ,"Restaurant,wich Place,Pizza Place",Accommodation & Food Services,Hilton Head Island,RU,"USD,RUB",,Cheese Pizza,Fat Baby's Pizza and Subs,0,25,SC,26,26,26
+8946,AVzBGeSG-gnIPe8DSjyJ,"Restaurant,wich Place,Pizza Place",Accommodation & Food Services,Hilton Head Island,RU,"USD,RUB",,Cheese Pizza,Fat Baby's Pizza and Subs,0,25,SC,26,26,26
+8947,AVwcin0J_7pvs4fzwO1i,"Restaurant,Pizza Place",Accommodation & Food Services,Hilton Head Island,RU,"USD,RUB",Shaved ribeyeampcomma house blend cheeseampcomma topped with shredded lettuceampcomma sliced tomatoesampcomma sweet onionampcomma finished with sams blue cheese dressing on a hand tossed crust,Doughboys Steak Pizza,Dough Boys,0,25,SC,26,26,26
+8948,AVwcin0J_7pvs4fzwO1i,"Restaurant,Pizza Place",Accommodation & Food Services,Hilton Head Island,RU,"USD,RUB",Ricotta and house blend cheeseampcomma broccoliampcomma garlicampcomma olive oil on thin crust,Sissys White Pizza,Dough Boys,0,25,SC,26,26,26
+8949,AVwdoy1G_7pvs4fz72Yi,"Restaurant,Pizza Place",Accommodation & Food Services,Anderson,RU,"USD,RUB",all varieties,Authentic Pan Pizza,Sbarro,0,25,SC,26,26,26
+8950,AVz5v4xm3D1zeR_xDF3C,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,North Myrtle Beach,RU,"USD,RUB",,Double Cheeseburger Pizza,Lucky's Pizza,0,25,SC,26,26,26
+8951,AVz5v4xm3D1zeR_xDF3C,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,North Myrtle Beach,RU,"USD,RUB",,Hawaiian Pizza,Lucky's Pizza,0,25,SC,26,26,26
+8952,AVz5v4xm3D1zeR_xDF3C,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,North Myrtle Beach,RU,"USD,RUB",,Deluxe Pizza,Lucky's Pizza,0,25,SC,26,26,26
+8953,AVz5v4xm3D1zeR_xDF3C,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,North Myrtle Beach,RU,"USD,RUB",,Bbq Chicken Pizza,Lucky's Pizza,0,25,SC,26,26,26
+8954,AVz5v4xm3D1zeR_xDF3C,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,North Myrtle Beach,RU,"USD,RUB",,Carnivore Pizza,Lucky's Pizza,0,25,SC,26,26,26
+8955,AVwch0mqIN2L1WUfl79O,Pizza Place,Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",,Cheese Pizza,New York Pizza And Deli,0,25,SC,26,26,26
+8956,AVwch0mqIN2L1WUfl79O,Pizza Place,Accommodation & Food Services,Myrtle Beach,RU,"USD,RUB",,Pizza,New York Pizza And Deli,0,25,SC,26,26,26
+8957,AVwc34kZByjofQCxjHtt,"Pizza,Restaurant,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Charleston,RU,"USD,RUB",,Cheese Pizza,Pizzeria Di Giovanni,0,25,SC,26,26,26
+8958,AVweAM02IN2L1WUf1H4U,Pizza Place,Accommodation & Food Services,Inman,RU,"USD,RUB",,Chocolate Chip Pizza,Pepperoni Express Pizza Co.,0,25,SC,26,26,26
+8959,AVweAM02IN2L1WUf1H4U,Pizza Place,Accommodation & Food Services,Inman,RU,"USD,RUB",,Cherry or Pineapple Cream Pizza,Pepperoni Express Pizza Co.,0,25,SC,26,26,26
+8960,AVwcrzFVIN2L1WUfnv6O,Pizza Place,Accommodation & Food Services,Mount Pleasant,RU,"USD,RUB",,"14"" Medium Cheese Pizza",A Dough Re Mi,0,25,SC,26,26,26
+8961,AV5ZUe6lRxPSIh2RjIBk,"Restaurant,Pizza Place",Accommodation & Food Services,Spartanburg,RU,"USD,RUB",all varieties,Authentic Pan Pizza,Sbarro,0,25,SC,26,26,26
+8962,AVwdldvzIN2L1WUfxQ_q,"Pizza Place,Bar,Pizza Place and Bar",Accommodation & Food Services,Columbia,RU,"USD,RUB",,Cheese Pizza With Red Sauce,Village Idiot,25,40,SC,26,26,26
+8963,AVwdldvzIN2L1WUfxQ_q,"Pizza Place,Bar,Pizza Place and Bar",Accommodation & Food Services,Columbia,RU,"USD,RUB",,Cheese Pizza With White Sauce,Village Idiot,25,40,SC,26,26,26
+8964,AV0VdrS7-gnIPe8DVCop,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Simpsonville,RU,"USD,RUB",,1 Topping Pizza,Bertolo's Pizza,0,25,SC,26,26,26
+8965,AVwdEgGYIN2L1WUfr6G4,"Pizza Place,Lexington Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Pizza Bianco,Ray's Pizzeria and Ice Cream Shoppe,0,25,SC,26,26,26
+8966,AVwdEgGYIN2L1WUfr6G4,"Pizza Place,Lexington Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Cheese Or Pepperoni Pizza,Ray's Pizzeria and Ice Cream Shoppe,0,25,SC,26,26,26
+8967,AVwdEgGYIN2L1WUfr6G4,"Pizza Place,Lexington Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Melanzana Pizza,Ray's Pizzeria and Ice Cream Shoppe,0,25,SC,26,26,26
+8968,AVwdEgGYIN2L1WUfr6G4,"Pizza Place,Lexington Restaurants",Accommodation & Food Services,Lexington,RU,"USD,RUB",,Pizza Grande,Ray's Pizzeria and Ice Cream Shoppe,0,25,SC,26,26,26
+8969,AVwc-tpQIN2L1WUfq9Pl,"Pizza Place,Italian Restaurants,Pizza,Restaurants",Accommodation & Food Services,Beaufort,RU,"USD,RUB",,Large Plain Cheese Pizza,The Upper Crust,0,25,SC,26,26,26
+8970,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Shrimp and Garlic Pizza,Tony's Pizzeria,25,40,SC,26,26,26
+8971,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Chocolate Chip Pizza (Small),Tony's Pizzeria,25,40,SC,26,26,26
+8972,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Chocolate Chip Pizza (Large),Tony's Pizzeria,25,40,SC,26,26,26
+8973,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Cheese Pizza,Tony's Pizzeria,25,40,SC,26,26,26
+8974,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Shrimp and Garlic Pizza,Tony's Pizzeria,25,40,SC,26,26,26
+8975,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Cheese Pizza,Tony's Pizzeria,25,40,SC,26,26,26
+8976,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,White Pizza,Tony's Pizzeria,25,40,SC,26,26,26
+8977,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Shrimp and Garlic Pizza,Tony's Pizzeria,25,40,SC,26,26,26
+8978,AVwc5vNE_7pvs4fz0L2U,Pizza Place,Accommodation & Food Services,Greenville,RU,"USD,RUB",,Greek Pizza,Tony's Pizzeria,25,40,SC,26,26,26

@@ -1,0 +1,26 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+4678,AVwedtwTIN2L1WUf5Kjd,Pizza Place,Accommodation & Food Services,New Orleans,RU,"USD,RUB",,Bacon & Blue Cheese Pizza,Theos Neighborhood Pizza,25,40,LA,10,10,10
+4679,AVwedtwTIN2L1WUf5Kjd,Pizza Place,Accommodation & Food Services,New Orleans,RU,"USD,RUB",,Chicken Pesto Pizza,Theos Neighborhood Pizza,25,40,LA,10,10,10
+4680,AVwedtwTIN2L1WUf5Kjd,Pizza Place,Accommodation & Food Services,New Orleans,RU,"USD,RUB",,Big Dave's Buffalo Chicken Pizza,Theos Neighborhood Pizza,25,40,LA,10,10,10
+4681,AV1teilCRxPSIh2RbNhZ,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Alexandria,RU,"USD,RUB",,Kids Cheese Pizza,Wildwood Pizza,0,25,LA,10,10,10
+4682,AVwc_FJmkufWRAb51GkW,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Lafayette,RU,"USD,RUB",,Cheese Pizza,Bisbano's Pizza Parlor,0,25,LA,10,10,10
+4683,AVwc_FJmkufWRAb51GkW,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Lafayette,RU,"USD,RUB",,Bacon Cheeseburger Pizza,Bisbano's Pizza Parlor,0,25,LA,10,10,10
+4684,AV0BCLdu-gnIPe8DUvU5,"Restaurant,Pizza Place",Accommodation & Food Services,Mandeville,RU,"USD,RUB",,Pizza (10),McClains Pizzeria,0,25,LA,10,10,10
+4685,AVweMofaIN2L1WUf21uK,"Italian Restaurant,Pizza Place",Accommodation & Food Services,New Orleans,RU,"USD,RUB",,Big Dave's Buffalo Chicken Pizza,Theos Neighborhood Pizza,25,40,LA,10,10,10
+4686,AVwdP450kufWRAb534w7,Pizza Place,Accommodation & Food Services,Metairie,RU,"USD,RUB",,Spicy Chicken Pizza,Zitas Pizzeria,0,25,LA,10,10,10
+4687,AVwdP450kufWRAb534w7,Pizza Place,Accommodation & Food Services,Metairie,RU,"USD,RUB",,One Large Two Topping Pizza Cheese Sticks and 10 Wings,Zitas Pizzeria,0,25,LA,10,10,10
+4688,AVwdP450kufWRAb534w7,Pizza Place,Accommodation & Food Services,Metairie,RU,"USD,RUB",,Steak and Cheese Pizza,Zitas Pizzeria,0,25,LA,10,10,10
+4689,AVwdP450kufWRAb534w7,Pizza Place,Accommodation & Food Services,Metairie,RU,"USD,RUB",,Pizza,Zitas Pizzeria,0,25,LA,10,10,10
+4690,AVwdP450kufWRAb534w7,Pizza Place,Accommodation & Food Services,Metairie,RU,"USD,RUB","Tomato sauce, mozzarella cheese, onions, green peppers and roasted garlic",Spicy Chicken Pizza,Zitas Pizzeria,0,25,LA,10,10,10
+4691,AVwdP450kufWRAb534w7,Pizza Place,Accommodation & Food Services,Metairie,RU,"USD,RUB",,One Large One Topping Pizza,Zitas Pizzeria,0,25,LA,10,10,10
+4692,AWEKUMJhIxWefVJww04Z,"Restaurant,Pizza Place",Accommodation & Food Services,Pineville,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesars Pizza,0,25,LA,10,10,10
+4693,AWEKUMJhIxWefVJww04Z,"Restaurant,Pizza Place",Accommodation & Food Services,Pineville,RU,"USD,RUB",pepperoni or cheese original round no limit carry out plus tax,HotNReady Large Pizza,Little Caesars Pizza,0,25,LA,10,10,10
+4694,AVwdGK7WkufWRAb52QyD,"Pizza,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,New Orleans,RU,"USD,RUB",,Pizza By the Slice,New York Pizza,0,25,LA,10,10,10
+4695,AVwd7SNKByjofQCxtuTd,"Pizza Place,Pizza Place Freret,Restaurants,restaurant,Italian Restaurants,Pizza",Accommodation & Food Services,New Orleans,RU,"USD,RUB",,Anti Pizza Plate,Ancora Pizzeria,25,40,LA,10,10,10
+4696,AVwduLuSkufWRAb58pYM,"Pizza Place,Take Out Restaurants,Restaurants,Pizza",Accommodation & Food Services,Lafayette,RU,"USD,RUB",Three medium three topping pizzas,Medium Pizza Offers,Papa John's Pizza,0,25,LA,10,10,10
+4697,AVwduLuSkufWRAb58pYM,"Pizza Place,Take Out Restaurants,Restaurants,Pizza",Accommodation & Food Services,Lafayette,RU,"USD,RUB","With up to 5 toppings, including specialties",Any Large Pizza,Papa John's Pizza,0,25,LA,10,10,10
+4698,AVwduLuSkufWRAb58pYM,"Pizza Place,Take Out Restaurants,Restaurants,Pizza",Accommodation & Food Services,Lafayette,RU,"USD,RUB",,Medium Pizza Offers,Papa John's Pizza,0,25,LA,10,10,10
+4699,AVwduLuSkufWRAb58pYM,"Pizza Place,Take Out Restaurants,Restaurants,Pizza",Accommodation & Food Services,Lafayette,RU,"USD,RUB",,Add to Large Pizzas,Papa John's Pizza,0,25,LA,10,10,10
+4700,AVwdN39oByjofQCxmu9Y,Pizza Place,Accommodation & Food Services,Farmerville,RU,"USD,RUB",,12 Sweep The Kitchen Pizza,Johnny's Pizza,0,25,LA,10,10,10
+4701,AVwdN39oByjofQCxmu9Y,Pizza Place,Accommodation & Food Services,Farmerville,RU,"USD,RUB",,Sweep The Kitchen Pizza,Johnny's Pizza,0,25,LA,10,10,10
+4702,AVwdN39oByjofQCxmu9Y,Pizza Place,Accommodation & Food Services,Farmerville,RU,"USD,RUB","Covered with onions, mushrooms, black olives, bell peppers and jalapenos",Veggie Pizza,Johnny's Pizza,0,25,LA,10,10,10

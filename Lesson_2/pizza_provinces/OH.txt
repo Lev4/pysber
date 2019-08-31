@@ -1,0 +1,325 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+328,AVwdRGa9_7pvs4fz4E3K,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",a saucelessampcomma double cheese pizza with a garlic accentampcomma served with tomatoes on a sesame seed crust,Pizza Blanca,Mios Pizzeria,0,25,OH,82,82,82
+329,AVwczgYSkufWRAb5zNBx,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Johnstown,RU,"USD,RUB",,Pizza Sub,Pizzaburg,0,30,OH,82,82,82
+330,AVwcvcBy_7pvs4fzyddm,Pizza Place,Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Make Any Pizza a Supreme with 5 Toppings,Bruno Bros Pizza,0,25,OH,82,82,82
+331,AVwcvcBy_7pvs4fzyddm,Pizza Place,Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Make Any Pizza A Supreme With 5 Toppings,Bruno Bros Pizza,0,25,OH,82,82,82
+332,AVzBB3_b3D1zeR_xBFDn,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Spinach Pizza,Vicinato Pizzeria,0,25,OH,82,82,82
+333,AVwddyaekufWRAb56Lt6,"Restaurant,Pizza Place",Accommodation & Food Services,Lewis Center,RU,"USD,RUB",,Pizza Sub,Tarantos Pizzeria,0,25,OH,82,82,82
+334,AVwcrayCkufWRAb5x2Be,"Bar,Pizza Place,Pub",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Buffalo Chicken Pizza,The Pub in Gahanna,0,25,OH,82,82,82
+335,AVzoI1XC-gnIPe8DT9XN,"Restaurant,Pizza Place",Accommodation & Food Services,Ravenna,RU,"USD,RUB",Includes broccoliampcomma cauliflowerampcomma onionsampcomma green peppers ampamp mushrooms White or red sauce,Veggie Pizza,Sicilianos,0,25,OH,82,82,82
+336,AV0Y4BOZ3D1zeR_xD0Sa,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",,Pizza By the Slice,Fratellis Pizzeria,0,25,OH,82,82,82
+337,AV0Y4BOZ3D1zeR_xD0Sa,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,West Chester,RU,"USD,RUB",,White Pizza,Fratellis Pizzeria,0,25,OH,82,82,82
+338,AVwdHZx2_7pvs4fz2axU,Pizza Place,Accommodation & Food Services,Toledo,RU,"USD,RUB",Sauteed in a marinara sauce then baked with mozzarella,Sausage Ala Pizzaiola Parmigiana,The Original Ginos Pizza,0,25,OH,82,82,82
+339,AVwdHZx2_7pvs4fz2axU,Pizza Place,Accommodation & Food Services,Toledo,RU,"USD,RUB",Sliced italian prosciutto and fresh garlic,Pizza Di Parma,The Original Ginos Pizza,0,25,OH,82,82,82
+340,AVzBB3Dv-gnIPe8DShyH,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,White Pizza,Rascal House,0,25,OH,82,82,82
+341,AVzBB3Dv-gnIPe8DShyH,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pizza with Cheese,Rascal House,0,25,OH,82,82,82
+342,AVzBB3Dv-gnIPe8DShyH,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pizza Bonanza Box Lunch,Rascal House,0,25,OH,82,82,82
+343,AVwc_kEPByjofQCxkY9c,"Restaurant,Pizza Place",Accommodation & Food Services,Brunswick,RU,"USD,RUB",,Pizza Crust,FatBobs Pizza,0,25,OH,82,82,82
+344,AV0Hj8AGLD2H7whiYXgO,Pizza Place,Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Hand Tossed Pizza,LaRosas Pizzeria Fairfield,0,25,OH,82,82,82
+345,AV0Hj8AGLD2H7whiYXgO,Pizza Place,Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Kids Size Pizza,LaRosas Pizzeria Fairfield,0,25,OH,82,82,82
+346,AV0Hj8AGLD2H7whiYXgO,Pizza Place,Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Traditional Thin Pizza,LaRosas Pizzeria Fairfield,0,25,OH,82,82,82
+347,AV6hxjzS3-Khe5l_X6Jy,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Traditional Thin Pizza,LaRosas Pizzeria,0,25,OH,82,82,82
+348,AV6hxjzS3-Khe5l_X6Jy,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",select one topping,Smily Face Pizza,LaRosas Pizzeria,0,25,OH,82,82,82
+349,AV6hxjzS3-Khe5l_X6Jy,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosas Pizzeria,0,25,OH,82,82,82
+350,AV6hxjzS3-Khe5l_X6Jy,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",small 2topping pizza and a small garden salad,Pizzas,LaRosas Pizzeria,0,25,OH,82,82,82
+351,AV6hxjzS3-Khe5l_X6Jy,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",small classic specialty pizza and small garden salad,Pizzas  Specialty Pizza,LaRosas Pizzeria,0,25,OH,82,82,82
+352,AVwc22qM_7pvs4fzzsLO,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",Fresh mozzarellaampcomma roma tomatoampcomma fresh basilampcomma olive oil ampamp garlic,Margarita Pizza,Capers Pizza Bar,0,25,OH,82,82,82
+353,AVwcke8NkufWRAb5wooA,Pizza Place,Accommodation & Food Services,Springboro,RU,"USD,RUB",,Carmela's Stuffed Pizza,Carmelas Pizzeria Springboro,0,25,OH,82,82,82
+354,AVwcke8NkufWRAb5wooA,Pizza Place,Accommodation & Food Services,Springboro,RU,"USD,RUB",,Bacon Burger Pizza,Carmelas Pizzeria Springboro,0,25,OH,82,82,82
+355,AVwcke8NkufWRAb5wooA,Pizza Place,Accommodation & Food Services,Springboro,RU,"USD,RUB",,Cheese Pizza,Carmelas Pizzeria Springboro,0,25,OH,82,82,82
+356,AWEIVtKERxPSIh2RrIXF,Pizza Place,Accommodation & Food Services,Findlay,RU,"USD,RUB",,Pride Pizza,Bellacinos Grinders Pizza,0,25,OH,82,82,82
+357,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,14 Inch Chicago Style Lasagna Pizza,Fabians,25,40,OH,82,82,82
+358,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,9 Inch Chicago Style Lasagna Pizza,Fabians,25,40,OH,82,82,82
+359,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB","Chicken, artichokes, roma tomatoes and pesto.",9 Inch Chicago Style Chicken Pesto Pizza,Fabians,25,40,OH,82,82,82
+360,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB","Mushrooms, onions, peppers, roma tomatos and black olives.",9 Inch Chicago Style Vegetarian Pizza,Fabians,25,40,OH,82,82,82
+361,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,14 Inch Fabian Supreme Chicago Style Pizza,Fabians,25,40,OH,82,82,82
+362,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB","Chicken, bacon, onions, garlic oil and mozzarella.",9 Inch Chicago Style Pizza Rustica,Fabians,25,40,OH,82,82,82
+363,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,14 Inch Chicago Style Chicken Pesto Pizza,Fabians,25,40,OH,82,82,82
+364,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,9 Inch Chicago Style Pizza Rustica,Fabians,25,40,OH,82,82,82
+365,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",Ricotta. Mozzarella. Sausage.,Lasagna Pizza (chicago),Fabians,25,40,OH,82,82,82
+366,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,14 Inch Chicago Hawaiian Pizza,Fabians,25,40,OH,82,82,82
+367,AVwcuZGWByjofQCxhfJC,"Restaurant,Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,9 Inch Chicago Style Italian Pizza,Fabians,25,40,OH,82,82,82
+368,AVzxmYGzLD2H7whiX4Ab,Pizza Place,Accommodation & Food Services,Franklin,RU,"USD,RUB",,Meatzza Pizza,Pisanellos,0,25,OH,82,82,82
+369,AVzxmYGzLD2H7whiX4Ab,Pizza Place,Accommodation & Food Services,Franklin,RU,"USD,RUB",,Deluxe Pizza,Pisanellos,0,25,OH,82,82,82
+370,AVzxmYGzLD2H7whiX4Ab,Pizza Place,Accommodation & Food Services,Franklin,RU,"USD,RUB",,Bbq Chicken Pizza,Pisanellos,0,25,OH,82,82,82
+371,AVweJTiSByjofQCxvqnM,Pizza Place,Accommodation & Food Services,Kent,RU,"USD,RUB",,Dessert Pizza,Eldorados Pizza Pie Bar,0,25,OH,82,82,82
+372,AVwcmGu4ByjofQCxgCog,"Pizza,Restaurant,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Tiffin,RU,"USD,RUB",,Carryout Pizza By Slice,Fort Ball Pizza Palace,0,25,OH,82,82,82
+373,AVwcmGu4ByjofQCxgCog,"Pizza,Restaurant,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Tiffin,RU,"USD,RUB",,Pizza,Fort Ball Pizza Palace,0,25,OH,82,82,82
+374,AVweaz8XkufWRAb5CvFO,"Pizza Place,Restaurants",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Sandwich Pizza,Wedgewood Pizza,0,25,OH,82,82,82
+375,AVweaz8XkufWRAb5CvFO,"Pizza Place,Restaurants",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Plain White Pizza,Wedgewood Pizza,0,25,OH,82,82,82
+376,AVweaz8XkufWRAb5CvFO,"Pizza Place,Restaurants",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Fresh Tomato Pizza,Wedgewood Pizza,0,25,OH,82,82,82
+377,AVweaz8XkufWRAb5CvFO,"Pizza Place,Restaurants",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Garlic Bread Pizza,Wedgewood Pizza,0,25,OH,82,82,82
+378,AVweaz8XkufWRAb5CvFO,"Pizza Place,Restaurants",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Brier Hill Pizza,Wedgewood Pizza,0,25,OH,82,82,82
+379,AVzBBanv3D1zeR_xBEr7,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Bbq Chicken Pizza,Grandads Pizza,0,25,OH,82,82,82
+380,AVweAL6v_7pvs4fz_LAH,"Pizza,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Two Topping Pizza,Marion's Piazza,0,25,OH,82,82,82
+381,AVweAL6v_7pvs4fz_LAH,"Pizza,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Three Topping Pizza,Marion's Piazza,0,25,OH,82,82,82
+382,AVweAL6v_7pvs4fz_LAH,"Pizza,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Onion Pizza,Marion's Piazza,0,25,OH,82,82,82
+383,AVweAL6v_7pvs4fz_LAH,"Pizza,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Mushroom Pizza,Marion's Piazza,0,25,OH,82,82,82
+384,AVweAL6v_7pvs4fz_LAH,"Pizza,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",Any two above ingredients,Two Topping Pizza,Marion's Piazza,0,25,OH,82,82,82
+385,AVweAL6v_7pvs4fz_LAH,"Pizza,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Green Peppers Pizza,Marion's Piazza,0,25,OH,82,82,82
+386,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",addampaposl items 450,Pizza 24ampquot,Pj's Pizza,0,25,OH,82,82,82
+387,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",,Pizza,Pj's Pizza,0,25,OH,82,82,82
+388,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",addampaposl items 125,Pizza 12ampquot,Pj's Pizza,0,25,OH,82,82,82
+389,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",,"10"" Pizza",Pj's Pizza,0,25,OH,82,82,82
+390,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",addampaposl items 050,Pizza 7ampquot,Pj's Pizza,0,25,OH,82,82,82
+391,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",,"7"" Pizza",Pj's Pizza,0,25,OH,82,82,82
+392,AVwePCEdByjofQCxwcPB,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sunbury,RU,"USD,RUB",,"12"" Pizza",Pj's Pizza,0,25,OH,82,82,82
+393,AV1tf8-4a4HuVbed8Qdc,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Pizza,Roc-a-Fellas,0,25,OH,82,82,82
+394,AVwd4FAfByjofQCxtRa2,"Pizza,Family Style Dining,Pizza Place,Restaurants",Accommodation & Food Services,Circleville,RU,"USD,RUB",,Philly Cheesesteak Pizza,Pizza Cottage,0,25,OH,82,82,82
+395,AVwd4FAfByjofQCxtRa2,"Pizza,Family Style Dining,Pizza Place,Restaurants",Accommodation & Food Services,Circleville,RU,"USD,RUB",,Pizza Bread,Pizza Cottage,0,25,OH,82,82,82
+396,AVwd4FAfByjofQCxtRa2,"Pizza,Family Style Dining,Pizza Place,Restaurants",Accommodation & Food Services,Circleville,RU,"USD,RUB",,Pizza Sub,Pizza Cottage,0,25,OH,82,82,82
+397,AVz21HqK3D1zeR_xC9dT,"Pizza,Restaurant,Caterers,Pizza Place,Catering,Restaurants",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Three Topping Pizza,Marion's Piazza,25,40,OH,82,82,82
+398,AVweh55kByjofQCxzE-l,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",Grilled chickenampcomma ranch sauceampcomma bacon and provolone,Chicken Bacon Ranch Pizza,Formaggio,0,25,OH,82,82,82
+399,AVweh55kByjofQCxzE-l,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",Mushroomsampcomma green peppersampcomma tomatoesampcomma black olivesampcomma onions and provolone,Veggie Pizza,Formaggio,0,25,OH,82,82,82
+400,AVweh55kByjofQCxzE-l,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",Two large 12ampquot pizzas with one topping each Not valid with any other GrubHub specialampcomma coupon or offer,2 12ampquot 1 Topping Pizzas,Formaggio,0,25,OH,82,82,82
+401,AVweh55kByjofQCxzE-l,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",Italian sausageampcomma baconampcomma hamampcomma pepperoni and provolone,Meat Loverampaposs Pizza,Formaggio,0,25,OH,82,82,82
+402,AVweh55kByjofQCxzE-l,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",White sauceampcomma grilled chickenampcomma baconampcomma green peppersampcomma onions and provolone,Jazzy Pizza,Formaggio,0,25,OH,82,82,82
+403,AVweh55kByjofQCxzE-l,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",A large 12ampquot pizza with one topping Not valid with any other GrubHub specialampcomma coupon or offer,12ampquot 1 Topping Pizza Special,Formaggio,0,25,OH,82,82,82
+404,AVwdxzgBIN2L1WUfzIKE,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bucyrus,RU,"USD,RUB",Provolone cheeseampcomma pepperoniampcomma pork sausageampcomma italian sausageampcomma hamampcomma green olivesampcomma black olivesampcomma banana peppersampcomma green peppersampcomma onionsampcomma mushroomsampcomma extra cheeseampcomma and oregano,Deluxe Pizza,Baker's Pizza Sports Shack,25,40,OH,82,82,82
+405,AVwdxzgBIN2L1WUfzIKE,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bucyrus,RU,"USD,RUB",Topped with provolone cheeseampcomma grilled chickenampcomma green peppersampcomma onionsampcomma mushroomampcomma and oregano,Grill Chicken Veg Pizza,Baker's Pizza Sports Shack,25,40,OH,82,82,82
+406,AVwdxzgBIN2L1WUfzIKE,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bucyrus,RU,"USD,RUB",,White Pizza,Baker's Pizza Sports Shack,25,40,OH,82,82,82
+407,AVwdxzgBIN2L1WUfzIKE,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bucyrus,RU,"USD,RUB",Provolone cheeseampcomma pepperoniampcomma hamampcomma baconampcomma ground beefampcomma italian sausageampcomma pork sausageampcomma and oregano,All Meat Pizza,Baker's Pizza Sports Shack,25,40,OH,82,82,82
+408,AVwdxzgBIN2L1WUfzIKE,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Bucyrus,RU,"USD,RUB",Topped with provolone cheeseampcomma baconampcomma lettuceampcomma tomatoesampcomma and mayonnaise,BLT Pizza,Baker's Pizza Sports Shack,25,40,OH,82,82,82
+409,AVwdT8UH_7pvs4fz4i6K,"Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Kent,RU,"USD,RUB",,Chicago Deep Dish Pizza,Guys Pizza,0,25,OH,82,82,82
+410,AVzoE3Qr3D1zeR_xCYeq,"Pizza,Restaurant,Pizza-Wholesale and Manufacturers,Pizza Place,Restaurants","Wholesale Trade,Accommodation & Food Services,Manufacturing",Ashland,RU,"USD,RUB",,Specialty Pizza,Dor Lo Pizza,0,25,OH,82,82,82
+411,AWEHunVTa4HuVbedLU03,Pizza Place,Accommodation & Food Services,Akron,RU,"USD,RUB",,Three Large Pizza,Georgios Pizza,0,25,OH,82,82,82
+412,AWEHunVTa4HuVbedLU03,Pizza Place,Accommodation & Food Services,Akron,RU,"USD,RUB",,Half Sheet Pizza,Georgios Pizza,0,25,OH,82,82,82
+413,AVwcyzZbByjofQCxiQF1,Pizza Place,Accommodation & Food Services,Cadiz,RU,"USD,RUB",,"6"" Pizza Sub",DiAngelos,0,25,OH,82,82,82
+414,AVwcyzZbByjofQCxiQF1,Pizza Place,Accommodation & Food Services,Cadiz,RU,"USD,RUB",,French Bread Pizza,DiAngelos,0,25,OH,82,82,82
+415,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+416,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+417,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,2 Medium Cheese Pizzas,Cassanos Pizza Subs,0,25,OH,82,82,82
+418,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+419,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+420,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+421,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,2 Medium Cheese Pizzas,Cassanos Pizza Subs,0,25,OH,82,82,82
+422,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+423,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+424,AV1_P_i0IxWefVJwieAN,"Pizza,Carry Out Food,Pizza Place,Restaurants",Accommodation & Food Services,Fairfield,RU,"USD,RUB",,Cheese Pizza,Cassanos Pizza Subs,0,25,OH,82,82,82
+425,AVwePfBPByjofQCxwgBH,"Pizza,Carry-out food,Pizza Place,Restaurants",Accommodation & Food Services,Pickerington,RU,"USD,RUB",,Add To Large Pizzas,Papa Johns Pizza,0,25,OH,82,82,82
+426,AV0Hj-KfLD2H7whiYXgb,"Restaurant,Pizza Place",Accommodation & Food Services,Loveland,RU,"USD,RUB",,Kids Size Pizza,LaRosas Pizzeria,0,25,OH,82,82,82
+427,AV0Hj-KfLD2H7whiYXgb,"Restaurant,Pizza Place",Accommodation & Food Services,Loveland,RU,"USD,RUB",select one topping,Smily Face Pizza,LaRosas Pizzeria,0,25,OH,82,82,82
+428,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Deluxe Pizza,Pizza Pan,0,25,OH,82,82,82
+429,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Grilled Bbq Chicken Pizza,Pizza Pan,0,25,OH,82,82,82
+430,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Philly Steak Pizza,Pizza Pan,0,25,OH,82,82,82
+431,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Garlic butter white sauce, topped with real cheese, ham, pineapple and bacon",Hawaiian Pizza,Pizza Pan,0,25,OH,82,82,82
+432,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Buy one Cheese Pizza, get one Cheese Pizza free",Cheese Pizza,Pizza Pan,0,25,OH,82,82,82
+433,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Single Pizza and approx 10 Wings,Large 1Topping Pizza and 1 lb Wings Special,Pizza Pan,0,25,OH,82,82,82
+434,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,7ampquot Mini 1Topping Pizza Special,Pizza Pan,0,25,OH,82,82,82
+435,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Our homestyle baked macaroni and cheese piled directly on our fresh dough and topped with crispy bacon,Bacon Cheesy Mac Pizza,Pizza Pan,0,25,OH,82,82,82
+436,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pepperoni Supreme Pizza,Pizza Pan,0,25,OH,82,82,82
+437,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Stuffed Crust Pizza,Pizza Pan,0,25,OH,82,82,82
+438,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Meat Supreme Pizza,Pizza Pan,0,25,OH,82,82,82
+439,AVwcqoA0ByjofQCxg1po,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Not part of BOGO offers,7ampquot Mini 1Topping Pizza Special,Pizza Pan,0,25,OH,82,82,82
+440,AVwdEyR6kufWRAb52C9H,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Small Dessert Pizza,P Jay's Pizza,0,25,OH,82,82,82
+441,AVwdEyR6kufWRAb52C9H,"Pizza,Take Out Restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Our homemade pizza sauce, fresh diced chicken, smothered with provolone cheese",Chicken Parmesan Pizza,P Jay's Pizza,0,25,OH,82,82,82
+442,AVwc_DPlkufWRAb51GL2,Pizza Place,Accommodation & Food Services,Macedonia,RU,"USD,RUB",Three medium three topping pizzas,Medium Pizza Offers,Papa Johns Pizza,0,25,OH,82,82,82
+443,AWBlhOU4RxPSIh2RpXbg,Pizza Place,Accommodation & Food Services,Dayton,RU,"USD,RUB",,Full Pizza Pack,Cassanos,0,25,OH,82,82,82
+444,AVwedgI9ByjofQCxyal_,"Pizza,Restaurant,Pizza Place Northwest Akron,Pizza Place,Sandwiches,Restaurants",Accommodation & Food Services,Akron,RU,"USD,RUB",Taco Meatampcomma black olivesampcomma onions on our southwestern ranch sauce served with lettuceampcomma tomatoesampcomma cheddar cheeseampcomma sour cream ampamp fritos on the side,Mexican Pizza,Romeo's Pizza,0,25,OH,82,82,82
+445,AVwc0NN_ByjofQCxifyO,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Bacon Cheddar Cheese Burger Pizza,Massey's Pizza,0,25,OH,82,82,82
+446,AVwc0NN_ByjofQCxifyO,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Chicken Cheddar Bacon Ranch Pizza,Massey's Pizza,0,25,OH,82,82,82
+447,AVwc0NN_ByjofQCxifyO,"Pizza,Restaurant,Italian restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",,White Pizza,Massey's Pizza,0,25,OH,82,82,82
+448,AWBceAJm3-Khe5l_cNSA,Pizza Place,Accommodation & Food Services,Amherst,RU,"USD,RUB",,Pesto Pizza,DTutanellis Pizza,0,25,OH,82,82,82
+449,AWBceAJm3-Khe5l_cNSA,Pizza Place,Accommodation & Food Services,Amherst,RU,"USD,RUB",,Our Big Fat Greek Pizza,DTutanellis Pizza,0,25,OH,82,82,82
+450,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Large 4 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+451,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Sausage, bacon, bbq sauce, and cheese",Bbq Pizza,Pizza Pan,0,10,OH,82,82,82
+452,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Ham, pineapple bacon with garlic sauce",Hawaiian Pizza,Pizza Pan,0,10,OH,82,82,82
+453,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Small 2 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+454,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Family 5 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+455,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Picante sauce, seasoned ground beef tomatoes and onions, hot peppers",Mexican Pizza,Pizza Pan,0,10,OH,82,82,82
+456,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Family 1 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+457,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Two Jumbo 16in 1 Item Pizzas,Pizza Pan,0,10,OH,82,82,82
+458,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Jumbo Cheese Pizza,Pizza Pan,0,10,OH,82,82,82
+459,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Family 4 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+460,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Bacon seasoned ground beef and cheddar cheese,Bacon Cheeseburger Pizza,Pizza Pan,0,10,OH,82,82,82
+461,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Large 2 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+462,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Small 5 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+463,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Family 3 Item Pizza,Pizza Pan,0,10,OH,82,82,82
+464,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Hot sauce, choice of garlic butter or red sauce chicken and cheese",Buffalo Chicken Pizza,Pizza Pan,0,10,OH,82,82,82
+465,AVwd8OqH_7pvs4fz-nPq,"Pizza,Pizza Place,Pizza Place Fairfax",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Large 12in 1 Item Pizza With 20oz Coke,Pizza Pan,0,10,OH,82,82,82
+466,AVweOW4pkufWRAb5BE1O,"Restaurant,Pizza Place Downtown Akron,Pizza Place",Accommodation & Food Services,Akron,RU,"USD,RUB",BBQ sauce grilled chicken pineapple and red onions,Austin Pizza,PizzaFire,0,25,OH,82,82,82
+467,AVweOW4pkufWRAb5BE1O,"Restaurant,Pizza Place Downtown Akron,Pizza Place",Accommodation & Food Services,Akron,RU,"USD,RUB",Ranch bacon sauce Buffalo chicken mozzarella and Romano cheese,Buffalo Pizza,PizzaFire,0,25,OH,82,82,82
+468,AVweOW4pkufWRAb5BE1O,"Restaurant,Pizza Place Downtown Akron,Pizza Place",Accommodation & Food Services,Akron,RU,"USD,RUB",,Build Your Own 3Topping Pizza,PizzaFire,0,25,OH,82,82,82
+469,AVweOW4pkufWRAb5BE1O,"Restaurant,Pizza Place Downtown Akron,Pizza Place",Accommodation & Food Services,Akron,RU,"USD,RUB",,Build Your Own 1Topping Pizza,PizzaFire,0,25,OH,82,82,82
+470,AV5U-URGa4HuVbedCjVU,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Kids Make Their Own Pizza,Werkhaus Pizza,0,25,OH,82,82,82
+471,AV5U-URGa4HuVbedCjVU,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Pepperoni Pizza,Werkhaus Pizza,0,25,OH,82,82,82
+472,AV5U-URGa4HuVbedCjVU,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Stuff Your Own Pizza,Werkhaus Pizza,0,25,OH,82,82,82
+473,AV5U-URGa4HuVbedCjVU,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Served on fresh sesame seed crustampcomma with alfredo sauceampcomma topped with fresh basilampcomma garlicampcomma and roma tomatoes,Fresh Basil Pizza,Werkhaus Pizza,0,25,OH,82,82,82
+474,AVwctrVEkufWRAb5yOkK,"Pizza Place,Pizzeria,Tempat Pizza,Restaurants",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Pizza Dawg,Mikey's Late Night Slice,0,25,OH,82,82,82
+475,AVzBFLcS-gnIPe8DSjXt,"Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Everything Pizza,Rotolo's Pizza,0,25,OH,82,82,82
+476,AVzBFLcS-gnIPe8DSjXt,"Pizza Place,Pizzeria,Tempat Pizza",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Veggie Pizza,Rotolo's Pizza,0,25,OH,82,82,82
+477,AVweQkYhIN2L1WUf3XZu,"Pizza Place Northeast Columbus,Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Cheeseampcomma classic pepperoniampcomma Italian sausageampcomma mushroomsampcomma green peppersampcomma onions and a sprinkling of extra cheese on your choice of crust,Deluxe Uno Pizza,Marco's Pizza,0,25,OH,82,82,82
+478,AVweQkYhIN2L1WUf3XZu,"Pizza Place Northeast Columbus,Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Four types of cheese including cheddarampcomma grilled chickenampcomma baconampcomma onions and sliced tomatoes on your choice of crust,Chicken Fresco Pizza,Marco's Pizza,0,25,OH,82,82,82
+479,AVweQkYhIN2L1WUf3XZu,"Pizza Place Northeast Columbus,Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Four types of cheese including fetaampcomma mushroomsampcomma black olivesampcomma onions and sliced tomatoes on your choice of crust,Garden Pizza,Marco's Pizza,0,25,OH,82,82,82
+480,AVweQkYhIN2L1WUf3XZu,"Pizza Place Northeast Columbus,Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Two pepperonisampcomma old world and classicampcomma with Marcoampaposs special Italian seasoning,Pepperoni Magnifico Pizza,Marco's Pizza,0,25,OH,82,82,82
+481,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,8ampquot 1Item Original Pizza and Fountain Drink,Massey's Pizza,0,25,OH,82,82,82
+482,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Pizza Deluxe,Massey's Pizza,0,25,OH,82,82,82
+483,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,"Cinnammon Pizza (12"")",Massey's Pizza,0,25,OH,82,82,82
+484,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Pizza,Massey's Pizza,0,25,OH,82,82,82
+485,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoniampcomma pizza sauce ampamp provolone cheese,Pizza,Massey's Pizza,0,25,OH,82,82,82
+486,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoniampcomma sausageampcomma mushroomsampcomma green peppersampcomma onionsampcomma pizza sauce ampamp provolone cheese,Pizza Deluxe,Massey's Pizza,0,25,OH,82,82,82
+487,AVwcrUO3kufWRAb5x02j,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Tangy BBQ sauceampcomma cheddar cheeseampcomma strips of real chicken breast ampamp smoked applewood bacon,BarBQ Chicken Pizza,Massey's Pizza,0,25,OH,82,82,82
+488,AVwdHX5IkufWRAb52dEk,"Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Comes with your choice of 1 topping Each additional topping is 150 for Small ampamp 300 for Large,Specialty Pizza,Geraci's,25,40,OH,82,82,82
+489,AVwdHX5IkufWRAb52dEk,"Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Pepperoniampcomma sausageampcomma mushroomampcomma green pepperampcomma ampamp onion,Pizza Deluxe,Geraci's,25,40,OH,82,82,82
+490,AVwdHX5IkufWRAb52dEk,"Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB","Pepperoni sausage, mushroom, green pepper and onion",Pizza Deluxe,Geraci's,25,40,OH,82,82,82
+491,AVwdHX5IkufWRAb52dEk,"Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",CinnamonSugar,Dessert Pizza,Geraci's,25,40,OH,82,82,82
+492,AVyirz3zgXLl9CNj_AEI,"Restaurant,Pizza Place",Accommodation & Food Services,Toledo,RU,"USD,RUB",a local favorite blend of potatoampcomma baconampcomma and cheddar cheese served with a side of ranch,Potato Pizza,Home Slice Pizza,25,40,OH,82,82,82
+493,AVyirz3zgXLl9CNj_AEI,"Restaurant,Pizza Place",Accommodation & Food Services,Toledo,RU,"USD,RUB",cheeseampcomma additional toppings 075,Large Pizza 14ampquot,Home Slice Pizza,25,40,OH,82,82,82
+494,AVyirz3zgXLl9CNj_AEI,"Restaurant,Pizza Place",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Large One Topping Pizza ampamp Two Sodas,Home Slice Pizza,25,40,OH,82,82,82
+495,AVyirz3zgXLl9CNj_AEI,"Restaurant,Pizza Place",Accommodation & Food Services,Toledo,RU,"USD,RUB",cheeseampcomma additional toppings 100,XL Pizza 16ampquot,Home Slice Pizza,25,40,OH,82,82,82
+496,AVyirz3zgXLl9CNj_AEI,"Restaurant,Pizza Place",Accommodation & Food Services,Toledo,RU,"USD,RUB",our marinara sauceampcomma five cheese blend and your choice of two toppings,Pizza Sub,Home Slice Pizza,25,40,OH,82,82,82
+497,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",additional toppings extra,12 Sheet Pizza with One Topping,Belleria,0,25,OH,82,82,82
+498,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,2 12ampquot Pizzas with One Topping on Each Additional Toppings Extra,Belleria,0,25,OH,82,82,82
+499,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Sheet Pizza Each Extra,Belleria,0,25,OH,82,82,82
+500,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Sheet Pizza Each Extra,Belleria,0,25,OH,82,82,82
+501,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,12 Sheet Cheese Pizza Additional Toppings Extra ampamp One Dozen Wings,Belleria,0,25,OH,82,82,82
+502,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",a blend of eggsampcomma seasonings and four cheeses for fluffy souffle like pizza,Egg Pizza,Belleria,0,25,OH,82,82,82
+503,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Old Fashioned Romano Cheese Pizza,Belleria,0,25,OH,82,82,82
+504,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",additional toppings extra  cheese excluded,12 Sheet Pepperoni Pizza,Belleria,0,25,OH,82,82,82
+505,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,6ampquot Traditional or Old Fashioned Pizza and Salad Bar with a Cup of Soup,Belleria,0,25,OH,82,82,82
+506,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",additional toppings extra,Two 6ampquot Pizzas,Belleria,0,25,OH,82,82,82
+507,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Spinach Pizza,Belleria,0,25,OH,82,82,82
+508,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Meatlovers Pizza,Belleria,0,25,OH,82,82,82
+509,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",BBQ chicken covered with a blend of four cheeses,BBQ Chicken Pizza,Belleria,0,25,OH,82,82,82
+510,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",spinach greens flavored with oilampcomma garlicampcomma and pepperampcomma covered with our blend of cheeses and baked to perfection,Spinach Pizza,Belleria,0,25,OH,82,82,82
+511,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Old Fashioned Romano Cheese Pizza,Belleria,0,25,OH,82,82,82
+512,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Meatball Pizza,Belleria,0,25,OH,82,82,82
+513,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Garden Pizza,Belleria,0,25,OH,82,82,82
+514,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Traditional Pizza,Belleria,0,25,OH,82,82,82
+515,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,"6"" Traditional Or Old Fashioned Pizza and Salad Bar",Belleria,0,25,OH,82,82,82
+516,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",additional toppings extra,Two 12ampquot Pizzas,Belleria,0,25,OH,82,82,82
+517,AVwchGopkufWRAb5wBS2,"Restaurant,Pizza Place",Accommodation & Food Services,Youngstown,RU,"USD,RUB",,Fajita Pizza,Belleria,0,25,OH,82,82,82
+518,AVwc5r9BkufWRAb50O-S,"Restaurant,Bar,Pizza Place and Bar,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Marinara sauce mozzarella and pepperoni,Pepperoni Pizza,Lucy Blue Pizza,0,25,OH,82,82,82
+519,AVwc5r9BkufWRAb50O-S,"Restaurant,Bar,Pizza Place and Bar,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Marinara sauce mushrooms green peppers red peppers Roma tomatoes black olives mozzarella sprinkled with fresh parsley Vegetarian,Veggie Pizza,Lucy Blue Pizza,0,25,OH,82,82,82
+520,AVwc5r9BkufWRAb50O-S,"Restaurant,Bar,Pizza Place and Bar,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",3 slices,12 Pizza,Lucy Blue Pizza,0,25,OH,82,82,82
+521,AVwc5r9BkufWRAb50O-S,"Restaurant,Bar,Pizza Place and Bar,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Marinara sauce real bacon green peppers pineapple and mozzarella,Hawaiian Pizza,Lucy Blue Pizza,0,25,OH,82,82,82
+522,AVwc5r9BkufWRAb50O-S,"Restaurant,Bar,Pizza Place and Bar,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Marinara sauce mozzarella pepperoni and Italian sausage,Pepperoni and Sausage Pizza,Lucy Blue Pizza,0,25,OH,82,82,82
+523,AVwc5r9BkufWRAb50O-S,"Restaurant,Bar,Pizza Place and Bar,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Olive oil garlic spinach black olives green olives mozzarella feta cheese topped with Roma tomatoes Vegetarian,Greek Pizza,Lucy Blue Pizza,0,25,OH,82,82,82
+524,AV1tfrn4IxWefVJwg35O,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Orab,RU,"USD,RUB",small 2topping pizza and a small garden salad,Pizzas,LaRosa's Pizzeria,0,25,OH,82,82,82
+525,AV1tfrn4IxWefVJwg35O,"Restaurant,Pizza Place",Accommodation & Food Services,Mount Orab,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosa's Pizzeria,0,25,OH,82,82,82
+526,AV0Y3_Hd-gnIPe8DVVPo,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Hand Tossed Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+527,AV0Y3_Hd-gnIPe8DVVPo,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",small 2topping pizza and a small garden salad,Pizzas,LaRosa's Pizzeria,0,25,OH,82,82,82
+528,AV0Hj9FjFcQ3k02bDm89,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",small 2topping pizza and a small garden salad,Pizzas,LaRosa's Pizzeria,25,40,OH,82,82,82
+529,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoni sausage ham bacon and beef,17 Meat Lovers Pizza,Iaconos Italian Restaurant,0,25,OH,82,82,82
+530,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Open face with pizza sauce pepperoni and cheese,54 Pizza Sub,Iaconos Italian Restaurant,0,25,OH,82,82,82
+531,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoni sausage onion and extra cheese,14 The Green Beret Pizza,Iaconos Italian Restaurant,0,25,OH,82,82,82
+532,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Smaller spicier pepperoni that crisps and curls as it bakes,19 Old World Pepperoni Pizza,Iaconos Italian Restaurant,0,25,OH,82,82,82
+533,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,6 Pizza with 5 Topping,Iaconos Italian Restaurant,0,25,OH,82,82,82
+534,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,2 Pizza with 1 Topping,Iaconos Italian Restaurant,0,25,OH,82,82,82
+535,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",White pizza brushed with olive oil roasted garlic fresh basil tomatoes and topped with provolone and Romano cheese,16 Margherita Pizza,Iaconos Italian Restaurant,0,25,OH,82,82,82
+536,AVweZJHdkufWRAb5Cg_O,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,4 Pizza with 3 Toppings,Iaconos Italian Restaurant,0,25,OH,82,82,82
+537,AVweEFRx_7pvs4fz_uFo,"Restaurant,Pizza Place",Accommodation & Food Services,Mentor,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesars Pizza,0,25,OH,82,82,82
+538,AVwdSutskufWRAb54Xpb,Pizza Place,Accommodation & Food Services,North Bend,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosa's Pizzeria Miami Heights,25,40,OH,82,82,82
+539,AVwdeQdwkufWRAb56QJ7,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Large Pizza,Mamma Santa's Pizzeria,0,25,OH,82,82,82
+540,AVwdeQdwkufWRAb56QJ7,"Italian Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Classic Combination Pizza,Mamma Santa's Pizzeria,0,25,OH,82,82,82
+541,AV1tfrRoRxPSIh2RbTes,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",small 2topping pizza and a small garden salad,Pizzas,LaRosa's Pizzeria,0,25,OH,82,82,82
+542,AV1tfrRoRxPSIh2RbTes,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosa's Pizzeria,0,25,OH,82,82,82
+543,AV1tfrRORxPSIh2RbTep,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Kids Size Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+544,AV1tfrRORxPSIh2RbTep,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",select one topping,Smily Face Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+545,AV1tfrRORxPSIh2RbTep,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",small classic specialty pizza and small garden salad,Pizzas  Specialty Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+546,AV1tfrRORxPSIh2RbTep,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Traditional Thin Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+547,AV1tfrRORxPSIh2RbTep,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Hand Tossed Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+548,AV1tfrRORxPSIh2RbTep,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Crispy Pan Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+549,AV0Y37eU-gnIPe8DVVO2,"Restaurant,Pizza Place",Accommodation & Food Services,Amelia,RU,"USD,RUB",small 2topping pizza and a small garden salad,Pizzas,LaRosa's Pizzeria,0,25,OH,82,82,82
+550,AV0Y37eU-gnIPe8DVVO2,"Restaurant,Pizza Place",Accommodation & Food Services,Amelia,RU,"USD,RUB",small classic specialty pizza and small garden salad,Pizzas  Specialty Pizza,LaRosa's Pizzeria,0,25,OH,82,82,82
+551,AV0Y37eU-gnIPe8DVVO2,"Restaurant,Pizza Place",Accommodation & Food Services,Amelia,RU,"USD,RUB",,Small Classic Or Deluxe Pizza and a Small Garden Salad,LaRosa's Pizzeria,0,25,OH,82,82,82
+552,AWEKT4DT3-Khe5l_ebt8,"Restaurant,Pizza Place",Accommodation & Food Services,Trenton,RU,"USD,RUB",Gluten free crust and topped with our classic marinara sauceampcomma real cheese made of mozzarella and pepperoni,Gluten Free Pepperoni Pizza,Pizza Hut,0,25,OH,82,82,82
+553,AWEKT4DT3-Khe5l_ebt8,"Restaurant,Pizza Place",Accommodation & Food Services,Trenton,RU,"USD,RUB",Gluten free crust and topped with your choice of select pizza hut gluten free toppings,Create Your Own Pizza with Udi39s Gluten Free Crust,Pizza Hut,0,25,OH,82,82,82
+554,AWEKT4DT3-Khe5l_ebt8,"Restaurant,Pizza Place",Accommodation & Food Services,Trenton,RU,"USD,RUB",Ultimate combination of pepperoniampcomma beefampcomma hamampcomma all natural italian sausageampcomma pork sausageampcomma sweet red onionsampcomma fresh white mushroomsampcomma crisp green peppers and black olives,Super Supreme Pizza,Pizza Hut,0,25,OH,82,82,82
+555,AWEKjYl6RxPSIh2RrdA_,"Restaurant,Pizza Place",Accommodation & Food Services,Waynesville,RU,"USD,RUB",Ultimate combination of pepperoniampcomma beefampcomma hamampcomma all natural italian sausageampcomma pork sausageampcomma sweet red onionsampcomma fresh white mushroomsampcomma crisp green peppers and black olives,Super Supreme Pizza,Pizza Hut,0,25,OH,82,82,82
+556,AWEKjYl6RxPSIh2RrdA_,"Restaurant,Pizza Place",Accommodation & Food Services,Waynesville,RU,"USD,RUB",Great combination of premium all white meat chickenampcomma fresh white mushroomsampcomma sweet red onionsampcomma and crisp green peppers,Chicken Supreme Pizza,Pizza Hut,0,25,OH,82,82,82
+557,AWEKkatba4HuVbedMUGD,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Gluten free crust and topped with our classic marinara sauceampcomma real cheese made of mozzarella and pepperoni,Gluten Free Pepperoni Pizza,Pizza Hut,0,25,OH,82,82,82
+558,AWEKkatba4HuVbedMUGD,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",Ultimate combination of pepperoniampcomma beefampcomma hamampcomma all natural italian sausageampcomma pork sausageampcomma sweet red onionsampcomma fresh white mushroomsampcomma crisp green peppers and black olives,Super Supreme Pizza,Pizza Hut,0,25,OH,82,82,82
+559,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Broccoli spinach and tomatoes on our buttery garlic sauce,New York White Pizza,Romeo's Pizza,0,25,OH,82,82,82
+560,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Seasoned steak patties with pizza sauce pepperoni provolone and mozzarella,Pizza Burger,Romeo's Pizza,0,25,OH,82,82,82
+561,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Side of Pizza Sauce,Romeo's Pizza,0,25,OH,82,82,82
+562,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Topped with original pizza sauce and provolone,Italiano Deep Dish Pizza,Romeo's Pizza,0,25,OH,82,82,82
+563,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Extra pepperoni and extra cheese,Pepperoni Feast Pizza,Romeo's Pizza,0,25,OH,82,82,82
+564,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoni sausage green peppers red onions and mushrooms,Romeo39s Deluxe Pizza,Romeo's Pizza,0,25,OH,82,82,82
+565,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoni sausage banana peppers onions and tomatoes,Dante39s Peak Pizza,Romeo's Pizza,0,25,OH,82,82,82
+566,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",,Build Your Own Pizza,Romeo's Pizza,0,25,OH,82,82,82
+567,AVwchSRr_7pvs4fzv-gF,"Restaurant,Pizza Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Pepperoni sausage ham bacon and crumbled meatballs,The Butcher Shop Pizza,Romeo's Pizza,0,25,OH,82,82,82
+568,AV0Y4ASmFcQ3k02bEN55,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",a saucelessampcomma double cheese pizza with a garlic accentampcomma served with tomatoes on a sesame seed crust,Pizza Blanca,Mio's Pizzeria,0,25,OH,82,82,82
+569,AV0Y4ASmFcQ3k02bEN55,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",,Stuff Your Own Pizza,Mio's Pizzeria,0,25,OH,82,82,82
+570,AVwd2nLRByjofQCxtFGa,"Restaurant,Pizza Place",Accommodation & Food Services,Wooster,RU,"USD,RUB",,2 Item Pizza,Coccia House,0,25,OH,82,82,82
+571,AWEKUydU3-Khe5l_edBW,"Restaurant,Pizza Place",Accommodation & Food Services,Dayton,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesar's Pizza,0,25,OH,82,82,82
+572,AVweZevG_7pvs4fzCnpB,"Restaurant,Pizza Place",Accommodation & Food Services,Lima,RU,"USD,RUB",pepperoni or cheese original round no limit carry out plus tax,HotNReady Large Pizza,Little Caesar's Pizza,0,25,OH,82,82,82
+573,AVweZevG_7pvs4fzCnpB,"Restaurant,Pizza Place",Accommodation & Food Services,Lima,RU,"USD,RUB",one large pizza with up to 6 toppings,Supreme Pizza,Little Caesar's Pizza,0,25,OH,82,82,82
+574,AVwc-V-PByjofQCxkMSj,"Pizza,Caterers,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Grove City,RU,"USD,RUB","Ham, pepperoni, sausage, bacon",Meat Pizza,Tristano's Pizzeria,0,25,OH,82,82,82
+575,AVwc-V-PByjofQCxkMSj,"Pizza,Caterers,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Grove City,RU,"USD,RUB",,Large Sweet Lou's Authentic Chicago Stuffed Pizza and 1 Item,Tristano's Pizzeria,0,25,OH,82,82,82
+576,AVwc-V-PByjofQCxkMSj,"Pizza,Caterers,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Grove City,RU,"USD,RUB",,Old World Style Traditional Pizza,Tristano's Pizzeria,0,25,OH,82,82,82
+577,AVwc-V-PByjofQCxkMSj,"Pizza,Caterers,Pizza Place,Restaurants,Italian Restaurants",Accommodation & Food Services,Grove City,RU,"USD,RUB",,Meat Pizza,Tristano's Pizzeria,0,25,OH,82,82,82
+578,AWEKjUzmRxPSIh2RrcoG,"Restaurant,Pizza Place",Accommodation & Food Services,Akron,RU,"USD,RUB",,Large Deep Dish Pizza,Hungry Howie's Pizza,25,40,OH,82,82,82
+579,AWEKjUzmRxPSIh2RrcoG,"Restaurant,Pizza Place",Accommodation & Food Services,Akron,RU,"USD,RUB",,Gluten Free 10ampquot Small Pizza,Hungry Howie's Pizza,25,40,OH,82,82,82
+580,AVwdf177kufWRAb56ef8,"Pizza Place,Restaurants",Accommodation & Food Services,Aurora,RU,"USD,RUB",,Gluten Free Pizza,Angelo's Pizzeria & Restaurant,0,25,OH,82,82,82
+581,AVwdf177kufWRAb56ef8,"Pizza Place,Restaurants",Accommodation & Food Services,Aurora,RU,"USD,RUB",,White Pizza,Angelo's Pizzeria & Restaurant,0,25,OH,82,82,82
+582,AVwdNPV3_7pvs4fz3ZtW,"Pizza Place,Sports Bar",Accommodation & Food Services,Westerville,RU,"USD,RUB",,Bbq Chicken Pizza,Classic Pizza & Sports Bar,0,25,OH,82,82,82
+583,AVwdNPV3_7pvs4fz3ZtW,"Pizza Place,Sports Bar",Accommodation & Food Services,Westerville,RU,"USD,RUB","Chicken, onion, banana peppers, provolone cheese, and roasted garlic BBQ sauce.",Bbq Chicken Pizza,Classic Pizza & Sports Bar,0,25,OH,82,82,82
+584,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",Large,Cheese Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+585,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Veggie Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+586,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Extra Sheet Pizza Cheese,Dina's Pizza & Pub,25,40,OH,82,82,82
+587,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Deluxe Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+588,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pierogi Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+589,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pizza Burger,Dina's Pizza & Pub,25,40,OH,82,82,82
+590,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Meat Lovers Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+591,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Margherita Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+592,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Full Sheet Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+593,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,White Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+594,AVwcg51XByjofQCxfEKW,"Bar,Pizza Place,Diner,Restaurant,Bar, Pizza Place, and Diner",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Bianca Pizza,Dina's Pizza & Pub,25,40,OH,82,82,82
+595,AVwd1yOzIN2L1WUfzrqZ,"Pizza Place,Restaurants,Sandwich Shops,Pasta,Pizza",Accommodation & Food Services,Dayton,RU,"USD,RUB",,Pizza Bread,Pizza Factory,0,25,OH,82,82,82
+596,AV0Y4BBqLD2H7whiY7Pe,"Restaurant,Pizza Place",Accommodation & Food Services,Cincinnati,RU,"USD,RUB",all varieties,Authentic Pan Pizza,Sbarro,0,25,OH,82,82,82
+597,AVwdlTESByjofQCxqiTw,"Pizza Place,Restaurant,Pizza,Restaurants",Accommodation & Food Services,Olmsted Falls,RU,"USD,RUB",Potato skins loaded with pizza cheese and pepperoni. sour cream on the side,Pizza Skins,Uncle Al's Pizza,0,25,OH,82,82,82
+598,AVwclQvqkufWRAb5wxWq,"Pizza Place,Restaurant,Pizza Restaurant",Accommodation & Food Services,Newark,RU,"USD,RUB",,"""Mini"" Any of Our Speciality Pizzas",Christy's Pizza,0,25,OH,82,82,82
+599,AVwclQvqkufWRAb5wxWq,"Pizza Place,Restaurant,Pizza Restaurant",Accommodation & Food Services,Newark,RU,"USD,RUB",,Italian Pizza,Christy's Pizza,0,25,OH,82,82,82
+600,AVwclQvqkufWRAb5wxWq,"Pizza Place,Restaurant,Pizza Restaurant",Accommodation & Food Services,Newark,RU,"USD,RUB",,Alfredo Pizza,Christy's Pizza,0,25,OH,82,82,82
+601,AVwclQvqkufWRAb5wxWq,"Pizza Place,Restaurant,Pizza Restaurant",Accommodation & Food Services,Newark,RU,"USD,RUB",,"7"" Mini Pizza",Christy's Pizza,0,25,OH,82,82,82
+602,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Blt Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+603,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Buffalo Chicken Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+604,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Party Sheet Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+605,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Blt Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+606,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Hawaiian Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+607,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Margherita Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+608,AV0HOMEC3D1zeR_xDOLw,"Pizza Place,wich Place,Restaurant",Accommodation & Food Services,Wickliffe,RU,"USD,RUB",,Hawaiian Pizza,Giuseppe's Pizza & Subs,0,25,OH,82,82,82
+609,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Cheese Pizza,Jo-Jo's Pizza,25,40,OH,82,82,82
+610,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Hawaiian Pizza,Jo-Jo's Pizza,25,40,OH,82,82,82
+611,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,"12"" Deep Dish Pizza",Jo-Jo's Pizza,25,40,OH,82,82,82
+612,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Greek Pizza,Jo-Jo's Pizza,25,40,OH,82,82,82
+613,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Bbq Chicken Pizza,Jo-Jo's Pizza,25,40,OH,82,82,82
+614,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Pizza Burger,Jo-Jo's Pizza,25,40,OH,82,82,82
+615,AVwdv60PByjofQCxsI6A,"Pizza Place,Pizza,Restaurants",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Veggie Pizza,Jo-Jo's Pizza,25,40,OH,82,82,82
+616,AVwdOnW2ByjofQCxm3pA,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Lebanon,RU,"USD,RUB",,Stuff Your Own Pizza,Mio's,0,25,OH,82,82,82
+617,AVwd4ZBAkufWRAb5-EBu,Pizza Place,Accommodation & Food Services,Columbus,RU,"USD,RUB",,"10"" Cheese Pizza",JT's Pizza & Pub,0,25,OH,82,82,82
+618,AVwc6h07ByjofQCxjkmq,"Restaurant,Pizza Place,Pizza,Food Delivery,Restaurants,Sandwich Place",Accommodation & Food Services,Columbus,RU,"USD,RUB",Daiya Vegan cheese freshly cut Roma tomatoes yellow onions and green peppers banana peppers black olives basil roasted garlic on our 1034 NatureCrust organic nonGMO vegan multigrain,Vegan It39s Greek to Me Pizza,Donatos Pizza,25,40,OH,82,82,82
+619,AVwdi6UekufWRAb568mL,Pizza Place,Accommodation & Food Services,Cambridge,RU,"USD,RUB",,28 Slice Party Tray Pizza,Wally's Pizza,0,25,OH,82,82,82
+620,AVwdi6UekufWRAb568mL,Pizza Place,Accommodation & Food Services,Cambridge,RU,"USD,RUB",,Pizza By the Slice,Wally's Pizza,0,25,OH,82,82,82
+621,AVwc8z9xIN2L1WUfqqRP,"Pizza Place,Restaurants,Pizza",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Chicken Chipotle Pizza,Vito's Pizza,0,25,OH,82,82,82
+622,AVwc8z9xIN2L1WUfqqRP,"Pizza Place,Restaurants,Pizza",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Angus Steak Chipotle Pizza,Vito's Pizza,0,25,OH,82,82,82
+623,AVwc8z9xIN2L1WUfqqRP,"Pizza Place,Restaurants,Pizza",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Pizza,Vito's Pizza,0,25,OH,82,82,82
+624,AVwc8z9xIN2L1WUfqqRP,"Pizza Place,Restaurants,Pizza",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Tony Packo's Pizza,Vito's Pizza,0,25,OH,82,82,82
+625,AVwc8z9xIN2L1WUfqqRP,"Pizza Place,Restaurants,Pizza",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Angus Steak Ranch Pizza,Vito's Pizza,0,25,OH,82,82,82
+626,AVwc8z9xIN2L1WUfqqRP,"Pizza Place,Restaurants,Pizza",Accommodation & Food Services,Toledo,RU,"USD,RUB",,Veggie Pizza,Vito's Pizza,0,25,OH,82,82,82
+627,AV1gtrFla4HuVbed7QnV,"Pizza Place,Restaurant",Accommodation & Food Services,Oxford,RU,"USD,RUB",,Bruschetta Pizza,Will's Pizza,0,25,OH,82,82,82
+628,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Bacon Cheeseburger Pizza,Papa Nick's,0,25,OH,82,82,82
+629,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB","Bacon, lettuce, tomato, mayo, cheese",Blt Pizza,Papa Nick's,0,25,OH,82,82,82
+630,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Buffalo Chicken Pizza,Papa Nick's,0,25,OH,82,82,82
+631,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB","Ham, pineapple, bacon, cheese",Hawaiian Pizza,Papa Nick's,0,25,OH,82,82,82
+632,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Mexican Pizza,Papa Nick's,0,25,OH,82,82,82
+633,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB","Chicken, salsa cheddar, provolone, black olives, jalapenos, sour cream",Southwestern Pizza,Papa Nick's,0,25,OH,82,82,82
+634,AVwc3EXokufWRAb5zyFG,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Bbq Chicken Pizza,Papa Nick's,0,25,OH,82,82,82
+635,AVwdPK3bkufWRAb53wLj,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB","Thinly sliced corn beef, sauerkraut, provolone swiss mix with just the right amount of mustard.",Reuben Pizza,Geppetto's,0,25,OH,82,82,82
+636,AVwdPK3bkufWRAb53wLj,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Buffalo Chicken Pizza,Geppetto's,0,25,OH,82,82,82
+637,AVwd-gAs_7pvs4fz-8Gz,Pizza Place,Accommodation & Food Services,Bowling Green,RU,"USD,RUB",,Popeye Pizza,Pisanellos,0,25,OH,82,82,82
+638,AVwd-gAs_7pvs4fz-8Gz,Pizza Place,Accommodation & Food Services,Bowling Green,RU,"USD,RUB","Mozzarella, tomato, red onions, black olives, green peppers, feta",Greek Pizza,Pisanellos,0,25,OH,82,82,82
+639,AVwd-gAs_7pvs4fz-8Gz,Pizza Place,Accommodation & Food Services,Bowling Green,RU,"USD,RUB","Pepperoni, sausage, mozz, cheese, special pizza sauce",Pizza Sub,Pisanellos,0,25,OH,82,82,82
+640,AVwd-gAs_7pvs4fz-8Gz,Pizza Place,Accommodation & Food Services,Bowling Green,RU,"USD,RUB",With mozzarella cheese,Stuffed Crust Pizza,Pisanellos,0,25,OH,82,82,82
+641,AVwddoH3ByjofQCxpX10,Pizza Place,Accommodation & Food Services,Pataskala,RU,"USD,RUB",,Joe's Bbq Chicken Pizza,Capuano's Pizza,0,25,OH,82,82,82
+642,AVwddoH3ByjofQCxpX10,Pizza Place,Accommodation & Food Services,Pataskala,RU,"USD,RUB",,Lana's Cinnamon Dessert Pizza,Capuano's Pizza,0,25,OH,82,82,82
+643,AVwddoH3ByjofQCxpX10,Pizza Place,Accommodation & Food Services,Pataskala,RU,"USD,RUB",,Pizza with 6 Toppings,Capuano's Pizza,0,25,OH,82,82,82
+644,AVwddoH3ByjofQCxpX10,Pizza Place,Accommodation & Food Services,Pataskala,RU,"USD,RUB",,Pizza with 4 Toppings,Capuano's Pizza,0,25,OH,82,82,82
+645,AVwddoH3ByjofQCxpX10,Pizza Place,Accommodation & Food Services,Pataskala,RU,"USD,RUB",,Roma Tomato & Sweet Basil Pizza,Capuano's Pizza,0,25,OH,82,82,82
+646,AVwdNbmS_7pvs4fz3bpT,Pizza Place,Accommodation & Food Services,Akron,RU,"USD,RUB",,Party Pizza,Gionino's Pizzera,0,25,OH,82,82,82
+647,AVwdNbmS_7pvs4fz3bpT,Pizza Place,Accommodation & Food Services,Akron,RU,"USD,RUB","Fresh sliced tomatoes, spinach, roasted red peppers, mushrooms and green peppers",Garden Pizza,Gionino's Pizzera,0,25,OH,82,82,82
+648,AVweeHAgIN2L1WUf5Ojk,Pizza Place,Accommodation & Food Services,Waynesville,RU,"USD,RUB",,Pizza Sizes and Toppings,Bentino's Pizza,0,25,OH,82,82,82
+649,AVweeHAgIN2L1WUf5Ojk,Pizza Place,Accommodation & Food Services,Waynesville,RU,"USD,RUB",,Pizza Sizes and Toppings,Bentino's Pizza,0,25,OH,82,82,82
+650,AVwck_7oIN2L1WUfmiYH,"Pizza,Restaurants,Pizza Place",Accommodation & Food Services,Middletown,RU,"USD,RUB",,Miami Pizza,Bruno's Pizza,0,25,OH,82,82,82
+651,AVwdsfoRIN2L1WUfyWsU,"Italian Restaurant,Pizza Place,Pizza Place and Italian Restaurant,Pizza Place and Italian Restaurant Downtown Cleveland",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Sheet Cheese Pizza,Sainato's Restaurant,25,40,OH,82,82,82

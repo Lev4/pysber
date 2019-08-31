@@ -1,0 +1,4 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9943,AVwdkfhhkufWRAb57L-c,Pizza Place,Accommodation & Food Services,Rapid City,RU,"USD,RUB,BTC",,"8"" Pizza",Piesanos Pacchia,0,25,SD,2,2,2
+9944,AVwc3zp4_7pvs4fzz3Es,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sioux Falls,RU,"USD,RUB,BTC",,Kids Pizza Or Pasta (for Kids 10 & Under),Red Rossa Napoli Pizza,25,40,SD,2,2,2
+9945,AVwc3zp4_7pvs4fzz3Es,"Pizza,Restaurant,Pizza Place,Restaurants",Accommodation & Food Services,Sioux Falls,RU,"USD,RUB,BTC",For kids 10 ampamp under Kids cheese and 1 topping pizza or kids mac nampapos cheese pasta,Kids Pizza,Red Rossa Napoli Pizza,25,40,SD,2,2,2

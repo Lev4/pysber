@@ -1,0 +1,3 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9989,AWEXPR20IxWefVJwxpTv,Pizza Place,Accommodation & Food Services,Kaneohe,RU,"USD,RUB,BTC",,Pizza Bread,Brick Oven Pizza,0,25,HI,1,1,1
+9990,AWEXPR20IxWefVJwxpTv,Pizza Place,Accommodation & Food Services,Kaneohe,RU,"USD,RUB,BTC",,Seafood Style Pizza Bread,Brick Oven Pizza,0,25,HI,1,1,1

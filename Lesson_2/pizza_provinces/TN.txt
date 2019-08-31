@@ -1,0 +1,67 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+8570,AVwdF2u7IN2L1WUfsHlX,Pizza Place,Accommodation & Food Services,Chattanooga,RU,"USD,RUB",,Greek Feta Pizza,Pronis,0,25,TN,25,25,25
+8571,AVwdzWxrByjofQCxsooF,"Pizza,Restaurant,American restaurants,Pizza Place,Restaurants",Accommodation & Food Services,Nashville,RU,"USD,RUB",American thin.,Regular Crust Pizza,Obies Pizza,0,25,TN,25,25,25
+8572,AV0ZtxLy3D1zeR_xEG0A,Pizza Place,Accommodation & Food Services,Brentwood,RU,"USD,RUB",,S'mores Pizza,Papa Murphys Pizza,0,25,TN,25,25,25
+8573,AV0ZtxLy3D1zeR_xEG0A,Pizza Place,Accommodation & Food Services,Brentwood,RU,"USD,RUB",,Medium Garden Veggie Gluten Free Crust Pizza,Papa Murphys Pizza,0,25,TN,25,25,25
+8574,AVwc42PwByjofQCxjR2q,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pizza Pie,Lupis Pizza,0,25,TN,25,25,25
+8575,AVwc42PwByjofQCxjR2q,Pizza Place,Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Pizza Pie,Lupis Pizza,0,25,TN,25,25,25
+8576,AV1iHxwEa4HuVbed7o6h,Pizza Place,Accommodation & Food Services,Memphis,RU,"USD,RUB",,Pineapple Express Dessert Pizza,Lost Pizza Co Memphis TN,25,40,TN,25,25,25
+8577,AV1iHxwEa4HuVbed7o6h,Pizza Place,Accommodation & Food Services,Memphis,RU,"USD,RUB",,Kid's Pizza,Lost Pizza Co Memphis TN,25,40,TN,25,25,25
+8578,AV1iHxwEa4HuVbed7o6h,Pizza Place,Accommodation & Food Services,Memphis,RU,"USD,RUB",,Lost Pizza Sub,Lost Pizza Co Memphis TN,25,40,TN,25,25,25
+8579,AVwcv-lE_7pvs4fzyjgD,"Wings Joint,Pizza Place",Accommodation & Food Services,Franklin,RU,"USD,RUB",An over sized slice of our award winning cheese pizza.,Pizza By The Slice,Mineos Wings Pizza Raw Bar,0,25,TN,25,25,25
+8580,AVwc5Ova_7pvs4fz0GWq,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Cheese Pizza,Gabriels,0,25,TN,25,25,25
+8581,AVwc5Ova_7pvs4fz0GWq,"Italian Restaurant,Pizza Place and Italian Restaurant,Pizza Place",Accommodation & Food Services,Cleveland,RU,"USD,RUB",,Cheese Pizza,Gabriels,0,25,TN,25,25,25
+8582,AVwc4zzMkufWRAb50FA7,"Pizza,Restaurant,Italian,Pizza Place,Restaurants",Accommodation & Food Services,Knoxville,RU,"USD,RUB",Sliced pepperoni with mozzarella and tomato sauce 10ampquot pizza topped with grande whole milk mozzarella cheese,Pepperoni Pizza,Brixx Wood Fired Pizza,25,40,TN,25,25,25
+8583,AVwc4zzMkufWRAb50FA7,"Pizza,Restaurant,Italian,Pizza Place,Restaurants",Accommodation & Food Services,Knoxville,RU,"USD,RUB",Woodroasted shiitake portobello and button mushrooms mozzarella topped with fresh arugula and shaved Parmesan 10ampquot pizza topped with grande whole milk mozzarella cheese,Wild Mushroom Pizza,Brixx Wood Fired Pizza,25,40,TN,25,25,25
+8584,AVwc4zzMkufWRAb50FA7,"Pizza,Restaurant,Italian,Pizza Place,Restaurants",Accommodation & Food Services,Knoxville,RU,"USD,RUB",Sliced pepperoni with mushrooms mozzarella and tomato sauce 10ampquot pizza topped with grande whole milk mozzarella cheese,Americo Pizza,Brixx Wood Fired Pizza,25,40,TN,25,25,25
+8585,AVwdPrMOByjofQCxnDjJ,Pizza Place,Accommodation & Food Services,Lebanon,RU,"USD,RUB","Garlic white sauce, cheese blend (mozzarella and cheddar) , spinach, red onion, mushroom, black olive, roasted garlic, canadian style bacon, italian sausage, cooked tomatoes, shredded parmesan, and olives oil",Sicilian Pizza,Pizza Inn,0,25,TN,25,25,25
+8586,AVwdcoe4IN2L1WUfv7Am,"Italian Restaurant,Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Hermitage,RU,"USD,RUB",,Old School Gondola Special Pizza (Small),Gondola House,25,40,TN,25,25,25
+8587,AVwdcoe4IN2L1WUfv7Am,"Italian Restaurant,Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Hermitage,RU,"USD,RUB",,Cheese Pizza (Small),Gondola House,25,40,TN,25,25,25
+8588,AVwej3JGIN2L1WUf6F54,Pizza Place,Accommodation & Food Services,Knoxville,RU,"USD,RUB",,Large Cheese Pizza,Davincis Pizzeria,0,25,TN,25,25,25
+8589,AVwej4TLIN2L1WUf6GGP,"Restaurant,Pizza Place",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Specialty Pizzas,Pizza Perfect,0,25,TN,25,25,25
+8590,AVwej4TLIN2L1WUf6GGP,"Restaurant,Pizza Place",Accommodation & Food Services,Nashville,RU,"USD,RUB",12ampquot medampcomma 14ampquot lgampcomma 14ampquot xlg toppings 095ampcomma 125ampcomma 150ampcomma premium toppings 145ampcomma 200ampcomma 225ampcomma wheat 12ampquot med 125ampcomma16ampquot xlg 175,Cheese Pizza,Pizza Perfect,0,25,TN,25,25,25
+8591,AVwej4TLIN2L1WUf6GGP,"Restaurant,Pizza Place",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Deluxe Pizzas,Pizza Perfect,0,25,TN,25,25,25
+8592,AVwc80j6kufWRAb50vda,"Restaurant,Pizza Place,Pizza Place Downtown Chattanooga",Accommodation & Food Services,Chattanooga,RU,"USD,RUB","Hand tossed homemade dough covered with our own red sauce, topped with fresh mozzarella cheese and baked right on the brick",Pizza Pie,Lupi's,0,25,TN,25,25,25
+8593,AVwc80j6kufWRAb50vda,"Restaurant,Pizza Place,Pizza Place Downtown Chattanooga",Accommodation & Food Services,Chattanooga,RU,"USD,RUB",hand tossed homemade dough covered with our own red sauceampcomma topped with fresh mozzarella cheese and baked right on the brick,Pizza Pie,Lupi's,0,25,TN,25,25,25
+8594,AVzBEWzE-gnIPe8DSjDM,"Restaurant,Pizza Place",Accommodation & Food Services,Knoxville,RU,"USD,RUB",Hotampcomma Hotter ampamp 10 or BBQ Snappoli 499,Large 1 Topping Pizza,Snappy Tomato Pizza,0,25,TN,25,25,25
+8595,AVzBEWzE-gnIPe8DSjDM,"Restaurant,Pizza Place",Accommodation & Food Services,Knoxville,RU,"USD,RUB",Allbeef patty topped wtih pepperoni banana popperacheese and coverd with bnappy sauce,PIZZA STEAK,Snappy Tomato Pizza,0,25,TN,25,25,25
+8596,AVzBEWzE-gnIPe8DSjDM,"Restaurant,Pizza Place",Accommodation & Food Services,Knoxville,RU,"USD,RUB",All you can eat plzza pasta aalad snappy flatbread ampamp more,SNAPPY PIZZA BUFFET,Snappy Tomato Pizza,0,25,TN,25,25,25
+8597,AVzA-5Vv3D1zeR_xBDQS,Pizza Place,Accommodation & Food Services,Franklin,RU,"USD,RUB",,Classic Cheese Pizza,Brooklyn Brother's Pizza,0,25,TN,25,25,25
+8598,AVzA-5Vv3D1zeR_xBDQS,Pizza Place,Accommodation & Food Services,Franklin,RU,"USD,RUB",,Chocolate Chip Cookie Pizza,Brooklyn Brother's Pizza,0,25,TN,25,25,25
+8599,AVwdl5cOkufWRAb57Zz6,"Restaurant,Pizza Place",Accommodation & Food Services,Nashville,RU,"USD,RUB",,White Pizza,Sir Pizza,0,25,TN,25,25,25
+8600,AVwdZTs9IN2L1WUfvXvV,Pizza Place,Accommodation & Food Services,Gatlinburg,RU,"USD,RUB",,Cheese Pizza (Red Or White),Ogle's Brick Oven Pizza,0,25,TN,25,25,25
+8601,AVwdZTs9IN2L1WUfvXvV,Pizza Place,Accommodation & Food Services,Gatlinburg,RU,"USD,RUB",,Cheese Pizza (red or White),Ogle's Brick Oven Pizza,0,25,TN,25,25,25
+8602,AVwdeFLg_7pvs4fz6N3A,Pizza Place,Accommodation & Food Services,Ooltewah,RU,"USD,RUB",,Pizza By the Slice,Rosselli's Pizza,0,25,TN,25,25,25
+8603,AVwdnJmAIN2L1WUfxiRf,"Pizza,Pizza Place",Accommodation & Food Services,Knoxville,RU,"USD,RUB",,"Buffalo Chicken Pizza, 16''",Sergeant Pepperoni's,0,25,TN,25,25,25
+8604,AVwdOT6gByjofQCxm0He,Pizza Place,Accommodation & Food Services,Chattanooga,RU,"USD,RUB",,Pizza Chocolate,Crust Pizza,25,40,TN,25,25,25
+8605,AVwdOT6gByjofQCxm0He,Pizza Place,Accommodation & Food Services,Chattanooga,RU,"USD,RUB","Impossibly good, decadent twist on smokes",Pizza Chocolate,Crust Pizza,25,40,TN,25,25,25
+8606,AVwcsAj3kufWRAb5x8pf,"Italian Restaurant,Pizza Place,Italian Restaurant and Pizza Place",Accommodation & Food Services,Jefferson City,RU,"USD,RUB",Pizza Sauce and Mozzarella Cheese. Classic Cheese or Create Your Own Pizza.,Individual Cheese Pizza,Gondolier Italian Restaurant & Pizza,0,25,TN,25,25,25
+8607,AVweCRYBkufWRAb5_bjs,Pizza Place,Accommodation & Food Services,Clarksville,RU,"USD,RUB",,Add to Large Pizzas,Papa John's Pizza,0,25,TN,25,25,25
+8608,AVweCRYBkufWRAb5_bjs,Pizza Place,Accommodation & Food Services,Clarksville,RU,"USD,RUB",Three medium three topping pizzas,Medium Pizza Offers,Papa John's Pizza,0,25,TN,25,25,25
+8609,AVweCRYBkufWRAb5_bjs,Pizza Place,Accommodation & Food Services,Clarksville,RU,"USD,RUB",,Any Large Pizza,Papa John's Pizza,0,25,TN,25,25,25
+8610,AVweCRYBkufWRAb5_bjs,Pizza Place,Accommodation & Food Services,Clarksville,RU,"USD,RUB","With up to 5 toppings, including specialties",Any Large Pizza,Papa John's Pizza,0,25,TN,25,25,25
+8611,AVwclY8YIN2L1WUfmnC-,"Pizza Place,Restaurants,Restaurant",Accommodation & Food Services,Goodlettsville,RU,"USD,RUB",10 Inch,Cheese Pizza,Painturo's,0,25,TN,25,25,25
+8612,AVwclY8YIN2L1WUfmnC-,"Pizza Place,Restaurants,Restaurant",Accommodation & Food Services,Goodlettsville,RU,"USD,RUB",,"Put a ""Lid"" On It! Stuff Any Pizza",Painturo's,0,25,TN,25,25,25
+8613,AVwclY8YIN2L1WUfmnC-,"Pizza Place,Restaurants,Restaurant",Accommodation & Food Services,Goodlettsville,RU,"USD,RUB",,Cheese Pizza,Painturo's,0,25,TN,25,25,25
+8614,AVwclY8YIN2L1WUfmnC-,"Pizza Place,Restaurants,Restaurant",Accommodation & Food Services,Goodlettsville,RU,"USD,RUB",,Sunbelt Vegetable Pizza,Painturo's,0,25,TN,25,25,25
+8615,AVwclY8YIN2L1WUfmnC-,"Pizza Place,Restaurants,Restaurant",Accommodation & Food Services,Goodlettsville,RU,"USD,RUB",,Sunbelt Vegetable Pizza,Painturo's,0,25,TN,25,25,25
+8616,AVwci_unIN2L1WUfmKON,"Pizza Place,Pizza,Italian Restaurants,Restaurants",Accommodation & Food Services,La Vergne,RU,"USD,RUB",,White Pizza,Sir Pizza,0,25,TN,25,25,25
+8617,AVwci_unIN2L1WUfmKON,"Pizza Place,Pizza,Italian Restaurants,Restaurants",Accommodation & Food Services,La Vergne,RU,"USD,RUB","Provolone cheese, garlic, olive oil, sliced tomatoes (may substitute another topping)",White Pizza,Sir Pizza,0,25,TN,25,25,25
+8618,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB","All white grilled chicken, onion topped over barbeque sauce",B.b.q. Chicken Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8619,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB","Grilled chicken, green peppers, onion, tomato topped over ranch style sauce",Chicken Ranch Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8620,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Margarita Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8621,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Hawaiian Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8622,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Mexican Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8623,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Grilled Or Fried Chicken Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8624,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Greek Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8625,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Philly Cheese Steak Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8626,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,White Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8627,AVwdP-jDByjofQCxnHE6,"Pizza Place,Restaurants,Italian Restaurants,Pizza,Restaurant",Accommodation & Food Services,Nashville,RU,"USD,RUB",,Veggie Pizza,Sicilian Pizza & Pasta,0,25,TN,25,25,25
+8628,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,6 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8629,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,8 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8630,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,3 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8631,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,1 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8632,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,9 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8633,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,3 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8634,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,1 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25
+8635,AVwcgSW6IN2L1WUflqiL,Pizza Place,Accommodation & Food Services,Elizabethton,RU,"USD,RUB",,4 Topping Pizza,Greg's Pizza - Elizabethton,0,25,TN,25,25,25

@@ -1,0 +1,3 @@
+,id,categories,primaryCategories,city,country,menus.currency,menus.description,menus.name,name,priceRangeMin,priceRangeMax,province,quantity_x,quantity_y,quantity
+9998,AV3rYftRa4HuVbed_Do7,"Pizza Place,Restaurants",Accommodation & Food Services,Missoula,RU,"USD,RUB,BTC",,Medium Pizza Offers,Papa John's Pizza,0,25,MT,1,1,1
+9999,AV3rYftRa4HuVbed_Do7,"Pizza Place,Restaurants",Accommodation & Food Services,Missoula,RU,"USD,RUB,BTC",,Add to Large Pizzas,Papa John's Pizza,0,25,MT,1,1,1
