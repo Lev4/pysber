@@ -12,6 +12,7 @@ def get_data():
     x = int(x)
     y = int(y)
     
+    return x, y
 
 def area_calc(a,b):
     area = a * b
