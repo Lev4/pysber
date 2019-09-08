@@ -5,7 +5,6 @@ Spyder Editor
 This is a temporary script file.
 """
 
-
 def print_boo():
     print('BooBooBoo1')
     print('BooBooBoo2')
